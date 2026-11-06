@@ -1,0 +1,6274 @@
+[
+{
+"s": 26.147,
+"e": 30.927,
+"text": "Assalamualaikum warahmatullahi wabarakatuh dan salam sejahtera.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 30.967,
+"e": 34.687,
+"text": "Yang kami hormati, pensyarah kursus Sintaksis Bahasa Melayu,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+null
+]
+},
+{
+"s": 34.727,
+"e": 38.887,
+"text": "Dr. Siti Dahlia binti Abdullah, serta rakan-rakan sekalian.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 38.927,
+"e": 42.947,
+"text": "Terlebih dahulu, kami ingin merakamkan setinggi-tinggi penghargaan dan jutaan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 42.987,
+"e": 44.287,
+"text": "terima kasih kepada Dr.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 44.327,
+"e": 49.547,
+"text": "Siti atas bimbingan, tunjuk ajar dan teguran yang membina sepanjang kursus",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 49.587,
+"e": 53.087,
+"text": "ini. Melalui tugasan PB1, Dr.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 53.127,
+"e": 58.407,
+"text": "telah membimbing kami menganalisis binaan frasa, binaan klausa dan proses",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+null
+]
+},
+{
+"s": 58.447,
+"e": 63.127,
+"text": "transformasi ayat, iaitu pengguguran, penyusunan semula dan perluasan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 63.167,
+"e": 67.327,
+"text": "Ilmu itulah yang menjadi asas kepada tugasan PB2 ini.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 67.367,
+"e": 71.887,
+"text": "Tanpa pemahaman bahawa setiap ayat mesti mempunyai subjek dan predikat,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 71.927,
+"e": 75.217,
+"text": "dan bahawa klausa terikat tidak dapat berdiri sendiri,",
+"tags": [
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 75.367,
+"e": 79.607,
+"text": "kami tidak mungkin dapat mengenal pasti kesalahan ayat yang berlaku di",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 79.647,
+"e": 80.987,
+"text": "sekeliling kami setiap hari.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 81.027,
+"e": 86.327,
+"text": "Kami juga ingin berterima kasih kepada rakan-rakan sekelas yang sudi mencuba",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 86.367,
+"e": 91.337,
+"text": "dan memberikan pandangan semasa kami membina dunia permainan ini.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 91.637,
+"e": 96.487,
+"text": "Saya, Mohamad Aliff bin Ahmad Shahabuddin bersama rakan saya",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 103.527,
+"e": 108.827,
+"text": "Pada hari ni, kami akan membentakan isu keracauan bahasa dalam aspek sintaksi",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 108.867,
+"e": 111.187,
+"text": "iaitu kesalahan pada peringkat ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 111.227,
+"e": 114.007,
+"text": "Pembentangan kami terbahagi kepada 6 bahagian.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 114.047,
+"e": 117.747,
+"text": "yang pertama, pengetahuan isu dan sebab isu ini dipilih.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 117.787,
+"e": 122.847,
+"text": "Yang kedua, 3 jenis kesalahan ayat yang kami pilih bersatu contoh daripada",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 122.887,
+"e": 124.777,
+"text": "media sosial dan kesannya.",
+"tags": [
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 124.987,
+"e": 128.987,
+"text": "Seterusnya, cadangan penambahan baikan melalui dunia Minecraft Education yang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null
+]
+},
+{
+"s": 129.027,
+"e": 131.487,
+"text": "kami namakan misi penyelamat ayat.",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 131.527,
+"e": 136.847,
+"text": "Selain itu, demonstrasi cara bermain, tambahan pula, cadangan penambahan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 136.887,
+"e": 141.057,
+"text": "baikan lain dan akhir sekali harapan serta penutup.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 143.227,
+"e": 146.097,
+"text": "Apakah ini maksudkan dengan kerancuan bahasa?",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 146.347,
+"e": 150.267,
+"text": "Menurut Kamus Dewan, perkataan \"rancu\" membawa maksud kacau,",
+"tags": [
+null,
+"B",
+"B",
+null,
+null,
+null,
+null,
+"Y"
+]
+},
+{
+"s": 150.307,
+"e": 152.667,
+"text": "tidak teratur atau campur aduk.",
+"tags": [
+"Y",
+"Y",
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 152.707,
+"e": 157.487,
+"text": "Oleh itu, kerancuan bahasa ialah penggunaan bahasa yang kacau dan tidak",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 157.527,
+"e": 162.007,
+"text": "teratur sehingga menyalahi peraturan tatabahasa bahasa Melayu.",
+"tags": [
+"Y",
+null,
+"Y",
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 162.047,
+"e": 166.947,
+"text": "Kerancuan bahasa boleh berlaku dalam pelbagai aspek, misalnya ejaan,",
+"tags": [
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 166.987,
+"e": 170.507,
+"text": "sebutan, pembentukan kata dan susunan ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 170.547,
+"e": 174.827,
+"text": "Dalam pembentangan ini, kami memberikan tumpuan kepada kerancuan dalam aspek",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 174.867,
+"e": 179.447,
+"text": "sintaksis. Seperti yang telah kami bincangkan dalam PB1,",
+"tags": [
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 179.487,
+"e": 184.847,
+"text": "sintaksis ialah bidang tatabahasa yang mengkaji cara perkataan disusun untuk",
+"tags": [
+"B",
+null,
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 184.887,
+"e": 190.707,
+"text": "membentuk frasa, klausa dan ayat menurut (Nik Safiah Karim et al.,",
+"tags": [
+null,
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 190.747,
+"e": 192.257,
+"text": "2024).",
+"tags": [
+null
+]
+},
+{
+"s": 192.707,
+"e": 196.067,
+"text": "Ayat yang gramatis mestilah mempunyai dua unsur utama,",
+"tags": [
+null,
+null,
+"B",
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 196.107,
+"e": 198.467,
+"text": "iaitu subjek dan predikat.",
+"tags": [
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 198.507,
+"e": 202.927,
+"text": "Subjek ialah unsur yang diterangkan, manakala predikat ialah unsur yang",
+"tags": [
+"B",
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+null,
+null
+]
+},
+{
+"s": 202.967,
+"e": 204.347,
+"text": "menerangkan subjek.",
+"tags": [
+null,
+"B"
+]
+},
+{
+"s": 204.387,
+"e": 209.407,
+"text": "Contohnya, dalam ayat \"Murid membaca buku\", \"murid\" ialah subjek,",
+"tags": [
+null,
+null,
+null,
+"G",
+"G",
+"G",
+null,
+null,
+"B"
+]
+},
+{
+"s": 209.447,
+"e": 212.197,
+"text": "manakala \"membaca buku\" ialah predikat.",
+"tags": [
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 212.247,
+"e": 216.287,
+"text": "Kerancuan sintaksis berlaku apabila hubungan subjek dan predikat ini",
+"tags": [
+null,
+"B",
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+null
+]
+},
+{
+"s": 216.327,
+"e": 220.617,
+"text": "terganggu. Gangguan itu boleh berlaku dalam beberapa keadaan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 221.107,
+"e": 225.347,
+"text": "Ada kalanya subjek hilang kerana ditenggelami oleh kata sendi nama di hadapan",
+"tags": [
+null,
+null,
+"B",
+null,
+null,
+null,
+null,
+"B",
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 225.387,
+"e": 230.067,
+"text": "ayat. Ada kalanya predikat tidak wujud, sehingga ayat itu hanya terdiri",
+"tags": [
+null,
+null,
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 230.107,
+"e": 232.417,
+"text": "daripada satu frasa nama yang panjang.",
+"tags": [
+null,
+null,
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 232.907,
+"e": 238.867,
+"text": "Ada kalanya pula klausa terikat dibiarkan berdiri sendiri tanpa klausa utama.",
+"tags": [
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 238.907,
+"e": 244.547,
+"text": "Selain itu, sudut ayat juga menjadi rancu apabila unsur bahasa asing mengambil",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 244.587,
+"e": 250.807,
+"text": "alih fungsi kata kerja, kata hubung dan kata adjektif",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null
+]
+},
+{
+"s": 250.847,
+"e": 252.477,
+"text": "dalam ayat bahasa Melayu.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 252.727,
+"e": 257.607,
+"text": "Kami ingin menegaskan bahawa fokus kami bukan kesalahan kata secara terpencil,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 257.647,
+"e": 260.417,
+"text": "seperti salah ejaan satu perkataan.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 260.747,
+"e": 265.197,
+"text": "Fokus kami ialah kesalahan yang menjejaskan binaan ayat secara keseluruhan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 265.567,
+"e": 269.987,
+"text": "Kesalahan seperti ini lebih sukar dikesan kerana ayatnya kelihatan biasa,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 270.027,
+"e": 273.117,
+"text": "malah sudah sebati dengan pertuturan harian kita.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 273.347,
+"e": 277.987,
+"text": "Dalam pertuturan, kita dibantu oleh konteks, nada suara dan gerak badan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 278.027,
+"e": 282.107,
+"text": "Namun, dalam penulisan, pembaca hanya bergantung pada susunan ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 282.147,
+"e": 287.397,
+"text": "Oleh sebab itu, ayat rancu dalam tulisan lebih mudah menimbulkan kekeliruan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 289.947,
+"e": 293.937,
+"text": "Persoalannya, di manakah isu ini paling jelas berlaku?",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 294.387,
+"e": 297.587,
+"text": "Jawapannya ialah di media sosial.",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 297.627,
+"e": 301.777,
+"text": "Kami telah meneliti 3 platform yang paling popular,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 302.147,
+"e": 303.677,
+"text": "iaitu TikTok,",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 304.207,
+"e": 306.957,
+"text": "Threads dan juga YouTube.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 307.507,
+"e": 312.807,
+"text": "Kerancuan ayat dapat dilihat dengan jelas dalam kapsyen jualan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 312.847,
+"e": 317.037,
+"text": "tajuk video, hantaran dan juga ruangan komen.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 317.493,
+"e": 320.863,
+"text": "Contohnya, dalam kapsyen jualan di TikTok,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 321.233,
+"e": 326.393,
+"text": "kita sering membaca ayat seperti \"Kepada yang berminat boleh maklumkan di",
+"tags": [
+null,
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 326.433,
+"e": 332.213,
+"text": "ruangan komen.\" Dalam tajuk video makanan pula, terdapat ayat seperti \"Kedai",
+"tags": [
+"G",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"R",
+"R"
+]
+},
+{
+"s": 332.253,
+"e": 334.783,
+"text": "malatang yang paling sedap kat KL.\"",
+"tags": [
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 335.493,
+"e": 340.453,
+"text": "Di YouTube dan Threads, ayat seperti \"Harini team kami nak share cara buat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 340.493,
+"e": 347.133,
+"text": "kek\" Dan \"Overall best gila, wajib try guys!\"",
+"tags": [
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 347.693,
+"e": 349.593,
+"text": "sudah menjadi perkara biasa.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 349.633,
+"e": 355.393,
+"text": "Ayat-ayat ini ditulis oleh pengguna dewasa, peniaga dan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 355.433,
+"e": 356.963,
+"text": "pencipta kandungan,",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 357.573,
+"e": 361.923,
+"text": "tetapi dibaca setiap hari oleh jutaan pengguna,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 362.533,
+"e": 365.203,
+"text": "termasuklah kanak-kanak.",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 365.513,
+"e": 368.983,
+"text": "Kami memilih isu ini atas empat sebab.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 369.033,
+"e": 370.383,
+"text": "Sebab yang pertama,",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 370.753,
+"e": 373.303,
+"text": "isu ini paling hampir dengan murid.",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 373.633,
+"e": 377.613,
+"text": "Murid sekolah rendah hari ini membesar dengan TikTok dan YouTube.",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 377.653,
+"e": 383.413,
+"text": "Bahasa yang mereka baca dan dengar setiap hari akan mereka tiru dalam",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 383.453,
+"e": 386.003,
+"text": "pertuturan dan penulisan.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 386.113,
+"e": 387.763,
+"text": "Sebab yang kedua,",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 388.943,
+"e": 394.873,
+"text": "kesalahan ini sudah dianggap moment.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 395.523,
+"e": 401.103,
+"text": "Ramai pengguna tidak lagi menyedari bahawa ayat-ayat itu salah,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 401.143,
+"e": 405.043,
+"text": "maka kesalahan itu terus berulang dan tersebar.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 405.083,
+"e": 410.373,
+"text": "Sebab yang ketiga, isu ini berkait secara langsung dengan kursus Sintaksis",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 410.843,
+"e": 417.353,
+"text": "kerana melibatkan unsur subjek, predikat, klausa bebas dan klausa terikat.",
+"tags": [
+null,
+null,
+null,
+"B",
+"B",
+"B",
+"B",
+null,
+"B",
+"B"
+]
+},
+{
+"s": 417.463,
+"e": 422.643,
+"text": "Kajian juga mendapati bahawa kesalahan struktur ayat manseh lagi lazim dalam",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 422.683,
+"e": 424.373,
+"text": "penulisan murid",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 424.843,
+"e": 430.473,
+"text": "menurut Chongfeng Peng & Vanithmalar Jayabalan, 2026).",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 430.683,
+"e": 435.343,
+"text": "Sebab yang keempat, sebagai bakal guru bahasa Melayu,",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 435.383,
+"e": 439.323,
+"text": "kami bertanggungjawab untuk tidak sekadar mengkritik,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 439.363,
+"e": 445.763,
+"text": "tetapi menyediakan jalan penyelesaian yang sesuai dengan dunia murid.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 445.803,
+"e": 448.693,
+"text": "Daripada bukti yang kami kumpulkan,",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 449.143,
+"e": 453.043,
+"text": "kami memilih tiga jenis kesalahan ayat yang paling kerap ditemui,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 453.083,
+"e": 459.323,
+"text": "iaitu ayat tanpa subjek, ayat tidak lengkap dan juga bahasa rojak dalam binaan",
+"tags": [
+null,
+"Y",
+"Y",
+"Y",
+"Y",
+"Y",
+"Y",
+null,
+null,
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 459.363,
+"e": 460.293,
+"text": "ayat.",
+"tags": [
+null
+]
+},
+{
+"s": 460.807,
+"e": 466.447,
+"text": "Ketiga-tiga jenis ini akan diterangkan oleh rakan saya iaitu Muhammad Aliff,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 466.487,
+"e": 468.757,
+"text": "dan juga Amin Najmi.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 471.133,
+"e": 472.723,
+"text": "Terima kasih, Iman Irfan.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 473.073,
+"e": 476.893,
+"text": "Jenis kesalahan pertama ialah ayat tanpa subjek.",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 476.933,
+"e": 478.953,
+"text": "Kesalahan ini berlaku dalam dua keadaan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 478.993,
+"e": 484.473,
+"text": "Keadaan pertama, ayat dimulakan dengan kata sendi nama seperti \"kepada\",",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B",
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 484.513,
+"e": 489.193,
+"text": "\"bagi\", \"untuk\", \"dalam\", \"di\", \"daripada\" dan \"menurut\",",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 489.233,
+"e": 492.283,
+"text": "atau frasa seperti \"dengan adanya\".",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 492.713,
+"e": 496.553,
+"text": "Apabila kata sendi nama diletakkan di hadapan frasa nama,",
+"tags": [
+null,
+"B",
+"B",
+"B",
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 496.593,
+"e": 501.953,
+"text": "frasa itu berubah menjadi frasa sendi nama yang berfungsi sebagai keterangan,",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+"B",
+"B",
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 501.993,
+"e": 504.683,
+"text": "bukan lagi sebagai subjek.",
+"tags": [
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 504.753,
+"e": 508.333,
+"text": "Akibatnya, predikat ayat itu tidak mempunyai subjek.",
+"tags": [
+null,
+"B",
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 508.373,
+"e": 514.453,
+"text": "Keadaan kedua, subjek digugurkan terus, terutamanya kata ganti",
+"tags": [
+null,
+null,
+"B",
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 514.493,
+"e": 520.653,
+"text": "nama seperti \"saya\", \"anda\" atau \"kami\", kerana penulis menganggap pembaca",
+"tags": [
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 520.693,
+"e": 521.663,
+"text": "sudah faham.",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 522.093,
+"e": 526.933,
+"text": "Baiklah, Mari kita lihat contoh yang kami temui di media sosial.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 526.973,
+"e": 529.663,
+"text": "Di dalam platform TikTok, kapsyen jualan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 530.193,
+"e": 535.553,
+"text": "ayat yang selalu digunakan ialah, \"Kepada yang berminat boleh maklumkan di",
+"tags": [
+null,
+null,
+null,
+null,
+"R",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 535.593,
+"e": 542.063,
+"text": "ruangan komen.\" Dalam ayat ini, \"kepada yang berminat\" ialah frasa sendi nama.",
+"tags": [
+"G",
+"G",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+"B",
+"B"
+]
+},
+{
+"s": 542.273,
+"e": 544.863,
+"text": "Jadi, siapakah yang \"boleh maklumkan\"?",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 545.213,
+"e": 547.293,
+"text": "Ayat ini tidak mempunyai subjek.",
+"tags": [
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 547.333,
+"e": 552.633,
+"text": "Ayat yang betul ialah \"Mereka yang berminat boleh memaklumkan di ruangan",
+"tags": [
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 552.673,
+"e": 558.513,
+"text": "komen.\" Kata sendi nama \"kepada\" digugurkan dan frasa nama \"mereka yang",
+"tags": [
+"R",
+"B",
+"B",
+"B",
+null,
+null,
+null,
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 558.553,
+"e": 560.963,
+"text": "berminat\" menjadi subjek.",
+"tags": [
+null,
+null,
+"B"
+]
+},
+{
+"s": 561.867,
+"e": 565.957,
+"text": "Contoh yang kedua, kalau berminat, boleh wasap ya?",
+"tags": [
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 566.447,
+"e": 569.027,
+"text": "Ayat ini terdiri daripada dua klausa.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 569.067,
+"e": 572.317,
+"text": "Tetapi kedua-duanya tidak mempunyai subjek.",
+"tags": [
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 572.647,
+"e": 577.527,
+"text": "Siapakah yang berminat dan siapakah yang boleh menghubungi Ayat yang betul,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"G"
+]
+},
+{
+"s": 577.567,
+"e": 581.407,
+"text": "jika anda berminat, anda boleh menghubungi kami.",
+"tags": [
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 581.447,
+"e": 585.637,
+"text": "Subjek anda ditambah dalam kedua-dua klausa.",
+"tags": [
+"B",
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 586.56,
+"e": 589.01,
+"text": "Contoh yang ketiga dan keempat.",
+"tags": [
+null,
+null,
+null,
+null,
+"R"
+]
+},
+{
+"s": 589.513,
+"e": 594.923,
+"text": "\"Semoga dipermudahkan urusan sis\" dan \"Berminat boleh walkin ke kedai kami.\"",
+"tags": [
+"R",
+"R",
+"R",
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 595.713,
+"e": 600.113,
+"text": "Kedua-duanya juga tidak mempunyai subjek bagi klausa utama.",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+null,
+"B",
+"B"
+]
+},
+{
+"s": 600.153,
+"e": 601.763,
+"text": "Ayat yang betul,",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 602.093,
+"e": 607.693,
+"text": "ialah \"Saya berdoa semoga urusan sis dipermudah\" dan pelanggan yang berminat",
+"tags": [
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 607.733,
+"e": 609.643,
+"text": "boleh datang ke kedai kami.",
+"tags": [
+"G",
+"G",
+"G",
+"G",
+"R"
+]
+},
+{
+"s": 610.127,
+"e": 611.027,
+"text": "Jadi,",
+"tags": [
+null
+]
+},
+{
+"s": 611.167,
+"e": 613.007,
+"text": "Apakah kesan kesalahan ini?",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 613.047,
+"e": 619.187,
+"text": "Kesan yang Pertama, maksud ayat menjadi kabur kerana pembaca tidak tahu",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+"Y",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 619.227,
+"e": 622.567,
+"text": "siapa pelaku atau siapa yang diterangkan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 622.607,
+"e": 628.607,
+"text": "Dalam pengumuman rasmi, kekaburan ini boleh menyebabkan arahan disalah faham.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 628.647,
+"e": 634.287,
+"text": "Kedua, kesalahan ini sukar disedari kerana ayatnya terasa betul apabila",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 634.327,
+"e": 635.337,
+"text": "dituturkan.",
+"tags": [
+null
+]
+},
+{
+"s": 635.667,
+"e": 639.397,
+"text": "Akibatnya, murid membawa pola yang sama ke dalam karangan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 639.727,
+"e": 646.257,
+"text": "misalnya \"Bagi saya berpendapat bahawa atau \"Dalam cerita itu mengisahkan",
+"tags": [
+null,
+"R",
+"R",
+"R",
+"R",
+null,
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 646.927,
+"e": 651.827,
+"text": "Akhir sekali dalam peperiksaan, ayat seperti ini dikira sebagai kesalahan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 651.867,
+"e": 656.537,
+"text": "tatabahasa dan menyebabkan murid kehilangan markah bahasa.",
+"tags": [
+"B",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 658.85,
+"e": 662.61,
+"text": "Terima kasih Aliff untuk penerangan jenis kesalahan yang pertama.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 662.65,
+"e": 667.43,
+"text": "Jadi saya akan menerangkan Jenis kesalahan kedua iaitu ayat tidak lengkap.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 667.47,
+"e": 671.71,
+"text": "Ayat tidak lengkap ialah binaan yang kelihatan seperti ayat kerana dimulakan",
+"tags": [
+"Y",
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 671.75,
+"e": 675.95,
+"text": "dengan huruf besar dan diakhiri dengan tanda noktah, tetapi tidak mempunyai",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 675.99,
+"e": 678.23,
+"text": "unsur yang cukup untuk membentuk ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 678.27,
+"e": 681.03,
+"text": "Kesalahan ini terbahagi kepada tiga bentuk.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 681.07,
+"e": 683.61,
+"text": "Bentuk pertama, ayat tiada predikat.",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 683.65,
+"e": 688.01,
+"text": "Penulis hanya menulis frasa nama yang panjang, biasanya dengan klausa relatif",
+"tags": [
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 688.05,
+"e": 688.89,
+"text": "\"yang\".",
+"tags": [
+null
+]
+},
+{
+"s": 688.93,
+"e": 691.47,
+"text": "Seperti yang kami huraikan dalam PB1,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 691.87,
+"e": 696.23,
+"text": "klausa relatif ialah klausa terikat yang hanya menerangkan frasa nama,",
+"tags": [
+"B",
+"B",
+null,
+"B",
+"B",
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 696.27,
+"e": 698.63,
+"text": "maka ia tidak boleh menjadi predikat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 698.67,
+"e": 704.43,
+"text": "Bentuk kedua, klausa tergantung, iaitu klausa terikat yang dimulakan dengan",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+null,
+"B",
+"B",
+null,
+null,
+null
+]
+},
+{
+"s": 704.47,
+"e": 707.1,
+"text": "kata hubung seperti \"apabila\",",
+"tags": [
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 707.57,
+"e": 713.28,
+"text": "\"kerana\", \"kalau\" dan \"selepas\", tetapi tidak disertai klausa utama.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 713.69,
+"e": 717.75,
+"text": "Bentuk ketiga, kata kerja transitif yang tidak diikuti objek,",
+"tags": [
+null,
+null,
+"B",
+"B",
+"B",
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 717.79,
+"e": 720.13,
+"text": "misalnya \"Ayah membeli di kedai\".",
+"tags": [
+null,
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 720.17,
+"e": 723.87,
+"text": "Pembaca tertanya-tanya, apakah yang dibeli oleh ayah?",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 723.91,
+"e": 728.81,
+"text": "Jadi Contoh pertama ialah tajuk video, \"Kedai malatang yang paling sedap kat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 728.85,
+"e": 734.01,
+"text": "KL.\" Binaan ini hanyalah frasa nama \"kedai malatang\" yang diterangkan oleh",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 734.05,
+"e": 736.65,
+"text": "klausa relatif \"yang paling sedap\".",
+"tags": [
+"B",
+"B",
+null,
+null,
+null
+]
+},
+{
+"s": 736.69,
+"e": 740.16,
+"text": "Tiada predikat yang menyatakan apa-apa tentang kedai itu.",
+"tags": [
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 740.45,
+"e": 745.28,
+"text": "Ayat yang betul ialah \"Kedai ini ialah kedai malatang paling sedap di KL.\"",
+"tags": [
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"R",
+"R"
+]
+},
+{
+"s": 745.79,
+"e": 751.13,
+"text": "Kini, \"kedai ini\" menjadi subjek dan \"ialah kedai malatang paling sedap di KL\"",
+"tags": [
+"R",
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 751.17,
+"e": 753.34,
+"text": "menjadi predikat.",
+"tags": [
+null,
+"B"
+]
+},
+{
+"s": 753.853,
+"e": 757.313,
+"text": "Contoh kedua, restoran mewah tapi harga murah.",
+"tags": [
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 757.353,
+"e": 762.813,
+"text": "Tanpa penentu ini, frasa restoran mewah dibaca sebagai satu frasa nama iaitu",
+"tags": [
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+"B",
+null
+]
+},
+{
+"s": 762.853,
+"e": 766.673,
+"text": "restoran sebagai inti dan mewah sebagai penerang.",
+"tags": [
+null,
+null,
+"B",
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 766.713,
+"e": 769.673,
+"text": "Hal yang sama berlaku pada harga murah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 769.713,
+"e": 774.913,
+"text": "Jadi, binaan ini hanyalah 2 frasa nama yang dihubungkan bukan ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 774.953,
+"e": 779.383,
+"text": "Ayat yang betul ialah restoran ini mewah tetapi harganya murah.",
+"tags": [
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 779.927,
+"e": 783.927,
+"text": "Contoh ketiga, korang kalau suka snek seperti ini.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 783.967,
+"e": 789.007,
+"text": "Ayat ini ialah klausa keterangan syarat yang dimulakan dengan kalau tetapi",
+"tags": [
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 789.047,
+"e": 790.427,
+"text": "tidak ada klausa utama.",
+"tags": [
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 790.467,
+"e": 793.977,
+"text": "Pembaca tertunggu-tunggu kalau suka apa yang perlu dilakukan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 794.247,
+"e": 798.897,
+"text": "Ayat yang betul ialah kalau kalian suka snek ini, kalian wajib mencubanya.",
+"tags": [
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 799.413,
+"e": 801.093,
+"text": "Kesan kesalahan ini cukup besar.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 801.133,
+"e": 804.593,
+"text": "Pertama, mesej tidak sampai dengan lengkap.",
+"tags": [
+null,
+"Y",
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 804.633,
+"e": 808.653,
+"text": "Dalam iklan, pembaca tidak tahu apakah tawaran yang sebenarnya.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 808.973,
+"e": 812.933,
+"text": "Dalam arahan pula, pembaca tidak tahu tindakan yang perlu diambil.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 812.973,
+"e": 817.833,
+"text": "Kedua, murid yang kerap membaca ayat seperti ini akan menulis ayat tergantung",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 817.873,
+"e": 821.493,
+"text": "dalam karangan, misalnya \"Apabila loceng berbunyi.\"",
+"tags": [
+null,
+null,
+null,
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 821.533,
+"e": 823.423,
+"text": "lalu terus meletakkan noktah.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 824.033,
+"e": 828.913,
+"text": "Ketiga, kemahiran murid membina ayat majmuk menjadi lemah kerana tidak",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 828.953,
+"e": 832.853,
+"text": "memahami bahawa klausa terikat memerlukan klausa utama.",
+"tags": [
+null,
+null,
+"B",
+"B",
+null,
+"B",
+"B"
+]
+},
+{
+"s": 832.893,
+"e": 837.533,
+"text": "Jadi, Saya serahkan kepada Iman Irfan untuk menerangkan jenis kesalahan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 837.573,
+"e": 838.903,
+"text": "ketiga.",
+"tags": [
+null
+]
+},
+{
+"s": 840.817,
+"e": 841.777,
+"text": "Terima kasih, Amin.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 841.817,
+"e": 845.207,
+"text": "Jenis kesalahan ketiga ialah bahasa rojak.",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 845.737,
+"e": 849.977,
+"text": "Bahasa rojak ialah percampuran bahasa Melayu dengan bahasa Inggeris atau",
+"tags": [
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 850.017,
+"e": 852.557,
+"text": "bahasa basahan dalam satu ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 852.597,
+"e": 857.057,
+"text": "Mungkin ada yang bertanya, adakah bahasa rojak termasuk dalam aspek sintaksis",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 857.097,
+"e": 859.467,
+"text": "atau hanya aspek kata?",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 859.517,
+"e": 864.817,
+"text": "Jawapannya, bahasa rojak menjadi isu sintaksis apabila unsur asing itu",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+null,
+"B",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 864.857,
+"e": 867.387,
+"text": "mengambil alih fungsi dalam binaan ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 867.817,
+"e": 872.557,
+"text": "Unsur bahasa Inggeris dijadikan inti frasa kerja, kata hubung yang",
+"tags": [
+null,
+null,
+null,
+null,
+"B",
+"B",
+"B",
+"B",
+"B",
+null
+]
+},
+{
+"s": 872.597,
+"e": 878.587,
+"text": "menghubungkan klausa dalam ayat majmuk, atau penerang dalam frasa adjektif.",
+"tags": [
+null,
+"B",
+null,
+"B",
+"B",
+null,
+"B",
+null,
+"B",
+"B"
+]
+},
+{
+"s": 879.257,
+"e": 884.987,
+"text": "Akibatnya, ayat itu tidak lagi mematuhi struktur ayat bahasa Melayu baku.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 885.667,
+"e": 889.837,
+"text": "Baiklah, contoh yang pertama ialah tajuk video di YouTube,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"R"
+]
+},
+{
+"s": 890.167,
+"e": 893.177,
+"text": "\"Harini team kami nak share cara buat kek.\"",
+"tags": [
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 893.387,
+"e": 898.357,
+"text": "Dalam ayat ini, inti subjek ialah \"team\" dan inti predikat ialah \"share\",",
+"tags": [
+null,
+null,
+null,
+"B",
+"B",
+null,
+null,
+null,
+"B",
+"B",
+null,
+null
+]
+},
+{
+"s": 898.947,
+"e": 901.697,
+"text": "kedua-duanya perkataan bahasa Inggeris.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 902.127,
+"e": 906.377,
+"text": "Kata bantu \"nak\" dan kata kerja \"buat\" pula ialah bentuk basahan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 906.987,
+"e": 912.997,
+"text": "Ayat yang betul ialah \"Hari ini pasukan kami ingin berkongsi cara membuat kek.",
+"tags": [
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 913.913,
+"e": 917.961,
+"text": "Contoh kedua dan ketiga ialah \"Pakej serendah RM30 only!",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 918.001,
+"e": 919.743,
+"text": "Tekan link di bio.\"",
+"tags": [
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 919.793,
+"e": 922.023,
+"text": "Dan \"Overall best gila, wajib try guys!\"",
+"tags": [
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 922.213,
+"e": 926.665,
+"text": "Dalam contoh ketiga, hampir semua unsur ayat iaitu keterangan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 926.705,
+"e": 931.333,
+"text": "predikat dan objek diambil daripada bahasa Inggeris dan bahasa basahan.",
+"tags": [
+"B",
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 931.373,
+"e": 933.533,
+"text": "Malah subjeknya juga tiada.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 933.573,
+"e": 937.883,
+"text": "Ayat betul ialah secara keseluruhan makanan ini sangat bagus.",
+"tags": [
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 938.213,
+"e": 940.043,
+"text": "Anda wajib mencubanya.",
+"tags": [
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 940.093,
+"e": 943.013,
+"text": "Bahasa rojak juga merosakkan binaan ayat majmuk.",
+"tags": [
+"Y",
+"Y",
+null,
+null,
+null,
+"B",
+"B"
+]
+},
+{
+"s": 943.053,
+"e": 944.543,
+"text": "Contohnya,",
+"tags": [
+"R"
+]
+},
+{
+"s": 945.04,
+"e": 948.67,
+"text": "\"Kami pergi shopping di pasar raya, so kami penat sangat.\"",
+"tags": [
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 948.9,
+"e": 953.16,
+"text": "Kata hubung bahasa Inggeris \"so\" digunakan untuk menghubungkan dua klausa.",
+"tags": [
+"B",
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 953.2,
+"e": 957.0,
+"text": "Ayat betul ialah kami pergi membeli-belah di pasar raya.",
+"tags": [
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 957.04,
+"e": 959.49,
+"text": "Oleh itu, kami sangat penat.",
+"tags": [
+"G",
+"G",
+"G",
+null,
+null
+]
+},
+{
+"s": 960.41,
+"e": 966.69,
+"text": "Apakah kesannya? Yang Pertama, bahasa rojak menjejaskan martabat bahasa Melayu",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 966.73,
+"e": 972.35,
+"text": "sebagai bahasa kebangsaan seperti yang termaktub dalam Perkara 152",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 972.39,
+"e": 975.39,
+"text": "Perlembagaan Persekutuan.",
+"tags": [
+null,
+null
+]
+},
+{
+"s": 975.43,
+"e": 979.39,
+"text": "Yang Kedua, murid kehilangan kosa kata bahasa Melayu.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 979.43,
+"e": 984.21,
+"text": "Ramai murid lebih mengenali perkataan \"submit\", \"share\" dan \"busy\" berbanding",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 984.25,
+"e": 987.27,
+"text": "\"menghantar\", \"berkongsi\" dan \"sibuk\".",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 987.31,
+"e": 992.91,
+"text": "Yang Ketiga, murid tidak dapat membezakan situasi rasmi dengan situasi tidak",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 992.95,
+"e": 997.034,
+"text": "rasmi, lalu membawa bahasa rojak ke dalam karangan mereka,",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 997.074,
+"e": 1000.15,
+"text": "surat rasmi dan jawapan peperiksaan.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1000.19,
+"e": 1004.33,
+"text": "Dan yang Keempat, jika dibiarkan, generasi akan datang mungkin menganggap",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1004.37,
+"e": 1008.17,
+"text": "bahasa rojak sebagai bentuk bahasa yang betul.",
+"tags": [
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1008.21,
+"e": 1013.49,
+"text": "Secara keseluruhan, ketiga-tiga jenis kesalahan ini mempunyai satu persamaan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1013.53,
+"e": 1019.33,
+"text": "iaitu semuanya merosakkan hubungan antara subjek dengan predikat dalam ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+"B",
+null,
+null
+]
+},
+{
+"s": 1019.37,
+"e": 1023.41,
+"text": "Murid sekolah rendah paling terkesan kerana mereka berada pada peringkat",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1023.45,
+"e": 1025.43,
+"text": "meniru dan membina asas bahasa.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1025.47,
+"e": 1030.69,
+"text": "Apa-apa yang mereka baca hari ini akan menjadi bahasa mereka pada masa",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1030.73,
+"e": 1036.92,
+"text": "hadapan. Oleh itu, kami percaya bahawa usaha membasmi kerancuan bahasa",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1037.22,
+"e": 1040.02,
+"text": "mesti bermula di sekolah rendah.",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1040.06,
+"e": 1043.22,
+"text": "Baiklah, sekarang Saya serahkan semula kepada rakan saya,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1043.26,
+"e": 1046.53,
+"text": "Aliff, untuk menerangkan cadangan penambahbaikan kami.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1049.08,
+"e": 1051.37,
+"text": "Terima kasih, Iman Irfan.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1051.64,
+"e": 1056.74,
+"text": "Daripada bukti yang kami peroleh di media sosial, kami bertanya kepada diri",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1056.78,
+"e": 1062.02,
+"text": "sendiri: sebagai bakal guru, apakah yang boleh kami lakukan?",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1062.06,
+"e": 1066.66,
+"text": "Murid sekolah rendah tidak boleh dihalang daripada media sosial sepenuhnya,",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null
+]
+},
+{
+"s": 1066.7,
+"e": 1072.42,
+"text": "tetapi mereka boleh dilatih untuk mengenal pasti ayat yang salah dan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1072.46,
+"e": 1077.76,
+"text": "membetulkannya. Kami juga sedar bahawa latihan tatabahasa secara tradisional",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+null
+]
+},
+{
+"s": 1077.8,
+"e": 1080.78,
+"text": "sering dianggap membosankan oleh murid.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1080.82,
+"e": 1086.66,
+"text": "Oleh itu, kami membina sebuah dunia permainan dalam Minecraft Education yang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null
+]
+},
+{
+"s": 1086.7,
+"e": 1090.06,
+"text": "kami namakan \"Misi Penyelamat Ayat\".",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 1090.1,
+"e": 1094.5,
+"text": "Kami memilih Minecraft Education kerana tiga sebab.",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1094.54,
+"e": 1100.24,
+"text": "Sebab yang Pertama, permainan ini sangat diminati oleh murid sekolah rendah,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1100.28,
+"e": 1101.18,
+"text": "maka",
+"tags": [
+null
+]
+},
+{
+"s": 1101.28,
+"e": 1103.0,
+"text": "mereka terlibat secara aktif.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1103.04,
+"e": 1108.14,
+"text": "Sebab yang Kedua, Minecraft Education boleh diakses oleh guru dan murid",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1108.18,
+"e": 1112.71,
+"text": "melalui akaun DELIMa, maka tidak memerlukan kos tambahan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1113.22,
+"e": 1118.12,
+"text": "Dan akhir sekali, Minecraft Education membolehkan kami menggabungkan",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1118.16,
+"e": 1123.38,
+"text": "pembelajaran dengan permainan melalui misi, markah, pingat dan papan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1123.42,
+"e": 1124.59,
+"text": "kedudukan.",
+"tags": [
+null
+]
+},
+{
+"s": 1125.2,
+"e": 1128.59,
+"text": "Dunia ini dibina berdasarkan bukti yang kami kumpulkan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1129.12,
+"e": 1134.2,
+"text": "Ketiga-tiga jenis kesalahan yang telah diterangkan tadi dijadikan sebagai tiga",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1134.24,
+"e": 1140.54,
+"text": "misi. Contoh kapsyen media sosial yang sebenar dipamerkan dalam galeri isu di",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1140.58,
+"e": 1146.18,
+"text": "lobi utama. Setiap jawapan murid diikuti dengan penerangan segera tentang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1146.22,
+"e": 1150.29,
+"text": "sebab jawapan itu betul atau salah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1150.44,
+"e": 1157.21,
+"text": "Sekarang, kami akan menunjukkan cara bermain dunia Misi Penyelamat Ayat ini.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+null
+]
+},
+{
+"s": 1160.863,
+"e": 1165.653,
+"text": "Apabila murid memasuki dunia ini, mereka akan berada di lobi utama.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1165.763,
+"e": 1170.243,
+"text": "Papan tanda \"Selamat Datang ke Misi Penyelamat Ayat\" menerangkan matlamat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 1170.283,
+"e": 1174.863,
+"text": "permainan, iaitu membetulkan ayat yang salah dan mengumpulkan markah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1174.903,
+"e": 1177.233,
+"text": "Apabila murid mendekati watak",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1177.69,
+"e": 1182.91,
+"text": "penyambut, mesej di bahagian bawah skrin mengarahkan mereka membaca poster di",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1182.95,
+"e": 1188.61,
+"text": "sekitar dinding dan galeri isu di dinding sebelah kiri dan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1188.65,
+"e": 1195.21,
+"text": "kanan. Poster di dinding sebelah utara memperkenalkan tiga misi.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1195.25,
+"e": 1198.52,
+"text": "iaitu misi yang pertama Jenis yang pertama,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1198.91,
+"e": 1205.15,
+"text": "iaitu ayat tanpa subjek, dengan peringatan \"Elak mula ayat dengan kepada,",
+"tags": [
+null,
+"Y",
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1205.19,
+"e": 1207.96,
+"text": "bagi, dalam, dan di\".",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1208.03,
+"e": 1213.05,
+"text": "Dan Jenis yang kedua ialah ayat tidak lengkap, dengan peringatan bahawa ayat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1213.09,
+"e": 1215.11,
+"text": "perlu subjek dan predikat.",
+"tags": [
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 1215.15,
+"e": 1220.33,
+"text": "Dan akhir sekali Jenis ketiga ialah bahasa rojak, dengan peringatan \"Jangan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1220.37,
+"e": 1223.06,
+"text": "campur bahasa Inggeris atau Bahasa basahan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1223.27,
+"e": 1228.71,
+"text": "Di dinding sebelah kiri dan kanan pula terdapat Galeri Isu Kerancuan Bahasa.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1228.75,
+"e": 1233.35,
+"text": "Setiap paparan berbentuk telefon mengandungi tiga bahagian,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1233.39,
+"e": 1237.89,
+"text": "iaitu kapsyen yang salah daripada media sosial, jenis isu,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 1237.93,
+"e": 1239.65,
+"text": "dan ayat yang betul.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1239.69,
+"e": 1244.53,
+"text": "Contohnya, kapsyen \"Kepada yang berminat boleh maklumkan di ruangan komen\"",
+"tags": [
+null,
+"R",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 1244.57,
+"e": 1250.53,
+"text": "dilabelkan sebagai Jenis satu iaitu tiada subjek, dan diikuti ayat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+null,
+null
+]
+},
+{
+"s": 1250.57,
+"e": 1255.81,
+"text": "betulnya. Galeri ini penting kerana murid dapat melihat sendiri bahawa",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1255.85,
+"e": 1261.17,
+"text": "kesalahan yang dipelajari benar-benar berlaku di media sosial yang mereka",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 1261.21,
+"e": 1263.24,
+"text": "gunakan setiap hari.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1264.033,
+"e": 1268.683,
+"text": "Murid boleh memilih untuk bermain secara individu atau berkumpulan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1268.753,
+"e": 1273.633,
+"text": "Untuk bermain secara individu, murid masuk melalui gerbang hijau dan memijak",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1273.673,
+"e": 1277.993,
+"text": "blok zamrud. Untuk bermain secara berkumpulan, murid masuk melalui gerbang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1278.033,
+"e": 1283.373,
+"text": "ungu dan memijak bulu mengikut warna kumpulan, iaitu merah,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1283.413,
+"e": 1285.473,
+"text": "biru, hijau atau kuning.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1285.513,
+"e": 1290.173,
+"text": "Dalam mod berkumpulan, markah dikongsi bersama, maka murid perlu berbincang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1290.213,
+"e": 1295.913,
+"text": "dan bekerjasama. Sebelum bermula, murid boleh mencuba petak latihan dengan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1295.953,
+"e": 1298.993,
+"text": "memijak blok emas untuk membiasakan diri.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1299.033,
+"e": 1300.793,
+"text": "Sistem markahnya mudah.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1300.833,
+"e": 1304.453,
+"text": "Setiap jawapan yang betul diberi tambahan 100 markah,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1304.493,
+"e": 1308.653,
+"text": "manakala setiap jawapan yang salah ditolak 50 markah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1308.693,
+"e": 1314.073,
+"text": "Murid perlu menjawab 5 soalan dengan betul untuk naik ke jenis seterusnya.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1314.113,
+"e": 1316.723,
+"text": "Setiap jenis mempunyai 10 soalan.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1317.79,
+"e": 1321.64,
+"text": "Selepas memijak blok zamrud, murid dibawa ke lobi Jenis satu.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1321.75,
+"e": 1326.32,
+"text": "Di sini, murid diberikan 30 saat untuk membaca papan ciri-ciri.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1326.65,
+"e": 1330.3,
+"text": "Papan ini mengingatkan bahawa setiap ayat mesti mempunyai subjek,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 1330.693,
+"e": 1332.513,
+"text": "Dan cara membetulkannya.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1332.553,
+"e": 1336.553,
+"text": "adalah menggugurkan kata sendi nama atau menambah subjek.",
+"tags": [
+null,
+null,
+"B",
+"B",
+"B",
+null,
+null,
+"B"
+]
+},
+{
+"s": 1336.593,
+"e": 1341.013,
+"text": "Masa membaca ini sengaja disediakan supaya murid mengulang kaji konsep sebelum",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1341.053,
+"e": 1341.953,
+"text": "menjawab.",
+"tags": [
+null
+]
+},
+{
+"s": 1342.423,
+"e": 1348.283,
+"text": "Soalan pertama, ialah kepada semua murid dikehendaki berkumpul di dewan.",
+"tags": [
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 1348.323,
+"e": 1351.843,
+"text": "Murid diminta memilih perkataan yang perlu digugurkan supaya ayat ini",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1351.883,
+"e": 1357.943,
+"text": "mempunyai subjek. Pilihan A ialah \"semua\", pilihan B ialah \"Kepada\"",
+"tags": [
+null,
+"B",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1357.983,
+"e": 1360.663,
+"text": "pilihan C ialah \"dewan\".",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1360.703,
+"e": 1364.013,
+"text": "Murid menjawab dengan memijak blok berwarna.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1364.123,
+"e": 1366.533,
+"text": "Saya pijak blok B, iaitu \"Kepada\".",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1367.043,
+"e": 1370.453,
+"text": "Jawapan betul, dan saya mendapat 100 markah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1370.983,
+"e": 1373.333,
+"text": "Perhatikan penerangan di skrin:",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1373.983,
+"e": 1375.993,
+"text": "\"Kepada ialah kata sendi.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1376.443,
+"e": 1379.533,
+"text": "Gugurkan supaya Semua murid jadi subjek.\"",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"B"
+]
+},
+{
+"s": 1380.327,
+"e": 1385.237,
+"text": "Sekarang saya tunjukkan apa yang berlaku jika murid menjawab salah.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1385.567,
+"e": 1389.577,
+"text": "Soalan kedua ialah \"Bagi murid yang datang lewat akan didenda.\"",
+"tags": [
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 1389.687,
+"e": 1392.477,
+"text": "Saya sengaja memilih \"murid\".",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1393.047,
+"e": 1396.407,
+"text": "Jawapan salah, markah akan ditolak 50.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1396.447,
+"e": 1402.137,
+"text": "dan permainan terus menunjukkan jawapan yang betul, iaitu \"Bagi\",",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1402.227,
+"e": 1408.18,
+"text": "beserta sebabnya. Melalui cara ini, murid tidak sekadar tahu jawapannya",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1408.22,
+"e": 1410.07,
+"text": "salah, tetapi faham",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1410.6,
+"e": 1412.34,
+"text": "mengapa jawapannya salah.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1412.38,
+"e": 1416.78,
+"text": "Jika murid mahu mencuba soalan lain, mereka boleh memijak blok biru untuk",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1416.82,
+"e": 1417.81,
+"text": "ulang.",
+"tags": [
+null
+]
+},
+{
+"s": 1421.893,
+"e": 1426.373,
+"text": "Setelah menjawab lima soalan dengan betul, murid naik ke Jenis dua,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1426.413,
+"e": 1428.053,
+"text": "iaitu ayat tidak lengkap.",
+"tags": [
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 1428.093,
+"e": 1430.663,
+"text": "Aktiviti dalam misi ini berbeza.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1430.733,
+"e": 1432.453,
+"text": "Murid perlu menyusun ayat.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1432.493,
+"e": 1436.723,
+"text": "Soalan pertama ialah \"Rumah Ali yang besar di hujung kampung itu.\"",
+"tags": [
+null,
+null,
+"R",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+null
+]
+},
+{
+"s": 1436.833,
+"e": 1439.703,
+"text": "Ayat ini tidak lengkap kerana tiada predikat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1440.013,
+"e": 1444.033,
+"text": "Murid perlu membuka Peti satu yang mengandungi bahagian awal ayat,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1444.073,
+"e": 1447.113,
+"text": "dan Peti dua yang mengandungi bahagian akhir ayat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1447.153,
+"e": 1453.013,
+"text": "Saya ambil \"Rumah Ali yang besar itu\" daripada Peti satu dan \"terletak di",
+"tags": [
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+null,
+null,
+null,
+null,
+"G",
+"G"
+]
+},
+{
+"s": 1453.053,
+"e": 1455.533,
+"text": "hujung kampung\" daripada Peti dua.",
+"tags": [
+"G",
+"G",
+null,
+null,
+null
+]
+},
+{
+"s": 1455.573,
+"e": 1460.393,
+"text": "Kemudian, saya letakkan kepingan itu dalam Bingkai satu dan Bingkai dua.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1460.433,
+"e": 1464.593,
+"text": "Jawapan terus disemak, dan ayat \"Rumah Ali yang besar itu terletak di hujung",
+"tags": [
+null,
+null,
+null,
+null,
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G",
+"G"
+]
+},
+{
+"s": 1464.633,
+"e": 1466.733,
+"text": "kampung\" ialah ayat yang lengkap.",
+"tags": [
+"G",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1467.58,
+"e": 1472.22,
+"text": "Perhatikan bahawa peti juga mengandungi pilihan pengecoh seperti \"Kerana rumah",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"R",
+"R"
+]
+},
+{
+"s": 1472.26,
+"e": 1474.8,
+"text": "Ali\" dan \"yang di hujung kampung\".",
+"tags": [
+"R",
+"R",
+"R",
+"R",
+"R",
+"R"
+]
+},
+{
+"s": 1474.84,
+"e": 1479.6,
+"text": "Jika murid memilih pengecoh ini, ayat itu masih tergantung atau masih tiada",
+"tags": [
+"R",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y"
+]
+},
+{
+"s": 1479.64,
+"e": 1482.94,
+"text": "predikat. Inilah kemahiran yang kami mahu murid kuasai,",
+"tags": [
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1482.98,
+"e": 1486.0,
+"text": "iaitu membezakan klausa utama dengan klausa terikat.",
+"tags": [
+null,
+null,
+"B",
+"B",
+null,
+"B",
+"B"
+]
+},
+{
+"s": 1486.04,
+"e": 1491.1,
+"text": "Jika murid tersalah susun, mereka boleh memijak blok Set Semula untuk mengisi",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1491.14,
+"e": 1493.35,
+"text": "semula peti dan mengosongkan bingkai.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1497.58,
+"e": 1501.39,
+"text": "Misi terakhir ialah Jenis 3, iaitu bahasa rojak.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1501.44,
+"e": 1504.94,
+"text": "Misi ini paling mencabar kerana murid perlu melakukan parkour,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1504.98,
+"e": 1509.34,
+"text": "iaitu melompat dari satu blok ke blok yang lain untuk sampai ke platform",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1509.38,
+"e": 1511.0,
+"text": "jawapan yang betul.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1511.04,
+"e": 1515.74,
+"text": "Soalan pertama ialah \"Saya sangat happy kerana dapat hadiah.\"",
+"tags": [
+null,
+null,
+"R",
+"R",
+"R",
+"R",
+"R",
+"R",
+null
+]
+},
+{
+"s": 1515.78,
+"e": 1519.78,
+"text": "Perkataan berwarna merah perlu digantikan dengan perkataan bahasa Melayu yang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1519.82,
+"e": 1524.22,
+"text": "betul. Pilihannya ialah \"gembira\", \"happy\" dan \"marah\".",
+"tags": [
+null,
+null,
+null,
+"G",
+null,
+null,
+null
+]
+},
+{
+"s": 1524.26,
+"e": 1527.5,
+"text": "Saya melompat ke platform A, iaitu \"gembira\".",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"G"
+]
+},
+{
+"s": 1527.54,
+"e": 1532.92,
+"text": "Jawapan betul! Jika murid jatuh ke dalam air, mereka perlu mencuba semula dari",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1532.96,
+"e": 1538.45,
+"text": "permulaan. Setiap bilik mempunyai laluan yang berbeza,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1538.98,
+"e": 1543.84,
+"text": "maka murid perlu fokus dan berhati-hati, sama seperti mereka perlu",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1543.88,
+"e": 1547.09,
+"text": "berhati-hati memilih perkataan dalam penulisan.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1547.713,
+"e": 1551.913,
+"text": "Apabila ketiga-tiga misi selesai, murid dibawa ke dewan keputusan dan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1551.953,
+"e": 1554.113,
+"text": "diberikan gelaran Penyelamat Ayat.",
+"tags": [
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1554.153,
+"e": 1558.673,
+"text": "Keputusan murid dipaparkan, termasuk markah, bilangan jawapan betul,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1558.713,
+"e": 1562.153,
+"text": "bilangan jawapan yang salah dan bilangan misi yang selesai.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1562.193,
+"e": 1567.933,
+"text": "Murid yang membuat kesalahan antara sifar hingga 3 kali layak menerima pingat",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y"
+]
+},
+{
+"s": 1567.973,
+"e": 1570.583,
+"text": "emas dengan bonus 300.",
+"tags": [
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1571.033,
+"e": 1576.013,
+"text": "Murid yang membuat kesalahan antara 4 hingga 7 kali menerima pingat perak",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1576.053,
+"e": 1580.562,
+"text": "dengan bonus 150 manakala selebihnya menerima pingat gangsa.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1580.602,
+"e": 1584.253,
+"text": "Papan kedudukan memaparkan 15 pemain teratas.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1584.293,
+"e": 1586.663,
+"text": "Apabila guru memijak lodestone,",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1587.113,
+"e": 1592.643,
+"text": "majlis penyampaian bermula dan juara pertama, kedua dan ketiga naik ke pentas.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1592.813,
+"e": 1594.693,
+"text": "Dunia ini juga mesra guru.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1594.733,
+"e": 1598.453,
+"text": "Jika masa kelas tamat, murid boleh keluar dengan memijak blok besi,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1598.493,
+"e": 1600.393,
+"text": "dan kemajuan mereka disimpan.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1600.433,
+"e": 1604.273,
+"text": "Pada sesi seterusnya, murid hanya perlu memijak glowstone untuk menyambung",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1604.313,
+"e": 1609.793,
+"text": "misi. Di Sudut Guru, guru boleh menetapkan semula semua markah dan memaparkan",
+"tags": [
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1609.833,
+"e": 1611.953,
+"text": "laporan kemajuan setiap murid.",
+"tags": [
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 1611.993,
+"e": 1615.713,
+"text": "Melalui laporan ini, guru dapat mengenal pasti jenis kesalahan yang paling",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1615.753,
+"e": 1618.983,
+"text": "kerap dilakukan oleh murid dan merancang pengajaran susulan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1621.547,
+"e": 1623.137,
+"text": "Selain Minecraft Education,",
+"tags": [
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1623.527,
+"e": 1628.767,
+"text": "kami turut mencadangkan beberapa langkah lain yang lebih mudah dilaksanakan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1628.807,
+"e": 1632.657,
+"text": "terutamanya di sekolah yang mempunyai kemudahan peranti yang terhad.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1633.087,
+"e": 1634.597,
+"text": "Cadangan yang pertama",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1634.947,
+"e": 1638.147,
+"text": "aktiviti \"Detektif Ayat Media Sosial\".",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1638.187,
+"e": 1644.897,
+"text": "Guru memaparkan tangkap layar capture daripada media sosial tanpa nama akaun.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1645.247,
+"e": 1650.517,
+"text": "Murid bekerja dalam kumpulan untuk menggariskan subjek dan predikat,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y"
+]
+},
+{
+"s": 1650.607,
+"e": 1654.417,
+"text": "mengenal pasti jenis kesalahan, dalam kumpulan",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1654.807,
+"e": 1658.447,
+"text": "dan menulis semula ayat yang betul.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1658.487,
+"e": 1663.587,
+"text": "Ayat-ayat yang telah dibetulkan ditampal pada \"Dinding Ayat Betul\" di dalam",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1663.627,
+"e": 1669.857,
+"text": "kelas. Aktiviti ini melatih murid supaya membaca media sosial secara kritis.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null
+]
+},
+{
+"s": 1670.227,
+"e": 1675.047,
+"text": "Cadangan yang kedua ialah kad permainan \"Selamatkan Ayat\".",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y"
+]
+},
+{
+"s": 1675.087,
+"e": 1679.437,
+"text": "Kad ini mengandungi ayat salah daripada tiga jenis kesalahan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1679.79,
+"e": 1682.28,
+"text": "Murid bergilir-gilir mencabut kad,",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1682.663,
+"e": 1687.223,
+"text": "dan murid yang dapat membetulkan ayat dengan tepat akan mengumpulkan mata.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1687.263,
+"e": 1692.043,
+"text": "Kad ini murah, tidak memerlukan internet, dan boleh digunakan sebagai aktiviti",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1692.083,
+"e": 1694.343,
+"text": "pengayaan atau pemulihan.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1694.383,
+"e": 1699.173,
+"text": "Cadangan yang terakhir ialah kempen hashtag Ayat Betul Sekolahku.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1699.223,
+"e": 1704.623,
+"text": "Semua pengumuman, papan notis dan hantaran media sosial rasmi sekolah disemak",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null
+]
+},
+{
+"s": 1704.663,
+"e": 1708.193,
+"text": "oleh panitia Bahasa Melayu sebelum disiarkan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1708.263,
+"e": 1712.583,
+"text": "Ibu bapa juga digalakkan menjadi contoh dengan menggunakan bahasa Melayu yang",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1712.623,
+"e": 1715.493,
+"text": "betul dalam kumpulan WhatsApp kelas.",
+"tags": [
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1715.683,
+"e": 1718.803,
+"text": "Apabila murid dikelilingi oleh contoh ayat yang betul,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1718.843,
+"e": 1722.273,
+"text": "mereka akan meniru bahasa yang betul.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1724.33,
+"e": 1729.95,
+"text": "Kami berharap agar dunia Misi Penyelamat Ayat ini dapat digunakan oleh guru",
+"tags": [
+null,
+null,
+null,
+null,
+"Y",
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1729.99,
+"e": 1734.99,
+"text": "bahasa Melayu di sekolah rendah dan terus dikembangkan dengan jenis kesalahan",
+"tags": [
+null,
+null,
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1735.03,
+"e": 1739.77,
+"text": "ayat yang lain. Kami juga berharap agar murid hari ini membesar sebagai",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1739.81,
+"e": 1745.19,
+"text": "pengguna media sosial yang celik bahasa, iaitu mampu menikmati kandungan",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+"Y",
+"Y",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1745.23,
+"e": 1747.72,
+"text": "digital tanpa meniru kesalahannya.",
+"tags": [
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1748.09,
+"e": 1752.71,
+"text": "Akhir sekali, kami berharap agar masyarakat, terutamanya pencipta kandungan,",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1752.75,
+"e": 1757.71,
+"text": "berbangga menggunakan bahasa Melayu yang betul, kerana bahasa yang betul tetap",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1757.75,
+"e": 1761.88,
+"text": "boleh menarik dan dekat dengan khalayak.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1762.357,
+"e": 1767.657,
+"text": "Kesimpulannya, kerancuan bahasa dalam aspek sintaksis bukan isu kecil kerana",
+"tags": [
+null,
+"Y",
+"Y",
+null,
+null,
+"B",
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1767.697,
+"e": 1773.037,
+"text": "ia merosakkan asas ayat, iaitu hubungan subjek dengan predikat.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+"B",
+null,
+"B"
+]
+},
+{
+"s": 1773.077,
+"e": 1776.817,
+"text": "Sekali lagi, kami merakamkan jutaan terima kasih kepada Dr.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1776.857,
+"e": 1781.477,
+"text": "Siti Dahlia atas bimbingan dan ilmu yang dicurahkan.",
+"tags": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"s": 1781.517,
+"e": 1782.937,
+"text": "Sekian, terima kasih.",
+"tags": [
+null,
+null,
+null
+]
+},
+{
+"s": 1782.977,
+"e": 1785.747,
+"text": "Betulkan ayat, selamatkan bahasa!",
+"tags": [
+"Y",
+"Y",
+"Y",
+"Y"
+]
+}
+]

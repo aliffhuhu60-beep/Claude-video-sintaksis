@@ -1,0 +1,1978 @@
+1
+00:00:26,147 --> 00:00:30,927
+Assalamualaikum warahmatullahi
+wabarakatuh dan salam sejahtera.
+
+2
+00:00:30,967 --> 00:00:34,687
+Yang kami hormati, pensyarah
+kursus Sintaksis Bahasa Melayu,
+
+3
+00:00:34,727 --> 00:00:38,887
+Dr. Siti Dahlia binti Abdullah,
+serta rakan-rakan sekalian.
+
+4
+00:00:38,927 --> 00:00:42,947
+Terlebih dahulu, kami ingin merakamkan
+setinggi-tinggi penghargaan dan jutaan
+
+5
+00:00:42,987 --> 00:00:44,287
+terima kasih kepada Dr.
+
+6
+00:00:44,327 --> 00:00:49,547
+Siti atas bimbingan, tunjuk ajar dan
+teguran yang membina sepanjang kursus
+
+7
+00:00:49,587 --> 00:00:53,087
+ini. Melalui tugasan PB1, Dr.
+
+8
+00:00:53,127 --> 00:00:58,407
+telah membimbing kami menganalisis
+binaan frasa, binaan klausa dan proses
+
+9
+00:00:58,447 --> 00:01:03,127
+transformasi ayat, iaitu pengguguran,
+penyusunan semula dan perluasan.
+
+10
+00:01:03,167 --> 00:01:07,327
+Ilmu itulah yang menjadi
+asas kepada tugasan PB2 ini.
+
+11
+00:01:07,367 --> 00:01:11,887
+Tanpa pemahaman bahawa setiap ayat
+mesti mempunyai subjek dan predikat,
+
+12
+00:01:11,927 --> 00:01:15,217
+dan bahawa klausa terikat
+tidak dapat berdiri sendiri,
+
+13
+00:01:15,367 --> 00:01:19,607
+kami tidak mungkin dapat mengenal
+pasti kesalahan ayat yang berlaku di
+
+14
+00:01:19,647 --> 00:01:20,987
+sekeliling kami setiap hari.
+
+15
+00:01:21,027 --> 00:01:26,327
+Kami juga ingin berterima kasih kepada
+rakan-rakan sekelas yang sudi mencuba
+
+16
+00:01:26,367 --> 00:01:31,337
+dan memberikan pandangan semasa
+kami membina dunia permainan ini.
+
+17
+00:01:31,637 --> 00:01:36,487
+Saya, Mohamad Aliff bin Ahmad
+Shahabuddin bersama rakan saya
+
+18
+00:01:43,527 --> 00:01:48,827
+Pada hari ni, kami akan membentakan isu
+keracauan bahasa dalam aspek sintaksi
+
+19
+00:01:48,867 --> 00:01:51,187
+iaitu kesalahan pada peringkat ayat.
+
+20
+00:01:51,227 --> 00:01:54,007
+Pembentangan kami terbahagi
+kepada 6 bahagian.
+
+21
+00:01:54,047 --> 00:01:57,747
+yang pertama, pengetahuan isu
+dan sebab isu ini dipilih.
+
+22
+00:01:57,787 --> 00:02:02,847
+Yang kedua, 3 jenis kesalahan ayat
+yang kami pilih bersatu contoh daripada
+
+23
+00:02:02,887 --> 00:02:04,777
+media sosial dan kesannya.
+
+24
+00:02:04,987 --> 00:02:08,987
+Seterusnya, cadangan penambahan baikan
+melalui dunia Minecraft Education yang
+
+25
+00:02:09,027 --> 00:02:11,487
+kami namakan misi penyelamat ayat.
+
+26
+00:02:11,527 --> 00:02:16,847
+Selain itu, demonstrasi cara bermain,
+tambahan pula, cadangan penambahan
+
+27
+00:02:16,887 --> 00:02:21,057
+baikan lain dan akhir sekali
+harapan serta penutup.
+
+28
+00:02:23,227 --> 00:02:26,097
+Apakah ini maksudkan
+dengan kerancuan bahasa?
+
+29
+00:02:26,347 --> 00:02:30,267
+Menurut Kamus Dewan, perkataan
+rancu membawa maksud kacau,
+
+30
+00:02:30,307 --> 00:02:32,667
+tidak teratur atau campur aduk.
+
+31
+00:02:32,707 --> 00:02:37,487
+Oleh itu, kerancuan bahasa ialah
+penggunaan bahasa yang kacau dan tidak
+
+32
+00:02:37,527 --> 00:02:42,007
+teratur sehingga menyalahi
+peraturan tatabahasa bahasa Melayu.
+
+33
+00:02:42,047 --> 00:02:46,947
+Kerancuan bahasa boleh berlaku dalam
+pelbagai aspek, misalnya ejaan,
+
+34
+00:02:46,987 --> 00:02:50,507
+sebutan, pembentukan
+kata dan susunan ayat.
+
+35
+00:02:50,547 --> 00:02:54,827
+Dalam pembentangan ini, kami memberikan
+tumpuan kepada kerancuan dalam aspek
+
+36
+00:02:54,867 --> 00:02:59,447
+sintaksis. Seperti yang telah
+kami bincangkan dalam PB1,
+
+37
+00:02:59,487 --> 00:03:04,847
+sintaksis ialah bidang tatabahasa yang
+mengkaji cara perkataan disusun untuk
+
+38
+00:03:04,887 --> 00:03:10,707
+membentuk frasa, klausa dan ayat
+menurut (Nik Safiah Karim et al.,
+
+39
+00:03:10,747 --> 00:03:12,257
+2024).
+
+40
+00:03:12,707 --> 00:03:16,067
+Ayat yang gramatis mestilah
+mempunyai dua unsur utama,
+
+41
+00:03:16,107 --> 00:03:18,467
+iaitu subjek dan predikat.
+
+42
+00:03:18,507 --> 00:03:22,927
+Subjek ialah unsur yang diterangkan,
+manakala predikat ialah unsur yang
+
+43
+00:03:22,967 --> 00:03:24,347
+menerangkan subjek.
+
+44
+00:03:24,387 --> 00:03:29,407
+Contohnya, dalam ayat Murid
+membaca buku, murid ialah subjek,
+
+45
+00:03:29,447 --> 00:03:32,197
+manakala membaca buku ialah predikat.
+
+46
+00:03:32,247 --> 00:03:36,287
+Kerancuan sintaksis berlaku apabila
+hubungan subjek dan predikat ini
+
+47
+00:03:36,327 --> 00:03:40,617
+terganggu. Gangguan itu boleh
+berlaku dalam beberapa keadaan.
+
+48
+00:03:41,107 --> 00:03:45,347
+Ada kalanya subjek hilang kerana
+ditenggelami oleh kata sendi nama di hadapan
+
+49
+00:03:45,387 --> 00:03:50,067
+ayat. Ada kalanya predikat tidak wujud,
+sehingga ayat itu hanya terdiri
+
+50
+00:03:50,107 --> 00:03:52,417
+daripada satu frasa nama yang panjang.
+
+51
+00:03:52,907 --> 00:03:58,867
+Ada kalanya pula klausa terikat dibiarkan
+berdiri sendiri tanpa klausa utama.
+
+52
+00:03:58,907 --> 00:04:04,547
+Selain itu, sudut ayat juga menjadi rancu
+apabila unsur bahasa asing mengambil
+
+53
+00:04:04,587 --> 00:04:10,807
+alih fungsi kata kerja,
+kata hubung dan kata adjektif
+
+54
+00:04:10,847 --> 00:04:12,477
+dalam ayat bahasa Melayu.
+
+55
+00:04:12,727 --> 00:04:17,607
+Kami ingin menegaskan bahawa fokus kami
+bukan kesalahan kata secara terpencil,
+
+56
+00:04:17,647 --> 00:04:20,417
+seperti salah ejaan satu perkataan.
+
+57
+00:04:20,747 --> 00:04:25,197
+Fokus kami ialah kesalahan yang
+menjejaskan binaan ayat secara keseluruhan.
+
+58
+00:04:25,567 --> 00:04:29,987
+Kesalahan seperti ini lebih sukar
+dikesan kerana ayatnya kelihatan biasa,
+
+59
+00:04:30,027 --> 00:04:33,117
+malah sudah sebati dengan
+pertuturan harian kita.
+
+60
+00:04:33,347 --> 00:04:37,987
+Dalam pertuturan, kita dibantu oleh
+konteks, nada suara dan gerak badan.
+
+61
+00:04:38,027 --> 00:04:42,107
+Namun, dalam penulisan, pembaca
+hanya bergantung pada susunan ayat.
+
+62
+00:04:42,147 --> 00:04:47,397
+Oleh sebab itu, ayat rancu dalam tulisan
+lebih mudah menimbulkan kekeliruan.
+
+63
+00:04:49,947 --> 00:04:53,937
+Persoalannya, di manakah isu
+ini paling jelas berlaku?
+
+64
+00:04:54,387 --> 00:04:57,587
+Jawapannya ialah di media sosial.
+
+65
+00:04:57,627 --> 00:05:01,777
+Kami telah meneliti 3
+platform yang paling popular,
+
+66
+00:05:02,147 --> 00:05:03,677
+iaitu TikTok,
+
+67
+00:05:04,207 --> 00:05:06,957
+Threads dan juga YouTube.
+
+68
+00:05:07,507 --> 00:05:12,807
+Kerancuan ayat dapat dilihat
+dengan jelas dalam kapsyen jualan,
+
+69
+00:05:12,847 --> 00:05:17,037
+tajuk video, hantaran
+dan juga ruangan komen.
+
+70
+00:05:17,493 --> 00:05:20,863
+Contohnya, dalam kapsyen jualan di TikTok,
+
+71
+00:05:21,233 --> 00:05:26,393
+kita sering membaca ayat seperti
+Kepada yang berminat boleh maklumkan di
+
+72
+00:05:26,433 --> 00:05:32,213
+ruangan komen. Dalam tajuk video makanan
+pula, terdapat ayat seperti Kedai
+
+73
+00:05:32,253 --> 00:05:34,783
+malatang yang paling sedap kat KL.
+
+74
+00:05:35,493 --> 00:05:40,453
+Di YouTube dan Threads, ayat seperti
+Harini team kami nak share cara buat
+
+75
+00:05:40,493 --> 00:05:47,133
+kek Dan Overall best gila, wajib try guys!
+
+76
+00:05:47,693 --> 00:05:49,593
+sudah menjadi perkara biasa.
+
+77
+00:05:49,633 --> 00:05:55,393
+Ayat-ayat ini ditulis oleh
+pengguna dewasa, peniaga dan
+
+78
+00:05:55,433 --> 00:05:56,963
+pencipta kandungan,
+
+79
+00:05:57,573 --> 00:06:01,923
+tetapi dibaca setiap hari
+oleh jutaan pengguna,
+
+80
+00:06:02,533 --> 00:06:05,203
+termasuklah kanak-kanak.
+
+81
+00:06:05,513 --> 00:06:08,983
+Kami memilih isu ini atas empat sebab.
+
+82
+00:06:09,033 --> 00:06:10,383
+Sebab yang pertama,
+
+83
+00:06:10,753 --> 00:06:13,303
+isu ini paling hampir dengan murid.
+
+84
+00:06:13,633 --> 00:06:17,613
+Murid sekolah rendah hari ini
+membesar dengan TikTok dan YouTube.
+
+85
+00:06:17,653 --> 00:06:23,413
+Bahasa yang mereka baca dan dengar
+setiap hari akan mereka tiru dalam
+
+86
+00:06:23,453 --> 00:06:26,003
+pertuturan dan penulisan.
+
+87
+00:06:26,113 --> 00:06:27,763
+Sebab yang kedua,
+
+88
+00:06:28,943 --> 00:06:34,873
+kesalahan ini sudah dianggap moment.
+
+89
+00:06:35,523 --> 00:06:41,103
+Ramai pengguna tidak lagi menyedari
+bahawa ayat-ayat itu salah,
+
+90
+00:06:41,143 --> 00:06:45,043
+maka kesalahan itu terus
+berulang dan tersebar.
+
+91
+00:06:45,083 --> 00:06:50,373
+Sebab yang ketiga, isu ini berkait
+secara langsung dengan kursus Sintaksis
+
+92
+00:06:50,843 --> 00:06:57,353
+kerana melibatkan unsur subjek, predikat,
+klausa bebas dan klausa terikat.
+
+93
+00:06:57,463 --> 00:07:02,643
+Kajian juga mendapati bahawa kesalahan
+struktur ayat manseh lagi lazim dalam
+
+94
+00:07:02,683 --> 00:07:04,373
+penulisan murid
+
+95
+00:07:04,843 --> 00:07:10,473
+menurut Chongfeng Peng &
+Vanithmalar Jayabalan, 2026).
+
+96
+00:07:10,683 --> 00:07:15,343
+Sebab yang keempat, sebagai
+bakal guru bahasa Melayu,
+
+97
+00:07:15,383 --> 00:07:19,323
+kami bertanggungjawab untuk
+tidak sekadar mengkritik,
+
+98
+00:07:19,363 --> 00:07:25,763
+tetapi menyediakan jalan penyelesaian
+yang sesuai dengan dunia murid.
+
+99
+00:07:25,803 --> 00:07:28,693
+Daripada bukti yang kami kumpulkan,
+
+100
+00:07:29,143 --> 00:07:33,043
+kami memilih tiga jenis kesalahan
+ayat yang paling kerap ditemui,
+
+101
+00:07:33,083 --> 00:07:39,323
+iaitu ayat tanpa subjek, ayat tidak
+lengkap dan juga bahasa rojak dalam binaan
+
+102
+00:07:39,363 --> 00:07:40,293
+ayat.
+
+103
+00:07:40,807 --> 00:07:46,447
+Ketiga-tiga jenis ini akan diterangkan
+oleh rakan saya iaitu Muhammad Aliff,
+
+104
+00:07:46,487 --> 00:07:48,757
+dan juga Amin Najmi.
+
+105
+00:07:51,133 --> 00:07:52,723
+Terima kasih, Iman Irfan.
+
+106
+00:07:53,073 --> 00:07:56,893
+Jenis kesalahan pertama
+ialah ayat tanpa subjek.
+
+107
+00:07:56,933 --> 00:07:58,953
+Kesalahan ini berlaku dalam dua keadaan.
+
+108
+00:07:58,993 --> 00:08:04,473
+Keadaan pertama, ayat dimulakan
+dengan kata sendi nama seperti kepada,
+
+109
+00:08:04,513 --> 00:08:09,193
+bagi, untuk, dalam, di,
+daripada dan menurut,
+
+110
+00:08:09,233 --> 00:08:12,283
+atau frasa seperti dengan adanya.
+
+111
+00:08:12,713 --> 00:08:16,553
+Apabila kata sendi nama
+diletakkan di hadapan frasa nama,
+
+112
+00:08:16,593 --> 00:08:21,953
+frasa itu berubah menjadi frasa sendi
+nama yang berfungsi sebagai keterangan,
+
+113
+00:08:21,993 --> 00:08:24,683
+bukan lagi sebagai subjek.
+
+114
+00:08:24,753 --> 00:08:28,333
+Akibatnya, predikat ayat
+itu tidak mempunyai subjek.
+
+115
+00:08:28,373 --> 00:08:34,453
+Keadaan kedua, subjek digugurkan
+terus, terutamanya kata ganti
+
+116
+00:08:34,493 --> 00:08:40,653
+nama seperti saya, anda atau kami,
+kerana penulis menganggap pembaca
+
+117
+00:08:40,693 --> 00:08:41,663
+sudah faham.
+
+118
+00:08:42,093 --> 00:08:46,933
+Baiklah, Mari kita lihat contoh
+yang kami temui di media sosial.
+
+119
+00:08:46,973 --> 00:08:49,663
+Di dalam platform TikTok, kapsyen jualan,
+
+120
+00:08:50,193 --> 00:08:55,553
+ayat yang selalu digunakan ialah,
+Kepada yang berminat boleh maklumkan di
+
+121
+00:08:55,593 --> 00:09:02,063
+ruangan komen. Dalam ayat ini, kepada
+yang berminat ialah frasa sendi nama.
+
+122
+00:09:02,273 --> 00:09:04,863
+Jadi, siapakah yang boleh maklumkan?
+
+123
+00:09:05,213 --> 00:09:07,293
+Ayat ini tidak mempunyai subjek.
+
+124
+00:09:07,333 --> 00:09:12,633
+Ayat yang betul ialah Mereka yang
+berminat boleh memaklumkan di ruangan
+
+125
+00:09:12,673 --> 00:09:18,513
+komen. Kata sendi nama kepada
+digugurkan dan frasa nama mereka yang
+
+126
+00:09:18,553 --> 00:09:20,963
+berminat menjadi subjek.
+
+127
+00:09:21,867 --> 00:09:25,957
+Contoh yang kedua, kalau
+berminat, boleh wasap ya?
+
+128
+00:09:26,447 --> 00:09:29,027
+Ayat ini terdiri daripada dua klausa.
+
+129
+00:09:29,067 --> 00:09:32,317
+Tetapi kedua-duanya
+tidak mempunyai subjek.
+
+130
+00:09:32,647 --> 00:09:37,527
+Siapakah yang berminat dan siapakah
+yang boleh menghubungi Ayat yang betul,
+
+131
+00:09:37,567 --> 00:09:41,407
+jika anda berminat, anda
+boleh menghubungi kami.
+
+132
+00:09:41,447 --> 00:09:45,637
+Subjek anda ditambah
+dalam kedua-dua klausa.
+
+133
+00:09:46,560 --> 00:09:49,010
+Contoh yang ketiga dan keempat.
+
+134
+00:09:49,513 --> 00:09:54,923
+Semoga dipermudahkan urusan sis dan
+Berminat boleh walkin ke kedai kami.
+
+135
+00:09:55,713 --> 00:10:00,113
+Kedua-duanya juga tidak mempunyai
+subjek bagi klausa utama.
+
+136
+00:10:00,153 --> 00:10:01,763
+Ayat yang betul,
+
+137
+00:10:02,093 --> 00:10:07,693
+ialah Saya berdoa semoga urusan sis
+dipermudah dan pelanggan yang berminat
+
+138
+00:10:07,733 --> 00:10:09,643
+boleh datang ke kedai kami.
+
+139
+00:10:10,127 --> 00:10:11,027
+Jadi,
+
+140
+00:10:11,167 --> 00:10:13,007
+Apakah kesan kesalahan ini?
+
+141
+00:10:13,047 --> 00:10:19,187
+Kesan yang Pertama, maksud ayat
+menjadi kabur kerana pembaca tidak tahu
+
+142
+00:10:19,227 --> 00:10:22,567
+siapa pelaku atau siapa yang diterangkan.
+
+143
+00:10:22,607 --> 00:10:28,607
+Dalam pengumuman rasmi, kekaburan ini
+boleh menyebabkan arahan disalah faham.
+
+144
+00:10:28,647 --> 00:10:34,287
+Kedua, kesalahan ini sukar disedari
+kerana ayatnya terasa betul apabila
+
+145
+00:10:34,327 --> 00:10:35,337
+dituturkan.
+
+146
+00:10:35,667 --> 00:10:39,397
+Akibatnya, murid membawa pola
+yang sama ke dalam karangan,
+
+147
+00:10:39,727 --> 00:10:46,257
+misalnya Bagi saya berpendapat bahawa
+atau Dalam cerita itu mengisahkan
+
+148
+00:10:46,927 --> 00:10:51,827
+Akhir sekali dalam peperiksaan, ayat
+seperti ini dikira sebagai kesalahan
+
+149
+00:10:51,867 --> 00:10:56,537
+tatabahasa dan menyebabkan
+murid kehilangan markah bahasa.
+
+150
+00:10:58,850 --> 00:11:02,610
+Terima kasih Aliff untuk penerangan
+jenis kesalahan yang pertama.
+
+151
+00:11:02,650 --> 00:11:07,430
+Jadi saya akan menerangkan Jenis
+kesalahan kedua iaitu ayat tidak lengkap.
+
+152
+00:11:07,470 --> 00:11:11,710
+Ayat tidak lengkap ialah binaan yang
+kelihatan seperti ayat kerana dimulakan
+
+153
+00:11:11,750 --> 00:11:15,950
+dengan huruf besar dan diakhiri dengan
+tanda noktah, tetapi tidak mempunyai
+
+154
+00:11:15,990 --> 00:11:18,230
+unsur yang cukup untuk membentuk ayat.
+
+155
+00:11:18,270 --> 00:11:21,030
+Kesalahan ini terbahagi
+kepada tiga bentuk.
+
+156
+00:11:21,070 --> 00:11:23,610
+Bentuk pertama, ayat tiada predikat.
+
+157
+00:11:23,650 --> 00:11:28,010
+Penulis hanya menulis frasa nama yang
+panjang, biasanya dengan klausa relatif
+
+158
+00:11:28,050 --> 00:11:28,890
+yang.
+
+159
+00:11:28,930 --> 00:11:31,470
+Seperti yang kami huraikan dalam PB1,
+
+160
+00:11:31,870 --> 00:11:36,230
+klausa relatif ialah klausa terikat
+yang hanya menerangkan frasa nama,
+
+161
+00:11:36,270 --> 00:11:38,630
+maka ia tidak boleh menjadi predikat.
+
+162
+00:11:38,670 --> 00:11:44,430
+Bentuk kedua, klausa tergantung, iaitu
+klausa terikat yang dimulakan dengan
+
+163
+00:11:44,470 --> 00:11:47,100
+kata hubung seperti apabila,
+
+164
+00:11:47,570 --> 00:11:53,280
+kerana, kalau dan selepas,
+tetapi tidak disertai klausa utama.
+
+165
+00:11:53,690 --> 00:11:57,750
+Bentuk ketiga, kata kerja
+transitif yang tidak diikuti objek,
+
+166
+00:11:57,790 --> 00:12:00,130
+misalnya Ayah membeli di kedai.
+
+167
+00:12:00,170 --> 00:12:03,870
+Pembaca tertanya-tanya,
+apakah yang dibeli oleh ayah?
+
+168
+00:12:03,910 --> 00:12:08,810
+Jadi Contoh pertama ialah tajuk video,
+Kedai malatang yang paling sedap kat
+
+169
+00:12:08,850 --> 00:12:14,010
+KL. Binaan ini hanyalah frasa nama
+kedai malatang yang diterangkan oleh
+
+170
+00:12:14,050 --> 00:12:16,650
+klausa relatif yang paling sedap.
+
+171
+00:12:16,690 --> 00:12:20,160
+Tiada predikat yang menyatakan
+apa-apa tentang kedai itu.
+
+172
+00:12:20,450 --> 00:12:25,280
+Ayat yang betul ialah Kedai ini ialah
+kedai malatang paling sedap di KL.
+
+173
+00:12:25,790 --> 00:12:31,130
+Kini, kedai ini menjadi subjek dan
+ialah kedai malatang paling sedap di KL
+
+174
+00:12:31,170 --> 00:12:33,340
+menjadi predikat.
+
+175
+00:12:33,853 --> 00:12:37,313
+Contoh kedua, restoran
+mewah tapi harga murah.
+
+176
+00:12:37,353 --> 00:12:42,813
+Tanpa penentu ini, frasa restoran mewah
+dibaca sebagai satu frasa nama iaitu
+
+177
+00:12:42,853 --> 00:12:46,673
+restoran sebagai inti dan
+mewah sebagai penerang.
+
+178
+00:12:46,713 --> 00:12:49,673
+Hal yang sama berlaku pada harga murah.
+
+179
+00:12:49,713 --> 00:12:54,913
+Jadi, binaan ini hanyalah 2 frasa
+nama yang dihubungkan bukan ayat.
+
+180
+00:12:54,953 --> 00:12:59,383
+Ayat yang betul ialah restoran
+ini mewah tetapi harganya murah.
+
+181
+00:12:59,927 --> 00:13:03,927
+Contoh ketiga, korang kalau
+suka snek seperti ini.
+
+182
+00:13:03,967 --> 00:13:09,007
+Ayat ini ialah klausa keterangan syarat
+yang dimulakan dengan kalau tetapi
+
+183
+00:13:09,047 --> 00:13:10,427
+tidak ada klausa utama.
+
+184
+00:13:10,467 --> 00:13:13,977
+Pembaca tertunggu-tunggu kalau
+suka apa yang perlu dilakukan.
+
+185
+00:13:14,247 --> 00:13:18,897
+Ayat yang betul ialah kalau kalian
+suka snek ini, kalian wajib mencubanya.
+
+186
+00:13:19,413 --> 00:13:21,093
+Kesan kesalahan ini cukup besar.
+
+187
+00:13:21,133 --> 00:13:24,593
+Pertama, mesej tidak
+sampai dengan lengkap.
+
+188
+00:13:24,633 --> 00:13:28,653
+Dalam iklan, pembaca tidak tahu
+apakah tawaran yang sebenarnya.
+
+189
+00:13:28,973 --> 00:13:32,933
+Dalam arahan pula, pembaca tidak
+tahu tindakan yang perlu diambil.
+
+190
+00:13:32,973 --> 00:13:37,833
+Kedua, murid yang kerap membaca ayat
+seperti ini akan menulis ayat tergantung
+
+191
+00:13:37,873 --> 00:13:41,493
+dalam karangan, misalnya
+Apabila loceng berbunyi.
+
+192
+00:13:41,533 --> 00:13:43,423
+lalu terus meletakkan noktah.
+
+193
+00:13:44,033 --> 00:13:48,913
+Ketiga, kemahiran murid membina ayat
+majmuk menjadi lemah kerana tidak
+
+194
+00:13:48,953 --> 00:13:52,853
+memahami bahawa klausa terikat
+memerlukan klausa utama.
+
+195
+00:13:52,893 --> 00:13:57,533
+Jadi, Saya serahkan kepada Iman Irfan
+untuk menerangkan jenis kesalahan
+
+196
+00:13:57,573 --> 00:13:58,903
+ketiga.
+
+197
+00:14:00,817 --> 00:14:01,777
+Terima kasih, Amin.
+
+198
+00:14:01,817 --> 00:14:05,207
+Jenis kesalahan ketiga ialah bahasa rojak.
+
+199
+00:14:05,737 --> 00:14:09,977
+Bahasa rojak ialah percampuran bahasa
+Melayu dengan bahasa Inggeris atau
+
+200
+00:14:10,017 --> 00:14:12,557
+bahasa basahan dalam satu ayat.
+
+201
+00:14:12,597 --> 00:14:17,057
+Mungkin ada yang bertanya, adakah bahasa
+rojak termasuk dalam aspek sintaksis
+
+202
+00:14:17,097 --> 00:14:19,467
+atau hanya aspek kata?
+
+203
+00:14:19,517 --> 00:14:24,817
+Jawapannya, bahasa rojak menjadi isu
+sintaksis apabila unsur asing itu
+
+204
+00:14:24,857 --> 00:14:27,387
+mengambil alih fungsi dalam binaan ayat.
+
+205
+00:14:27,817 --> 00:14:32,557
+Unsur bahasa Inggeris dijadikan
+inti frasa kerja, kata hubung yang
+
+206
+00:14:32,597 --> 00:14:38,587
+menghubungkan klausa dalam ayat majmuk,
+atau penerang dalam frasa adjektif.
+
+207
+00:14:39,257 --> 00:14:44,987
+Akibatnya, ayat itu tidak lagi mematuhi
+struktur ayat bahasa Melayu baku.
+
+208
+00:14:45,667 --> 00:14:49,837
+Baiklah, contoh yang pertama
+ialah tajuk video di YouTube,
+
+209
+00:14:50,167 --> 00:14:53,177
+Harini team kami nak share cara buat kek.
+
+210
+00:14:53,387 --> 00:14:58,357
+Dalam ayat ini, inti subjek ialah
+team dan inti predikat ialah share,
+
+211
+00:14:58,947 --> 00:15:01,697
+kedua-duanya perkataan bahasa Inggeris.
+
+212
+00:15:02,127 --> 00:15:06,377
+Kata bantu nak dan kata kerja
+buat pula ialah bentuk basahan.
+
+213
+00:15:06,987 --> 00:15:12,997
+Ayat yang betul ialah Hari ini pasukan
+kami ingin berkongsi cara membuat kek.
+
+214
+00:15:13,913 --> 00:15:17,961
+Contoh kedua dan ketiga ialah
+Pakej serendah RM30 only!
+
+215
+00:15:18,001 --> 00:15:19,743
+Tekan link di bio.
+
+216
+00:15:19,793 --> 00:15:22,023
+Dan Overall best gila, wajib try guys!
+
+217
+00:15:22,213 --> 00:15:26,665
+Dalam contoh ketiga, hampir semua
+unsur ayat iaitu keterangan,
+
+218
+00:15:26,705 --> 00:15:31,333
+predikat dan objek diambil daripada
+bahasa Inggeris dan bahasa basahan.
+
+219
+00:15:31,373 --> 00:15:33,533
+Malah subjeknya juga tiada.
+
+220
+00:15:33,573 --> 00:15:37,883
+Ayat betul ialah secara keseluruhan
+makanan ini sangat bagus.
+
+221
+00:15:38,213 --> 00:15:40,043
+Anda wajib mencubanya.
+
+222
+00:15:40,093 --> 00:15:43,013
+Bahasa rojak juga merosakkan
+binaan ayat majmuk.
+
+223
+00:15:43,053 --> 00:15:44,543
+Contohnya,
+
+224
+00:15:45,040 --> 00:15:48,670
+Kami pergi shopping di pasar
+raya, so kami penat sangat.
+
+225
+00:15:48,900 --> 00:15:53,160
+Kata hubung bahasa Inggeris so digunakan
+untuk menghubungkan dua klausa.
+
+226
+00:15:53,200 --> 00:15:57,000
+Ayat betul ialah kami pergi
+membeli-belah di pasar raya.
+
+227
+00:15:57,040 --> 00:15:59,490
+Oleh itu, kami sangat penat.
+
+228
+00:16:00,410 --> 00:16:06,690
+Apakah kesannya? Yang Pertama, bahasa
+rojak menjejaskan martabat bahasa Melayu
+
+229
+00:16:06,730 --> 00:16:12,350
+sebagai bahasa kebangsaan seperti
+yang termaktub dalam Perkara 152
+
+230
+00:16:12,390 --> 00:16:15,390
+Perlembagaan Persekutuan.
+
+231
+00:16:15,430 --> 00:16:19,390
+Yang Kedua, murid kehilangan
+kosa kata bahasa Melayu.
+
+232
+00:16:19,430 --> 00:16:24,210
+Ramai murid lebih mengenali perkataan
+submit, share dan busy berbanding
+
+233
+00:16:24,250 --> 00:16:27,270
+menghantar, berkongsi dan sibuk.
+
+234
+00:16:27,310 --> 00:16:32,910
+Yang Ketiga, murid tidak dapat membezakan
+situasi rasmi dengan situasi tidak
+
+235
+00:16:32,950 --> 00:16:37,034
+rasmi, lalu membawa bahasa
+rojak ke dalam karangan mereka,
+
+236
+00:16:37,074 --> 00:16:40,150
+surat rasmi dan jawapan peperiksaan.
+
+237
+00:16:40,190 --> 00:16:44,330
+Dan yang Keempat, jika dibiarkan,
+generasi akan datang mungkin menganggap
+
+238
+00:16:44,370 --> 00:16:48,170
+bahasa rojak sebagai
+bentuk bahasa yang betul.
+
+239
+00:16:48,210 --> 00:16:53,490
+Secara keseluruhan, ketiga-tiga jenis
+kesalahan ini mempunyai satu persamaan,
+
+240
+00:16:53,530 --> 00:16:59,330
+iaitu semuanya merosakkan hubungan
+antara subjek dengan predikat dalam ayat.
+
+241
+00:16:59,370 --> 00:17:03,410
+Murid sekolah rendah paling terkesan
+kerana mereka berada pada peringkat
+
+242
+00:17:03,450 --> 00:17:05,430
+meniru dan membina asas bahasa.
+
+243
+00:17:05,470 --> 00:17:10,690
+Apa-apa yang mereka baca hari ini
+akan menjadi bahasa mereka pada masa
+
+244
+00:17:10,730 --> 00:17:16,920
+hadapan. Oleh itu, kami percaya
+bahawa usaha membasmi kerancuan bahasa
+
+245
+00:17:17,220 --> 00:17:20,020
+mesti bermula di sekolah rendah.
+
+246
+00:17:20,060 --> 00:17:23,220
+Baiklah, sekarang Saya serahkan
+semula kepada rakan saya,
+
+247
+00:17:23,260 --> 00:17:26,530
+Aliff, untuk menerangkan
+cadangan penambahbaikan kami.
+
+248
+00:17:29,080 --> 00:17:31,370
+Terima kasih, Iman Irfan.
+
+249
+00:17:31,640 --> 00:17:36,740
+Daripada bukti yang kami peroleh di
+media sosial, kami bertanya kepada diri
+
+250
+00:17:36,780 --> 00:17:42,020
+sendiri: sebagai bakal guru,
+apakah yang boleh kami lakukan?
+
+251
+00:17:42,060 --> 00:17:46,660
+Murid sekolah rendah tidak boleh dihalang
+daripada media sosial sepenuhnya,
+
+252
+00:17:46,700 --> 00:17:52,420
+tetapi mereka boleh dilatih untuk
+mengenal pasti ayat yang salah dan
+
+253
+00:17:52,460 --> 00:17:57,760
+membetulkannya. Kami juga sedar bahawa
+latihan tatabahasa secara tradisional
+
+254
+00:17:57,800 --> 00:18:00,780
+sering dianggap membosankan oleh murid.
+
+255
+00:18:00,820 --> 00:18:06,660
+Oleh itu, kami membina sebuah dunia
+permainan dalam Minecraft Education yang
+
+256
+00:18:06,700 --> 00:18:10,060
+kami namakan Misi Penyelamat Ayat.
+
+257
+00:18:10,100 --> 00:18:14,500
+Kami memilih Minecraft
+Education kerana tiga sebab.
+
+258
+00:18:14,540 --> 00:18:20,240
+Sebab yang Pertama, permainan ini sangat
+diminati oleh murid sekolah rendah,
+
+259
+00:18:20,280 --> 00:18:21,180
+maka
+
+260
+00:18:21,280 --> 00:18:23,000
+mereka terlibat secara aktif.
+
+261
+00:18:23,040 --> 00:18:28,140
+Sebab yang Kedua, Minecraft Education
+boleh diakses oleh guru dan murid
+
+262
+00:18:28,180 --> 00:18:32,710
+melalui akaun DELIMa, maka
+tidak memerlukan kos tambahan.
+
+263
+00:18:33,220 --> 00:18:38,120
+Dan akhir sekali, Minecraft Education
+membolehkan kami menggabungkan
+
+264
+00:18:38,160 --> 00:18:43,380
+pembelajaran dengan permainan melalui
+misi, markah, pingat dan papan
+
+265
+00:18:43,420 --> 00:18:44,590
+kedudukan.
+
+266
+00:18:45,200 --> 00:18:48,590
+Dunia ini dibina berdasarkan
+bukti yang kami kumpulkan.
+
+267
+00:18:49,120 --> 00:18:54,200
+Ketiga-tiga jenis kesalahan yang telah
+diterangkan tadi dijadikan sebagai tiga
+
+268
+00:18:54,240 --> 00:19:00,540
+misi. Contoh kapsyen media sosial yang
+sebenar dipamerkan dalam galeri isu di
+
+269
+00:19:00,580 --> 00:19:06,180
+lobi utama. Setiap jawapan murid
+diikuti dengan penerangan segera tentang
+
+270
+00:19:06,220 --> 00:19:10,290
+sebab jawapan itu betul atau salah.
+
+271
+00:19:10,440 --> 00:19:17,210
+Sekarang, kami akan menunjukkan cara
+bermain dunia Misi Penyelamat Ayat ini.
+
+272
+00:19:20,863 --> 00:19:25,653
+Apabila murid memasuki dunia ini,
+mereka akan berada di lobi utama.
+
+273
+00:19:25,763 --> 00:19:30,243
+Papan tanda Selamat Datang ke Misi
+Penyelamat Ayat menerangkan matlamat
+
+274
+00:19:30,283 --> 00:19:34,863
+permainan, iaitu membetulkan ayat
+yang salah dan mengumpulkan markah.
+
+275
+00:19:34,903 --> 00:19:37,233
+Apabila murid mendekati watak
+
+276
+00:19:37,690 --> 00:19:42,910
+penyambut, mesej di bahagian bawah skrin
+mengarahkan mereka membaca poster di
+
+277
+00:19:42,950 --> 00:19:48,610
+sekitar dinding dan galeri isu
+di dinding sebelah kiri dan
+
+278
+00:19:48,650 --> 00:19:55,210
+kanan. Poster di dinding sebelah
+utara memperkenalkan tiga misi.
+
+279
+00:19:55,250 --> 00:19:58,520
+iaitu misi yang pertama
+Jenis yang pertama,
+
+280
+00:19:58,910 --> 00:20:05,150
+iaitu ayat tanpa subjek, dengan
+peringatan Elak mula ayat dengan kepada,
+
+281
+00:20:05,190 --> 00:20:07,960
+bagi, dalam, dan di.
+
+282
+00:20:08,030 --> 00:20:13,050
+Dan Jenis yang kedua ialah ayat tidak
+lengkap, dengan peringatan bahawa ayat
+
+283
+00:20:13,090 --> 00:20:15,110
+perlu subjek dan predikat.
+
+284
+00:20:15,150 --> 00:20:20,330
+Dan akhir sekali Jenis ketiga ialah
+bahasa rojak, dengan peringatan Jangan
+
+285
+00:20:20,370 --> 00:20:23,060
+campur bahasa Inggeris
+atau Bahasa basahan.
+
+286
+00:20:23,270 --> 00:20:28,710
+Di dinding sebelah kiri dan kanan pula
+terdapat Galeri Isu Kerancuan Bahasa.
+
+287
+00:20:28,750 --> 00:20:33,350
+Setiap paparan berbentuk telefon
+mengandungi tiga bahagian,
+
+288
+00:20:33,390 --> 00:20:37,890
+iaitu kapsyen yang salah
+daripada media sosial, jenis isu,
+
+289
+00:20:37,930 --> 00:20:39,650
+dan ayat yang betul.
+
+290
+00:20:39,690 --> 00:20:44,530
+Contohnya, kapsyen Kepada yang berminat
+boleh maklumkan di ruangan komen
+
+291
+00:20:44,570 --> 00:20:50,530
+dilabelkan sebagai Jenis satu iaitu
+tiada subjek, dan diikuti ayat
+
+292
+00:20:50,570 --> 00:20:55,810
+betulnya. Galeri ini penting kerana
+murid dapat melihat sendiri bahawa
+
+293
+00:20:55,850 --> 00:21:01,170
+kesalahan yang dipelajari benar-benar
+berlaku di media sosial yang mereka
+
+294
+00:21:01,210 --> 00:21:03,240
+gunakan setiap hari.
+
+295
+00:21:04,033 --> 00:21:08,683
+Murid boleh memilih untuk bermain
+secara individu atau berkumpulan.
+
+296
+00:21:08,753 --> 00:21:13,633
+Untuk bermain secara individu, murid
+masuk melalui gerbang hijau dan memijak
+
+297
+00:21:13,673 --> 00:21:17,993
+blok zamrud. Untuk bermain secara
+berkumpulan, murid masuk melalui gerbang
+
+298
+00:21:18,033 --> 00:21:23,373
+ungu dan memijak bulu mengikut
+warna kumpulan, iaitu merah,
+
+299
+00:21:23,413 --> 00:21:25,473
+biru, hijau atau kuning.
+
+300
+00:21:25,513 --> 00:21:30,173
+Dalam mod berkumpulan, markah dikongsi
+bersama, maka murid perlu berbincang
+
+301
+00:21:30,213 --> 00:21:35,913
+dan bekerjasama. Sebelum bermula,
+murid boleh mencuba petak latihan dengan
+
+302
+00:21:35,953 --> 00:21:38,993
+memijak blok emas untuk membiasakan diri.
+
+303
+00:21:39,033 --> 00:21:40,793
+Sistem markahnya mudah.
+
+304
+00:21:40,833 --> 00:21:44,453
+Setiap jawapan yang betul
+diberi tambahan 100 markah,
+
+305
+00:21:44,493 --> 00:21:48,653
+manakala setiap jawapan yang
+salah ditolak 50 markah.
+
+306
+00:21:48,693 --> 00:21:54,073
+Murid perlu menjawab 5 soalan dengan
+betul untuk naik ke jenis seterusnya.
+
+307
+00:21:54,113 --> 00:21:56,723
+Setiap jenis mempunyai 10 soalan.
+
+308
+00:21:57,790 --> 00:22:01,640
+Selepas memijak blok zamrud,
+murid dibawa ke lobi Jenis satu.
+
+309
+00:22:01,750 --> 00:22:06,320
+Di sini, murid diberikan 30 saat
+untuk membaca papan ciri-ciri.
+
+310
+00:22:06,650 --> 00:22:10,300
+Papan ini mengingatkan bahawa
+setiap ayat mesti mempunyai subjek,
+
+311
+00:22:10,693 --> 00:22:12,513
+Dan cara membetulkannya.
+
+312
+00:22:12,553 --> 00:22:16,553
+adalah menggugurkan kata sendi
+nama atau menambah subjek.
+
+313
+00:22:16,593 --> 00:22:21,013
+Masa membaca ini sengaja disediakan
+supaya murid mengulang kaji konsep sebelum
+
+314
+00:22:21,053 --> 00:22:21,953
+menjawab.
+
+315
+00:22:22,423 --> 00:22:28,283
+Soalan pertama, ialah kepada semua
+murid dikehendaki berkumpul di dewan.
+
+316
+00:22:28,323 --> 00:22:31,843
+Murid diminta memilih perkataan yang
+perlu digugurkan supaya ayat ini
+
+317
+00:22:31,883 --> 00:22:37,943
+mempunyai subjek. Pilihan A ialah
+semua, pilihan B ialah Kepada
+
+318
+00:22:37,983 --> 00:22:40,663
+pilihan C ialah dewan.
+
+319
+00:22:40,703 --> 00:22:44,013
+Murid menjawab dengan
+memijak blok berwarna.
+
+320
+00:22:44,123 --> 00:22:46,533
+Saya pijak blok B, iaitu Kepada.
+
+321
+00:22:47,043 --> 00:22:50,453
+Jawapan betul, dan saya
+mendapat 100 markah.
+
+322
+00:22:50,983 --> 00:22:53,333
+Perhatikan penerangan di skrin:
+
+323
+00:22:53,983 --> 00:22:55,993
+Kepada ialah kata sendi.
+
+324
+00:22:56,443 --> 00:22:59,533
+Gugurkan supaya Semua murid jadi subjek.
+
+325
+00:23:00,327 --> 00:23:05,237
+Sekarang saya tunjukkan apa yang
+berlaku jika murid menjawab salah.
+
+326
+00:23:05,567 --> 00:23:09,577
+Soalan kedua ialah Bagi murid
+yang datang lewat akan didenda.
+
+327
+00:23:09,687 --> 00:23:12,477
+Saya sengaja memilih murid.
+
+328
+00:23:13,047 --> 00:23:16,407
+Jawapan salah, markah akan ditolak 50.
+
+329
+00:23:16,447 --> 00:23:22,137
+dan permainan terus menunjukkan
+jawapan yang betul, iaitu Bagi,
+
+330
+00:23:22,227 --> 00:23:28,180
+beserta sebabnya. Melalui cara ini,
+murid tidak sekadar tahu jawapannya
+
+331
+00:23:28,220 --> 00:23:30,070
+salah, tetapi faham
+
+332
+00:23:30,600 --> 00:23:32,340
+mengapa jawapannya salah.
+
+333
+00:23:32,380 --> 00:23:36,780
+Jika murid mahu mencuba soalan lain,
+mereka boleh memijak blok biru untuk
+
+334
+00:23:36,820 --> 00:23:37,810
+ulang.
+
+335
+00:23:41,893 --> 00:23:46,373
+Setelah menjawab lima soalan dengan
+betul, murid naik ke Jenis dua,
+
+336
+00:23:46,413 --> 00:23:48,053
+iaitu ayat tidak lengkap.
+
+337
+00:23:48,093 --> 00:23:50,663
+Aktiviti dalam misi ini berbeza.
+
+338
+00:23:50,733 --> 00:23:52,453
+Murid perlu menyusun ayat.
+
+339
+00:23:52,493 --> 00:23:56,723
+Soalan pertama ialah Rumah Ali
+yang besar di hujung kampung itu.
+
+340
+00:23:56,833 --> 00:23:59,703
+Ayat ini tidak lengkap
+kerana tiada predikat.
+
+341
+00:24:00,013 --> 00:24:04,033
+Murid perlu membuka Peti satu yang
+mengandungi bahagian awal ayat,
+
+342
+00:24:04,073 --> 00:24:07,113
+dan Peti dua yang mengandungi
+bahagian akhir ayat.
+
+343
+00:24:07,153 --> 00:24:13,013
+Saya ambil Rumah Ali yang besar itu
+daripada Peti satu dan terletak di
+
+344
+00:24:13,053 --> 00:24:15,533
+hujung kampung daripada Peti dua.
+
+345
+00:24:15,573 --> 00:24:20,393
+Kemudian, saya letakkan kepingan itu
+dalam Bingkai satu dan Bingkai dua.
+
+346
+00:24:20,433 --> 00:24:24,593
+Jawapan terus disemak, dan ayat Rumah
+Ali yang besar itu terletak di hujung
+
+347
+00:24:24,633 --> 00:24:26,733
+kampung ialah ayat yang lengkap.
+
+348
+00:24:27,580 --> 00:24:32,220
+Perhatikan bahawa peti juga mengandungi
+pilihan pengecoh seperti Kerana rumah
+
+349
+00:24:32,260 --> 00:24:34,800
+Ali dan yang di hujung kampung.
+
+350
+00:24:34,840 --> 00:24:39,600
+Jika murid memilih pengecoh ini, ayat
+itu masih tergantung atau masih tiada
+
+351
+00:24:39,640 --> 00:24:42,940
+predikat. Inilah kemahiran
+yang kami mahu murid kuasai,
+
+352
+00:24:42,980 --> 00:24:46,000
+iaitu membezakan klausa
+utama dengan klausa terikat.
+
+353
+00:24:46,040 --> 00:24:51,100
+Jika murid tersalah susun, mereka boleh
+memijak blok Set Semula untuk mengisi
+
+354
+00:24:51,140 --> 00:24:53,350
+semula peti dan mengosongkan bingkai.
+
+355
+00:24:57,580 --> 00:25:01,390
+Misi terakhir ialah Jenis
+3, iaitu bahasa rojak.
+
+356
+00:25:01,440 --> 00:25:04,940
+Misi ini paling mencabar kerana
+murid perlu melakukan parkour,
+
+357
+00:25:04,980 --> 00:25:09,340
+iaitu melompat dari satu blok ke blok
+yang lain untuk sampai ke platform
+
+358
+00:25:09,380 --> 00:25:11,000
+jawapan yang betul.
+
+359
+00:25:11,040 --> 00:25:15,740
+Soalan pertama ialah Saya sangat
+happy kerana dapat hadiah.
+
+360
+00:25:15,780 --> 00:25:19,780
+Perkataan berwarna merah perlu digantikan
+dengan perkataan bahasa Melayu yang
+
+361
+00:25:19,820 --> 00:25:24,220
+betul. Pilihannya ialah
+gembira, happy dan marah.
+
+362
+00:25:24,260 --> 00:25:27,500
+Saya melompat ke platform
+A, iaitu gembira.
+
+363
+00:25:27,540 --> 00:25:32,920
+Jawapan betul! Jika murid jatuh ke dalam
+air, mereka perlu mencuba semula dari
+
+364
+00:25:32,960 --> 00:25:38,450
+permulaan. Setiap bilik
+mempunyai laluan yang berbeza,
+
+365
+00:25:38,980 --> 00:25:43,840
+maka murid perlu fokus dan berhati-hati,
+sama seperti mereka perlu
+
+366
+00:25:43,880 --> 00:25:47,090
+berhati-hati memilih
+perkataan dalam penulisan.
+
+367
+00:25:47,713 --> 00:25:51,913
+Apabila ketiga-tiga misi selesai,
+murid dibawa ke dewan keputusan dan
+
+368
+00:25:51,953 --> 00:25:54,113
+diberikan gelaran Penyelamat Ayat.
+
+369
+00:25:54,153 --> 00:25:58,673
+Keputusan murid dipaparkan, termasuk
+markah, bilangan jawapan betul,
+
+370
+00:25:58,713 --> 00:26:02,153
+bilangan jawapan yang salah
+dan bilangan misi yang selesai.
+
+371
+00:26:02,193 --> 00:26:07,933
+Murid yang membuat kesalahan antara
+sifar hingga 3 kali layak menerima pingat
+
+372
+00:26:07,973 --> 00:26:10,583
+emas dengan bonus 300.
+
+373
+00:26:11,033 --> 00:26:16,013
+Murid yang membuat kesalahan antara
+4 hingga 7 kali menerima pingat perak
+
+374
+00:26:16,053 --> 00:26:20,562
+dengan bonus 150 manakala
+selebihnya menerima pingat gangsa.
+
+375
+00:26:20,602 --> 00:26:24,253
+Papan kedudukan memaparkan
+15 pemain teratas.
+
+376
+00:26:24,293 --> 00:26:26,663
+Apabila guru memijak lodestone,
+
+377
+00:26:27,113 --> 00:26:32,643
+majlis penyampaian bermula dan juara
+pertama, kedua dan ketiga naik ke pentas.
+
+378
+00:26:32,813 --> 00:26:34,693
+Dunia ini juga mesra guru.
+
+379
+00:26:34,733 --> 00:26:38,453
+Jika masa kelas tamat, murid boleh
+keluar dengan memijak blok besi,
+
+380
+00:26:38,493 --> 00:26:40,393
+dan kemajuan mereka disimpan.
+
+381
+00:26:40,433 --> 00:26:44,273
+Pada sesi seterusnya, murid hanya perlu
+memijak glowstone untuk menyambung
+
+382
+00:26:44,313 --> 00:26:49,793
+misi. Di Sudut Guru, guru boleh menetapkan
+semula semua markah dan memaparkan
+
+383
+00:26:49,833 --> 00:26:51,953
+laporan kemajuan setiap murid.
+
+384
+00:26:51,993 --> 00:26:55,713
+Melalui laporan ini, guru dapat mengenal
+pasti jenis kesalahan yang paling
+
+385
+00:26:55,753 --> 00:26:58,983
+kerap dilakukan oleh murid dan
+merancang pengajaran susulan.
+
+386
+00:27:01,547 --> 00:27:03,137
+Selain Minecraft Education,
+
+387
+00:27:03,527 --> 00:27:08,767
+kami turut mencadangkan beberapa langkah
+lain yang lebih mudah dilaksanakan,
+
+388
+00:27:08,807 --> 00:27:12,657
+terutamanya di sekolah yang mempunyai
+kemudahan peranti yang terhad.
+
+389
+00:27:13,087 --> 00:27:14,597
+Cadangan yang pertama
+
+390
+00:27:14,947 --> 00:27:18,147
+aktiviti Detektif Ayat Media Sosial.
+
+391
+00:27:18,187 --> 00:27:24,897
+Guru memaparkan tangkap layar capture
+daripada media sosial tanpa nama akaun.
+
+392
+00:27:25,247 --> 00:27:30,517
+Murid bekerja dalam kumpulan untuk
+menggariskan subjek dan predikat,
+
+393
+00:27:30,607 --> 00:27:34,417
+mengenal pasti jenis
+kesalahan, dalam kumpulan
+
+394
+00:27:34,807 --> 00:27:38,447
+dan menulis semula ayat yang betul.
+
+395
+00:27:38,487 --> 00:27:43,587
+Ayat-ayat yang telah dibetulkan ditampal
+pada Dinding Ayat Betul di dalam
+
+396
+00:27:43,627 --> 00:27:49,857
+kelas. Aktiviti ini melatih murid supaya
+membaca media sosial secara kritis.
+
+397
+00:27:50,227 --> 00:27:55,047
+Cadangan yang kedua ialah kad
+permainan Selamatkan Ayat.
+
+398
+00:27:55,087 --> 00:27:59,437
+Kad ini mengandungi ayat salah
+daripada tiga jenis kesalahan.
+
+399
+00:27:59,790 --> 00:28:02,280
+Murid bergilir-gilir mencabut kad,
+
+400
+00:28:02,663 --> 00:28:07,223
+dan murid yang dapat membetulkan ayat
+dengan tepat akan mengumpulkan mata.
+
+401
+00:28:07,263 --> 00:28:12,043
+Kad ini murah, tidak memerlukan internet,
+dan boleh digunakan sebagai aktiviti
+
+402
+00:28:12,083 --> 00:28:14,343
+pengayaan atau pemulihan.
+
+403
+00:28:14,383 --> 00:28:19,173
+Cadangan yang terakhir ialah kempen
+hashtag Ayat Betul Sekolahku.
+
+404
+00:28:19,223 --> 00:28:24,623
+Semua pengumuman, papan notis dan hantaran
+media sosial rasmi sekolah disemak
+
+405
+00:28:24,663 --> 00:28:28,193
+oleh panitia Bahasa
+Melayu sebelum disiarkan.
+
+406
+00:28:28,263 --> 00:28:32,583
+Ibu bapa juga digalakkan menjadi contoh
+dengan menggunakan bahasa Melayu yang
+
+407
+00:28:32,623 --> 00:28:35,493
+betul dalam kumpulan WhatsApp kelas.
+
+408
+00:28:35,683 --> 00:28:38,803
+Apabila murid dikelilingi
+oleh contoh ayat yang betul,
+
+409
+00:28:38,843 --> 00:28:42,273
+mereka akan meniru bahasa yang betul.
+
+410
+00:28:44,330 --> 00:28:49,950
+Kami berharap agar dunia Misi Penyelamat
+Ayat ini dapat digunakan oleh guru
+
+411
+00:28:49,990 --> 00:28:54,990
+bahasa Melayu di sekolah rendah dan
+terus dikembangkan dengan jenis kesalahan
+
+412
+00:28:55,030 --> 00:28:59,770
+ayat yang lain. Kami juga berharap
+agar murid hari ini membesar sebagai
+
+413
+00:28:59,810 --> 00:29:05,190
+pengguna media sosial yang celik bahasa,
+iaitu mampu menikmati kandungan
+
+414
+00:29:05,230 --> 00:29:07,720
+digital tanpa meniru kesalahannya.
+
+415
+00:29:08,090 --> 00:29:12,710
+Akhir sekali, kami berharap agar masyarakat,
+terutamanya pencipta kandungan,
+
+416
+00:29:12,750 --> 00:29:17,710
+berbangga menggunakan bahasa Melayu yang
+betul, kerana bahasa yang betul tetap
+
+417
+00:29:17,750 --> 00:29:21,880
+boleh menarik dan dekat dengan khalayak.
+
+418
+00:29:22,357 --> 00:29:27,657
+Kesimpulannya, kerancuan bahasa dalam
+aspek sintaksis bukan isu kecil kerana
+
+419
+00:29:27,697 --> 00:29:33,037
+ia merosakkan asas ayat, iaitu
+hubungan subjek dengan predikat.
+
+420
+00:29:33,077 --> 00:29:36,817
+Sekali lagi, kami merakamkan
+jutaan terima kasih kepada Dr.
+
+421
+00:29:36,857 --> 00:29:41,477
+Siti Dahlia atas bimbingan
+dan ilmu yang dicurahkan.
+
+422
+00:29:41,517 --> 00:29:42,937
+Sekian, terima kasih.
+
+423
+00:29:42,977 --> 00:29:45,747
+Betulkan ayat, selamatkan bahasa!
