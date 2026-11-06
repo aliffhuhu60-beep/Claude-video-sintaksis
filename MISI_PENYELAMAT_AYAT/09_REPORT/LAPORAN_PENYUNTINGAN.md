@@ -46,50 +46,50 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 | Sumber (mula–tamat) | Tempoh | Sebab |
 |---|---|---|
-| 00:00.00 – 00:01.33 | 1.3s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 00:00.00 – 00:01.33 | 1.3s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 01:06.47 – 02:33.87 | 87.4s | Take 1 perkenalan + perbualan luar skrip ("aku cakap nanti korang akan masuk…") – diganti Take 2 yang lebih kemas |
 | 03:23.33 – 03:33.93 | 10.6s | Jeda & perbualan antara rakaman ("Dah", "Ya…") |
-| 03:37.03 – 03:38.23 | 1.2s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 04:44.17 – 04:44.97 | 0.8s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 06:00.33 – 06:07.33 | 7.0s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 06:34.87 – 06:35.50 | 0.6s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 08:28.93 – 08:29.83 | 0.9s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 03:37.03 – 03:38.23 | 1.2s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 04:44.17 – 04:44.97 | 0.8s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 06:00.33 – 06:07.33 | 7.0s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 06:34.87 – 06:35.50 | 0.6s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 08:28.93 – 08:29.83 | 0.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 08:59.67 – 09:07.83 | 8.2s | Ayat serah tugas tidak lengkap (diulang semula oleh pembentang) |
-| 09:15.97 – 09:22.40 | 6.4s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 10:23.83 – 10:24.53 | 0.7s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 10:53.23 – 10:55.10 | 1.9s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 11:41.97 – 11:47.13 | 5.2s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 12:11.37 – 12:12.10 | 0.7s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 09:15.97 – 09:22.40 | 6.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 10:23.83 – 10:24.53 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 10:53.23 – 10:55.10 | 1.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 11:41.97 – 11:47.13 | 5.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 12:11.37 – 12:12.10 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 12:14.60 – 12:18.43 | 3.8s | Tergeliat lidah: "Semoga dipermudahkan urusan semua" (diulang) |
-| 12:38.60 – 12:47.83 | 9.2s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 14:22.13 – 14:25.03 | 2.9s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 15:04.57 – 15:14.67 | 10.1s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 15:40.27 – 15:46.50 | 6.2s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 12:38.60 – 12:47.83 | 9.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 14:22.13 – 14:25.03 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 15:04.57 – 15:14.67 | 10.1s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 15:40.27 – 15:46.50 | 6.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 | 16:05.53 – 16:12.33 | 6.8s | Ayat "Kesan kesalahan ini cukup besar" berulang |
 | 16:57.03 – 17:08.00 | 11.0s | Perbualan luar skrip ("Contoh kan? Dah?") |
-| 17:35.53 – 17:37.57 | 2.0s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 17:35.53 – 17:37.57 | 2.0s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 18:54.13 – 18:58.60 | 4.5s | Tergagap: "seperti kerancuan bahasa" (diulang) |
 | 19:08.13 – 19:15.43 | 7.3s | Perbualan luar skrip ("Oh, dengan bahasa rojak di bawah tu") |
 | 19:46.33 – 19:47.93 | 1.6s | Tergagap: "kami pergi" (diulang) |
 | 20:02.60 – 20:08.43 | 5.8s | Jeda antara rakaman |
 | 21:57.00 – 22:02.27 | 5.3s | Jeda antara rakaman |
-| 22:19.10 – 22:20.73 | 1.6s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 23:06.57 – 23:07.57 | 1.0s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 22:19.10 – 22:20.73 | 1.6s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 23:06.57 – 23:07.57 | 1.0s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 23:47.73 – 24:01.50 | 13.8s | Perbualan luar skrip ("Dah, dah. Itu bukan aku… Tukar") |
-| 24:54.40 – 24:56.93 | 2.5s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 24:54.40 – 24:56.93 | 2.5s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 25:09.73 – 25:13.73 | 4.0s | Frasa "dan cara membetulkannya" berulang |
 | 25:25.10 – 25:48.57 | 23.5s | Take pertama Soalan 1 terhenti ("…dalam…") – guna take kedua |
-| 26:26.20 – 26:28.90 | 2.7s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 26:53.33 – 26:54.00 | 0.7s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 27:07.13 – 27:13.50 | 6.4s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 27:58.80 – 28:06.03 | 7.2s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 26:26.20 – 26:28.90 | 2.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 26:53.33 – 26:54.00 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 27:07.13 – 27:13.50 | 6.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 27:58.80 – 28:06.03 | 7.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 | 28:32.27 – 28:47.77 | 15.5s | Perbualan luar skrip ("Boleh aje lagi") |
-| 29:37.10 – 29:39.77 | 2.7s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
-| 30:51.27 – 30:54.13 | 2.9s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 29:37.10 – 29:39.77 | 2.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 30:51.27 – 30:54.13 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 31:52.07 – 32:01.23 | 9.2s | Frasa "tiga jenis kesalahan" berulang |
 | 32:03.80 – 32:17.67 | 13.9s | Ayat tergagap (diulang semula) |
 | 32:57.73 – 33:11.47 | 13.7s | Take pertama Bahagian J terhenti ("Yang ini tak boleh…") |
-| 34:12.97 – 34:18.10 | 5.1s | Jeda panjang / senyap dipendekkan (tiada isi dibuang) |
+| 34:12.97 – 34:18.10 | 5.1s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 
 **Jumlah dibuang: 335.8s** daripada 2058.1s rakaman (pengambilan semula, perbualan luar skrip, tergagap dan jeda melebihi 1 saat). Tiada definisi, contoh ayat, analisis, penerangan permainan, fungsi guru atau harapan dibuang.
 
@@ -183,6 +183,15 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 ## 8. Semakan kualiti (QC)
 
+* Tempoh: 1800.000 s (30:00.000) – 54000 bingkai video ✅
+* Resolusi / FPS: 1920×1080 @ 30/1 ✅
+* Codec: h264 (High) + aac 48000 Hz 2 saluran ✅
+* Saiz fail: 0.97 GB
+* Skrin hitam: Tiada skrin hitam tidak disengajakan ✅ (0:00.0–0:00.6 dan 0:11.6–0:13.0 ialah detik gelap intro sinematik yang disengajakan; fade-out di 30:00)
+* Kekuatan audio: -16.03 LUFS, puncak -1.34 dBTP ✅
+* Bilangan kiu sarikata: 423 (SRT + ASS dinamik)
+* Bilangan elemen grafik: 264
+* Semakan visual: Lembaran bingkai setiap 30 s disemak: susunan A–K betul, wajah pembentang tidak ditutup grafik, sarikata tidak bertindih grafik/HUD ✅
 
 ## 9. Fail projek
 
