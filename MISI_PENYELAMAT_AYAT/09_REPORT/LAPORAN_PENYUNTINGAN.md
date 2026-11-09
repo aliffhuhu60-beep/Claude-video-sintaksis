@@ -8,6 +8,7 @@
 
 | Fail | Kandungan | Spesifikasi |
 |---|---|---|
+| `Sudut guru.mp4` | Rakaman Sudut Guru (blok redstone, set semula markah) | 0:34, 1728×1080 |
 | `video penerangan` | Rakaman ketiga-tiga pembentang (Bahagian A–K, termasuk naratif demonstrasi H) | 34:18, 1280×720, 30 fps |
 | `GAMEPLAY MINECRAFT.mp4` | Rakaman skrin dunia *Misi Penyelamat Ayat* (tiada suara) | 20:29, 1904×972, 30 fps |
 | `Skrip_PB2…pdf` | Skrip penuh + kunci jawapan + rujukan | 22 hlm |
@@ -20,25 +21,25 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 | Bahagian | Mula | Tamat | Tempoh | Pembentang |
 |---|---|---|---|---|
-| Intro sinematik (perkataan bercelaru → dunia Minecraft → kad tajuk) | 00:00.00 | 00:26.00 | 26.0s | – |
-| A – Pembukaan & penghargaan | 00:26.00 | 01:31.13 | 65.1s | Mohamad Aliff |
-| A – Pengenalan pembentang & aliran | 01:31.63 | 02:21.10 | 49.5s | Aliff, Amin, Iman |
-| B – Pengenalan kerancuan bahasa | 02:23.20 | 04:47.60 | 144.4s | Amin Najmi |
-| C – Bukti media sosial & sebab | 04:49.70 | 07:48.93 | 179.2s | Iman Irfan |
-| D – Jenis 1: Ayat tanpa subjek | 07:51.03 | 10:56.73 | 185.7s | Mohamad Aliff |
-| E – Jenis 2: Ayat tidak lengkap | 10:58.83 | 13:58.70 | 179.9s | Amin Najmi |
-| F – Jenis 3: Bahasa rojak | 14:00.80 | 17:26.73 | 205.9s | Iman Irfan |
-| G – Pengenalan Minecraft Education | 17:28.83 | 19:17.40 | 108.6s | Mohamad Aliff |
-| H1 – Lobi & galeri isu | 19:20.60 | 21:03.43 | 102.8s | Mohamad Aliff |
-| H2 – Mod permainan & markah | 21:04.03 | 21:56.93 | 52.9s | Amin Najmi |
-| H3 – Misi 1 | 21:57.53 | 23:37.63 | 100.1s | Iman Irfan |
-| H4 – Misi 2 | 23:41.63 | 24:53.57 | 71.9s | Amin Najmi |
-| H5 – Misi 3 | 24:57.57 | 25:46.90 | 49.3s | Amin Najmi |
-| H6 – Keputusan & Sudut Guru | 25:47.70 | 26:59.20 | 71.5s | Amin Najmi |
-| I – Cadangan lain | 27:01.30 | 28:42.47 | 101.2s | Mohamad Aliff |
-| J – Harapan | 28:44.07 | 29:21.70 | 37.6s | Mohamad Aliff |
-| K – Penutup | 29:22.10 | 29:45.93 | 23.8s | Mohamad Aliff |
-| Outro (syot berkumpulan + slogan + kad terima kasih & rujukan, fade-out) | 29:45.93 | 30:00.00 | 14.1s | Semua |
+| Intro sinematik (perkataan bercelaru → dunia Minecraft → kad tajuk) | 00:00.00 | 00:14.40 | 14.4s | – |
+| A – Pembukaan & penghargaan | 00:14.40 | 01:19.53 | 65.1s | Mohamad Aliff |
+| A – Pengenalan pembentang & aliran | 01:20.03 | 02:11.07 | 51.0s | Aliff, Amin, Iman |
+| B – Pengenalan kerancuan bahasa | 02:12.87 | 04:36.50 | 143.6s | Amin Najmi |
+| C – Bukti media sosial & sebab | 04:38.30 | 07:39.13 | 180.8s | Iman Irfan |
+| D – Jenis 1: Ayat tanpa subjek | 07:40.93 | 10:50.57 | 189.6s | Mohamad Aliff |
+| E – Jenis 2: Ayat tidak lengkap | 10:52.37 | 13:56.70 | 184.3s | Amin Najmi |
+| F – Jenis 3: Bahasa rojak | 13:58.50 | 17:26.67 | 208.2s | Iman Irfan |
+| G – Pengenalan Minecraft Education | 17:28.47 | 19:16.33 | 107.9s | Mohamad Aliff |
+| H1 – Lobi & galeri isu | 19:18.93 | 21:01.70 | 102.8s | Mohamad Aliff |
+| H2 – Mod permainan & markah | 21:02.30 | 21:55.17 | 52.9s | Amin Najmi |
+| H3 – Misi 1 | 21:55.77 | 23:34.50 | 98.7s | Iman Irfan |
+| H4 – Misi 2 | 23:40.70 | 24:52.57 | 71.9s | Amin Najmi |
+| H5 – Misi 3 | 24:55.57 | 25:44.80 | 49.2s | Amin Najmi |
+| H6 – Keputusan & Sudut Guru | 25:45.60 | 26:57.07 | 71.5s | Amin Najmi |
+| I – Cadangan lain | 26:58.87 | 28:40.40 | 101.5s | Mohamad Aliff |
+| J – Harapan | 28:41.80 | 29:19.43 | 37.6s | Mohamad Aliff |
+| K – Penutup | 29:19.83 | 29:43.67 | 23.8s | Mohamad Aliff |
+| Outro (syot berkumpulan + slogan + kad terima kasih & rujukan, fade-out) | 29:43.67 | 30:00.00 | 16.3s | Semua |
 
 > Susunan skrip asal A→K dikekalkan. Masa setiap bahagian berbeza sedikit daripada jadual skrip (cth. H bermula 19:20 berbanding 18:20) kerana mengikut tempoh sebenar rakaman pembentang – **tiada suara dipercepat atau diubah**. Jumlah keseluruhan dikunci tepat 30:00.
 
@@ -47,51 +48,53 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 | Sumber (mula–tamat) | Tempoh | Sebab |
 |---|---|---|
 | 00:00.00 – 00:01.33 | 1.3s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 01:06.47 – 02:33.87 | 87.4s | Take 1 perkenalan + perbualan luar skrip ("aku cakap nanti korang akan masuk…") – diganti Take 2 yang lebih kemas |
-| 03:23.33 – 03:33.93 | 10.6s | Jeda & perbualan antara rakaman ("Dah", "Ya…") |
-| 03:37.03 – 03:38.23 | 1.2s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 04:44.17 – 04:44.97 | 0.8s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 06:00.33 – 06:07.33 | 7.0s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 01:06.47 – 01:25.40 | 18.9s | Take 1 bahagian nama pembentang (diganti take 2 yang lebih kemas) |
+| 02:04.27 – 02:33.73 | 29.5s | Perbualan luar skrip antara take ("aku cakap nanti korang akan masuk…") |
+| 02:45.57 – 03:33.93 | 48.4s | Take 2 ayat pengenalan – sebutan "kerancuan" tidak tepat; diganti ayat yang sama daripada take 1 |
+| 03:37.00 – 03:38.23 | 1.2s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 04:44.30 – 04:44.97 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 05:59.93 – 06:07.33 | 7.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 | 06:34.87 – 06:35.50 | 0.6s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 08:28.93 – 08:29.83 | 0.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 08:59.67 – 09:07.83 | 8.2s | Ayat serah tugas tidak lengkap (diulang semula oleh pembentang) |
+| 08:28.90 – 08:29.83 | 0.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 08:59.27 – 09:07.83 | 8.6s | Ayat serah tugas tidak lengkap (diulang semula oleh pembentang) |
 | 09:15.97 – 09:22.40 | 6.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 | 10:23.83 – 10:24.53 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 10:53.23 – 10:55.10 | 1.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 10:53.20 – 10:55.10 | 1.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 11:41.97 – 11:47.13 | 5.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
-| 12:11.37 – 12:12.10 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 12:11.33 – 12:12.10 | 0.8s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 12:14.60 – 12:18.43 | 3.8s | Tergeliat lidah: "Semoga dipermudahkan urusan semua" (diulang) |
 | 12:38.60 – 12:47.83 | 9.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
-| 14:22.13 – 14:25.03 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 14:22.17 – 14:25.03 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 15:04.57 – 15:14.67 | 10.1s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
-| 15:40.27 – 15:46.50 | 6.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 15:40.63 – 15:46.50 | 5.9s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 | 16:05.53 – 16:12.33 | 6.8s | Ayat "Kesan kesalahan ini cukup besar" berulang |
-| 16:57.03 – 17:08.00 | 11.0s | Perbualan luar skrip ("Contoh kan? Dah?") |
-| 17:35.53 – 17:37.57 | 2.0s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 16:50.23 – 16:51.07 | 0.8s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 16:56.63 – 17:08.00 | 11.4s | Perbualan luar skrip ("Contoh kan? Dah?") |
+| 17:35.50 – 17:37.57 | 2.1s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 18:54.13 – 18:58.60 | 4.5s | Tergagap: "seperti kerancuan bahasa" (diulang) |
-| 19:08.13 – 19:15.43 | 7.3s | Perbualan luar skrip ("Oh, dengan bahasa rojak di bawah tu") |
+| 19:07.73 – 19:15.43 | 7.7s | Perbualan luar skrip ("Oh, dengan bahasa rojak di bawah tu") |
 | 19:46.33 – 19:47.93 | 1.6s | Tergagap: "kami pergi" (diulang) |
-| 20:02.60 – 20:08.43 | 5.8s | Jeda antara rakaman |
+| 20:02.20 – 20:08.43 | 6.2s | Jeda antara rakaman |
 | 21:57.00 – 22:02.27 | 5.3s | Jeda antara rakaman |
-| 22:19.10 – 22:20.73 | 1.6s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 23:06.57 – 23:07.57 | 1.0s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 22:19.07 – 22:20.73 | 1.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 23:06.53 – 23:07.57 | 1.0s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 23:47.73 – 24:01.50 | 13.8s | Perbualan luar skrip ("Dah, dah. Itu bukan aku… Tukar") |
-| 24:54.40 – 24:56.93 | 2.5s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 24:54.37 – 24:56.93 | 2.6s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 25:09.73 – 25:13.73 | 4.0s | Frasa "dan cara membetulkannya" berulang |
 | 25:25.10 – 25:48.57 | 23.5s | Take pertama Soalan 1 terhenti ("…dalam…") – guna take kedua |
-| 26:26.20 – 26:28.90 | 2.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 26:26.17 – 26:28.90 | 2.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 26:53.33 – 26:54.00 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 27:07.13 – 27:13.50 | 6.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
-| 27:58.80 – 28:06.03 | 7.2s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
-| 28:32.27 – 28:47.77 | 15.5s | Perbualan luar skrip ("Boleh aje lagi") |
+| 27:58.77 – 28:06.03 | 7.3s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
+| 28:32.23 – 28:47.77 | 15.5s | Perbualan luar skrip ("Boleh aje lagi") |
 | 29:37.10 – 29:39.77 | 2.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 30:51.27 – 30:54.13 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 31:52.07 – 32:01.23 | 9.2s | Frasa "tiga jenis kesalahan" berulang |
+| 30:51.23 – 30:54.13 | 2.9s | Jeda panjang dipendekkan (tiada isi dibuang) |
+| 31:52.43 – 32:01.23 | 8.8s | Frasa "tiga jenis kesalahan" berulang |
 | 32:03.80 – 32:17.67 | 13.9s | Ayat tergagap (diulang semula) |
 | 32:57.73 – 33:11.47 | 13.7s | Take pertama Bahagian J terhenti ("Yang ini tak boleh…") |
 | 34:12.97 – 34:18.10 | 5.1s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 
-**Jumlah dibuang: 335.8s** daripada 2058.1s rakaman (pengambilan semula, perbualan luar skrip, tergagap dan jeda melebihi 1 saat). Tiada definisi, contoh ayat, analisis, penerangan permainan, fungsi guru atau harapan dibuang.
+**Jumlah dibuang: 336.9s** daripada 2058.1s rakaman (pengambilan semula, perbualan luar skrip, tergagap dan jeda melebihi 1 saat). Tiada definisi, contoh ayat, analisis, penerangan permainan, fungsi guru atau harapan dibuang.
 
 **Susunan semula (ikut skrip asal):** Dalam rakaman, contoh 2–4 Bahagian D, contoh 2–3 Bahagian E dan contoh 2–3 Bahagian F dirakam *selepas* bahagian "kesan". Ia disusun semula supaya urutan ialah: contoh → kesan → serah tugas, seperti dalam skrip.
 
@@ -99,73 +102,86 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 | Masa video | Sumber gameplay | Kelajuan | Catatan |
 |---|---|---|---|
-| 00:13.00–00:18.50 | 17:36.00–17:40.40 | 0.80× | gerak perlahan sinematik |
-| 00:18.50–00:24.00 | 00:16.00–00:20.40 | 0.80× | gerak perlahan sinematik |
-| 18:00.57–18:10.13 | 17:37.00–18:05.00 | 2.93× | dipercepat 2.9× (perjalanan/menunggu) |
-| 18:44.93–19:10.47 | 02:15.00–02:52.00 | 1.45× | dipercepat 1.4× (perjalanan/menunggu) |
-| 19:20.60–19:26.93 | 00:14.00–00:20.33 | 1.00× | kelajuan normal (detik penting) |
-| 19:26.93–19:34.93 | 00:33.00–00:41.00 | 1.00× | kelajuan normal (detik penting) |
-| 19:34.93–19:50.70 | 00:41.00–01:07.00 | 1.65× | dipercepat 1.6× (perjalanan/menunggu) |
-| 19:50.70–20:08.07 | 01:28.00–01:45.37 | 1.00× | kelajuan normal (detik penting) |
-| 20:08.07–20:15.20 | 01:40.50–01:47.63 | 1.00× | kelajuan normal (detik penting) |
-| 20:15.20–20:24.47 | 01:48.00–01:57.27 | 1.00× | kelajuan normal (detik penting) |
-| 20:24.47–20:39.73 | 01:07.00–01:22.27 | 1.00× | kelajuan normal (detik penting) |
-| 20:39.73–20:51.50 | 01:16.00–01:27.77 | 1.00× | kelajuan normal (detik penting) |
-| 20:51.50–21:03.43 | 02:01.00–02:13.00 | 1.01× | kelajuan normal (detik penting) |
-| 21:03.43–21:04.03 | 02:10.00–02:12.40 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 21:04.03–21:14.80 | 02:14.00–02:38.00 | 2.23× | dipercepat 2.2× (perjalanan/menunggu) |
-| 21:14.80–21:31.87 | 02:38.00–02:55.07 | 1.00× | kelajuan normal (detik penting) |
-| 21:31.87–21:39.07 | 02:50.00–02:57.20 | 1.00× | kelajuan normal (detik penting) |
-| 21:39.07–21:56.93 | 01:56.50–02:14.37 | 1.00× | kelajuan normal (detik penting) |
-| 21:56.93–21:57.53 | 02:52.00–02:52.60 | 1.00× | kelajuan normal (detik penting) |
-| 21:57.53–22:06.70 | 02:56.00–03:05.17 | 1.00× | kelajuan normal (detik penting) |
-| 22:06.70–22:16.63 | 03:12.00–03:23.00 | 1.11× | dipercepat 1.1× (perjalanan/menunggu) |
-| 22:16.63–22:22.47 | 03:23.00–03:28.83 | 1.00× | kelajuan normal (detik penting) |
-| 22:22.47–22:40.73 | 03:26.00–03:44.27 | 1.00× | kelajuan normal (detik penting) |
-| 22:40.73–22:47.10 | 03:44.00–03:56.60 | 1.98× | dipercepat 2.0× (perjalanan/menunggu) |
-| 22:47.10–23:00.37 | 03:59.00–04:12.27 | 1.00× | kelajuan normal (detik penting) |
-| 23:00.37–23:09.73 | 04:06.00–04:15.37 | 1.00× | kelajuan normal (detik penting) |
-| 23:09.73–23:24.53 | 10:26.50–10:41.30 | 1.00× | kelajuan normal (detik penting) |
-| 23:24.53–23:37.63 | 04:32.00–05:12.00 | 3.05× | dipercepat 3.1× (perjalanan/menunggu) |
-| 23:37.63–23:41.63 | 06:12.00–06:24.00 | 3.00× | dipercepat 3.0× (perjalanan/menunggu) |
-| 23:41.63–23:52.53 | 06:25.00–06:49.00 | 2.20× | dipercepat 2.2× (perjalanan/menunggu) |
-| 23:52.53–24:00.07 | 06:49.00–06:56.53 | 1.00× | kelajuan normal (detik penting) |
-| 24:00.07–24:07.20 | 07:04.00–07:24.00 | 2.80× | dipercepat 2.8× (perjalanan/menunggu) |
-| 24:07.20–24:16.73 | 07:24.00–07:33.52 | 1.00× | kelajuan normal (detik penting) |
-| 24:16.73–24:20.47 | 07:35.00–07:50.00 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 24:20.47–24:27.63 | 07:56.00–08:03.17 | 1.00× | kelajuan normal (detik penting) |
-| 24:27.63–24:36.63 | 09:13.00–09:22.00 | 1.00× | kelajuan normal (detik penting) |
-| 24:36.63–24:46.07 | 09:53.00–10:02.43 | 1.00× | kelajuan normal (detik penting) |
-| 24:46.07–24:53.57 | 10:33.00–10:52.00 | 2.53× | dipercepat 2.5× (perjalanan/menunggu) |
-| 24:53.57–24:57.57 | 12:15.00–12:25.00 | 2.50× | dipercepat 2.5× (perjalanan/menunggu) |
-| 24:57.57–25:11.07 | 12:25.00–12:54.00 | 2.15× | dipercepat 2.1× (perjalanan/menunggu) |
-| 25:11.07–25:24.30 | 12:54.00–13:07.23 | 1.00× | kelajuan normal (detik penting) |
-| 25:24.30–25:27.57 | 13:32.40–13:35.67 | 1.00× | kelajuan normal (detik penting) |
-| 25:27.57–25:28.73 | 13:37.00–13:38.17 | 1.00× | kelajuan normal (detik penting) |
-| 25:28.73–25:31.53 | 13:38.20–13:41.00 | 1.00× | kelajuan normal (detik penting) |
-| 25:31.53–25:46.90 | 13:41.00–14:42.47 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 25:46.90–25:47.70 | 16:25.00–16:28.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 25:47.70–25:54.20 | 16:31.50–16:38.00 | 1.00× | kelajuan normal (detik penting) |
-| 25:54.20–26:02.23 | 16:40.00–16:48.03 | 1.00× | kelajuan normal (detik penting) |
-| 26:02.23–26:20.63 | 16:56.00–17:20.00 | 1.30× | dipercepat 1.3× (perjalanan/menunggu) |
-| 26:20.63–26:32.87 | 17:20.00–17:32.23 | 1.00× | kelajuan normal (detik penting) |
-| 26:32.87–26:45.07 | 19:53.00–20:05.20 | 1.00× | kelajuan normal (detik penting) |
-| 26:45.07–26:59.20 | 17:42.00–18:20.00 | 2.69× | dipercepat 2.7× (perjalanan/menunggu) |
+| 18:00.20–18:09.77 | 17:37.00–18:05.00 | 2.93× | dipercepat 2.9× (perjalanan/menunggu) |
+| 18:43.97–19:09.40 | 02:15.00–02:52.00 | 1.46× | dipercepat 1.5× (perjalanan/menunggu) |
+| 19:18.93–19:25.27 | 00:14.00–00:20.33 | 1.00× | kelajuan normal (detik penting) |
+| 19:25.27–19:33.27 | 00:33.00–00:41.00 | 1.00× | kelajuan normal (detik penting) |
+| 19:33.27–19:49.00 | 00:41.00–01:07.00 | 1.65× | dipercepat 1.7× (perjalanan/menunggu) |
+| 19:49.00–20:06.37 | 01:28.00–01:45.37 | 1.00× | kelajuan normal (detik penting) |
+| 20:06.37–20:13.50 | 01:40.50–01:47.63 | 1.00× | kelajuan normal (detik penting) |
+| 20:13.50–20:22.73 | 01:48.00–01:57.23 | 1.00× | kelajuan normal (detik penting) |
+| 20:22.73–20:38.00 | 01:07.00–01:22.27 | 1.00× | kelajuan normal (detik penting) |
+| 20:38.00–20:49.77 | 01:16.00–01:27.77 | 1.00× | kelajuan normal (detik penting) |
+| 20:49.77–21:01.70 | 02:01.00–02:13.00 | 1.01× | kelajuan normal (detik penting) |
+| 21:01.70–21:02.30 | 02:10.00–02:12.40 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 21:02.30–21:13.07 | 02:14.00–02:38.00 | 2.23× | dipercepat 2.2× (perjalanan/menunggu) |
+| 21:13.07–21:30.13 | 02:38.00–02:55.07 | 1.00× | kelajuan normal (detik penting) |
+| 21:30.13–21:37.33 | 00:00.00–00:07.20 | 1.00× | kelajuan normal (detik penting) |
+| 21:37.33–21:55.17 | 01:56.50–02:14.33 | 1.00× | kelajuan normal (detik penting) |
+| 21:55.17–21:55.77 | 02:52.00–02:52.60 | 1.00× | kelajuan normal (detik penting) |
+| 21:55.77–22:04.93 | 02:56.00–03:05.17 | 1.00× | kelajuan normal (detik penting) |
+| 22:04.93–22:14.87 | 03:12.00–03:23.00 | 1.11× | dipercepat 1.1× (perjalanan/menunggu) |
+| 22:14.87–22:20.67 | 03:23.00–03:28.80 | 1.00× | kelajuan normal (detik penting) |
+| 22:20.67–22:38.93 | 03:26.00–03:44.27 | 1.00× | kelajuan normal (detik penting) |
+| 22:38.93–22:44.93 | 03:44.00–03:58.60 | 2.43× | dipercepat 2.4× (perjalanan/menunggu) |
+| 22:44.93–22:57.83 | 03:58.60–04:11.50 | 1.00× | kelajuan normal (detik penting) |
+| 22:57.83–23:07.20 | 04:06.00–04:15.37 | 1.00× | kelajuan normal (detik penting) |
+| 23:07.20–23:10.07 | 10:24.00–10:28.90 | 1.71× | dipercepat 1.7× (perjalanan/menunggu) |
+| 23:10.07–23:21.50 | 10:28.90–10:40.33 | 1.00× | kelajuan normal (detik penting) |
+| 23:21.50–23:29.30 | 10:34.50–10:48.00 | 1.73× | dipercepat 1.7× (perjalanan/menunggu) |
+| 23:29.30–23:34.50 | 10:48.00–10:53.20 | 1.00× | kelajuan normal (detik penting) |
+| 23:34.50–23:37.70 | 10:51.60–10:54.80 | 1.00× | kelajuan normal (detik penting) |
+| 23:37.70–23:40.70 | 06:12.00–06:24.00 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 23:40.70–23:51.60 | 06:25.00–06:50.00 | 2.29× | dipercepat 2.3× (perjalanan/menunggu) |
+| 23:51.60–23:59.13 | 06:50.00–06:57.53 | 1.00× | kelajuan normal (detik penting) |
+| 23:59.13–24:06.27 | 07:06.50–07:25.00 | 2.59× | dipercepat 2.6× (perjalanan/menunggu) |
+| 24:06.27–24:11.40 | 07:25.00–07:30.13 | 1.00× | kelajuan normal (detik penting) |
+| 24:11.40–24:14.47 | 07:36.00–07:39.07 | 1.00× | kelajuan normal (detik penting) |
+| 24:14.47–24:14.67 | 07:43.00–07:43.20 | 1.00× | kelajuan normal (detik penting) |
+| 24:14.67–24:19.53 | 07:53.00–07:57.87 | 1.00× | kelajuan normal (detik penting) |
+| 24:19.53–24:26.67 | 07:58.70–08:05.83 | 1.00× | kelajuan normal (detik penting) |
+| 24:26.67–24:33.87 | 07:26.30–07:33.50 | 1.00× | kelajuan normal (detik penting) |
+| 24:33.87–24:45.10 | 07:43.30–07:54.53 | 1.00× | kelajuan normal (detik penting) |
+| 24:45.10–24:52.57 | 10:40.00–10:52.00 | 1.61× | dipercepat 1.6× (perjalanan/menunggu) |
+| 24:52.57–24:55.57 | 12:15.00–12:25.00 | 3.33× | dipercepat 3.3× (perjalanan/menunggu) |
+| 24:55.57–25:09.07 | 12:25.00–12:54.00 | 2.15× | dipercepat 2.1× (perjalanan/menunggu) |
+| 25:09.07–25:22.30 | 12:54.00–13:07.23 | 1.00× | kelajuan normal (detik penting) |
+| 25:22.30–25:25.57 | 13:32.70–13:35.97 | 1.00× | kelajuan normal (detik penting) |
+| 25:25.57–25:26.73 | 13:36.70–13:37.87 | 1.00× | kelajuan normal (detik penting) |
+| 25:26.73–25:32.50 | 15:23.20–15:28.97 | 1.00× | kelajuan normal (detik penting) |
+| 25:32.50–25:44.80 | 13:42.00–14:31.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 25:44.80–25:45.60 | 16:26.00–16:29.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 25:45.60–25:52.10 | 16:29.50–16:36.00 | 1.00× | kelajuan normal (detik penting) |
+| 25:52.10–26:00.13 | 16:36.50–16:44.53 | 1.00× | kelajuan normal (detik penting) |
+| 26:00.13–26:18.53 | 16:43.00–17:01.40 | 1.00× | kelajuan normal (detik penting) |
+| 26:18.53–26:26.77 | 17:01.00–17:10.00 | 1.09× | dipercepat 1.1× (perjalanan/menunggu) |
+| 26:26.77–26:30.77 | 17:24.00–17:28.00 | 1.00× | kelajuan normal (detik penting) |
+| 26:30.77–26:42.97 | 19:53.00–20:05.20 | 1.00× | kelajuan normal (detik penting) |
+| 26:42.97–26:50.97 | 00:08.00–00:16.00 | 1.00× | kelajuan normal (detik penting) |
+| 26:50.97–26:57.07 | 00:16.00–00:22.10 | 1.00× | kelajuan normal (detik penting) |
 
 * Suara pembentang **tidak pernah dipercepat** – hanya visual gameplay dilaraskan; audio permainan hanya dimainkan pada segmen kelajuan normal.
 * Speed ramp dipercepat ≥1.8× menggunakan pengadunan bingkai (motion blur ringan).
 * Detik soalan, pemilihan jawapan, BETUL +100, SALAH −50, peti/bingkai, parkour, keputusan dan papan kedudukan dikekalkan pada 1×.
 
-## 5. Bahan yang tidak tersedia / catatan kejujuran
+## 5. Pindaan versi 2 (atas permintaan) & catatan
 
-1. **Jawapan salah dalam Misi 1 tidak dirakam** (semua 5 soalan Misi 1 dijawab betul). Semasa naratif "Saya sengaja memilih murid…", video memaparkan **rakaman sebenar SALAH −50 daripada Misi 2** dengan label jelas *"Contoh paparan jawapan SALAH – rakaman sebenar (Misi 2)"*.
-2. **Sudut Guru (blok redstone/laporan) tidak dirakam.** Bahagian ini dipaparkan sebagai panel fungsi grafik di atas rakaman lobi, berlabel *"Paparan fungsi – tiada data murid dipaparkan"*. Tiada data murid direka.
-3. **Tiada tangkap layar media sosial disediakan** (PDF bukti hanya mengandungi teks). Petikan kapsyen TikTok sebenar (Bukti J1.1 & J2.1) dipaparkan dalam bingkai telefon berlabel "Petikan hantaran awam" dengan nama akaun & gambar profil dikaburkan. Contoh YouTube/Threads dilabel "Contoh ayat" (bukan bukti tangkap layar). Rakaman **galeri telefon sebenar dalam dunia Minecraft** digunakan di Bahagian H1.
-4. **Tiada rakaman dron/udara** – intro menggunakan rakaman lobi sebenar dengan gerak kamera perlahan (zoom) sebagai pengganti.
-5. **Petak latihan (blok emas) tidak dirakam** – naratif disokong papan markah sebenar "Betul +100 / Salah −50" dalam lobi.
-6. **Pembahagian pembentang dalam rakaman berbeza daripada skrip** (cth. Bahagian B dibentang Amin, C oleh Iman). Lower-third mengikut penutur sebenar (disahkan melalui ucapan serah tugas dan lencana nama).
-7. **Ejaan nama** diambil daripada arahan tugasan (tiada muka depan tugasan dalam folder): Mohamad Aliff bin Ahmad Shahabuddin, Muhammad Iman Irfan bin Mohd Ramzi, Amin Najmi bin Mohyidin – sila semak sekali lagi. Tiada nombor KP/matrik dipaparkan.
-8. Rujukan dipaparkan seperti dalam skrip (butiran tajuk beberapa rujukan masih "seperti dalam PB1" dalam skrip asal).
+1. Intro kini **tanpa klip Minecraft & tajuk Misi Penyelamat Ayat**: skrin gelap + perkataan bercelaru → kad tajuk isu.
+2. **Tiada label bahagian** ("Bahagian A/B…", "H1…") dipaparkan sepanjang video.
+3. **Sebutan "kerancuan"** pada awal video: ayat take 2 (sebutan kurang tepat) diganti ayat yang sama daripada take 1. Catatan: ASR juga mengesan kemungkinan sebutan kurang jelas di Bahagian C ("kerancuan ayat dapat dilihat…") dan K ("Kesimpulannya, kerancuan…"); tiada take alternatif untuk bahagian tersebut.
+4. **Paparan maklumat disusun semula**: kotak ayat salah/analisis/betul disusun automatik dengan jarak seragam (≥26 px) tanpa bertindih.
+5. **Bukti media sosial**: galeri 15 petikan sebenar (J1.1–J3.5) di Bahagian C, dan dinding bukti setiap jenis sebelum contoh D, E, F (termasuk contoh YouTube/Threads daripada skrip, dilabel "Contoh skrip").
+6. **Sudut Guru**: klip `Sudut guru.mp4` digunakan semasa Amin menerangkan Sudut Guru.
+7. **Pingat** diterangkan semasa rakaman dewan keputusan (sebelum pentas), dalam lajur sisi – gameplay dikecilkan ke kiri supaya tidak terlindung.
+8. **Jatuh ke air**: klip sebenar pemain jatuh dan kembali ke permulaan (gameplay 15:23–15:28).
+9. **Ayat salah / soalan** dipaparkan dalam lajur kanan – tidak menutup soalan dalam permainan.
+10. **Pilihan pengecoh** menggunakan klip peti Soalan 1 Misi 2.
+11. **+100 / −50** muncul 0.45 s selepas paparan BETUL/SALAH dalam permainan (dikesan automatik: 3:58.97, 7:58.93, 13:36.90, SALAH 10:29.20).
+12. **Misi 2 Soalan 1** diselaraskan langkah demi langkah dengan penerangan Amin (soalan → peti 1 → peti 2 → bingkai → BETUL).
+13. **Blok biru (ULANG)**: klip gameplay 10:34 dan seterusnya – pemain memijak blok biru lalu terus ke soalan seterusnya.
+14. **Blok emas**: klip lobi (pandangan udara) daripada `Sudut guru.mp4`.
+
+**Catatan kejujuran:** Misi 1 tiada rakaman jawapan salah, maka contoh SALAH −50 diambil daripada Misi 2 (berlabel). Tiada tangkap layar media sosial diberikan; petikan teks daripada dokumen bukti dipaparkan dengan nama akaun dikaburkan. Ejaan nama pembentang mengikut arahan tugasan – sila semak.
 
 ## 6. Sarikata
 
@@ -186,12 +202,12 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 * Tempoh: 1800.000 s (30:00.000) – 54000 bingkai video ✅
 * Resolusi / FPS: 1920×1080 @ 30/1 ✅
 * Codec: h264 (High) + aac 48000 Hz 2 saluran ✅
-* Saiz fail: 0.97 GB
-* Skrin hitam: Tiada skrin hitam tidak disengajakan ✅ (0:00.0–0:00.6 dan 0:11.6–0:13.0 ialah detik gelap intro sinematik yang disengajakan; fade-out di 30:00)
-* Kekuatan audio: -16.03 LUFS, puncak -1.34 dBTP ✅
-* Bilangan kiu sarikata: 423 (SRT + ASS dinamik)
-* Bilangan elemen grafik: 264
-* Semakan visual: Lembaran bingkai setiap 30 s disemak: susunan A–K betul, wajah pembentang tidak ditutup grafik, sarikata tidak bertindih grafik/HUD ✅
+* Saiz fail: 1.05 GB
+* Skrin hitam: Tiada skrin hitam tidak disengajakan ✅ (0:00.0–0:00.6 dan 0:09.6–0:11.0 ialah detik gelap intro yang disengajakan; fade-out di 30:00)
+* Kekuatan audio: -16.03 LUFS, puncak -1.29 dBTP ✅
+* Bilangan kiu sarikata: 421 (SRT + ASS dinamik)
+* Bilangan elemen grafik: 292
+* Semakan visual: Lembaran bingkai setiap 30 s disemak: susunan betul, tiada label bahagian, gameplay penuh lebar, grafik tidak menutup wajah/soalan ✅
 
 ## 9. Fail projek
 
