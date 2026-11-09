@@ -765,7 +765,8 @@ def write_ass_m(cues, path):
             c = valid[ci]; ci += 1
             if c.get("margin"):
                 parts = ln.split(",", 9)
-                parts[5], parts[6] = str(c["margin"][0]), str(c["margin"][1])
+                parts[5], parts[6], parts[7] = str(c["margin"][0]), str(c["margin"][1]), "14"
+                parts[9] = "{\\fs42}" + parts[9]
                 ln = ",".join(parts)
         out.append(ln)
     open(path, "w").write("\n".join(out))

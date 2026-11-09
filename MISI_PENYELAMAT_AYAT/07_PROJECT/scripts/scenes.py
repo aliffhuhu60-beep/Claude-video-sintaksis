@@ -55,6 +55,8 @@ def build(P, T, A, G, gaps_by, R):
             if s_.get("tag") == tag:
                 s_["bg"] = "navy"
         t0, t1 = gg["t0"], gg["t1"] + 0.3
+        bgimg = Image.fromarray(bg_gradient("navy")).convert("RGBA")
+        L(bgimg, t0 - 0.05, t1, (0, 0), "fade", "fade", 0.35, 0.35, z=29, name=f"latar bukti {jenis}")
         hd = heading(f"BUKTI MEDIA SOSIAL  •  JENIS {jenis}", title, 1700, accent)
         L(hd, t0, t1, (60, 40), "left", "fade", 0.5, 0.35, z=30, name=f"bukti hd {jenis}")
         items = list(EVIDENCE[jenis]) + list(extra or [])
@@ -315,7 +317,7 @@ def build(P, T, A, G, gaps_by, R):
                    for k, c in enumerate(cards)], top=250, gap=16, bottom=905, area=(x0, x0 + 475), z=31)
         sx = pill("TikTok • YouTube • Threads", F("mx", 24), fg=WHITE, bg=(30, 40, 80))
         L(sx, tg0 + 1.0, tg1, (1490, 260), "fade", "fade", 0.4, 0.4, z=31, name="platform pill")
-        nt = text_img("Sumber: dokumen Bukti Media Sosial (J1.1–J3.5),\ndikumpul 5 November 2026.\nNama akaun & gambar profil dikaburkan.", F("pm", 22), (210, 220, 232))
+        nt = text_img("Sumber: dokumen Bukti Media Sosial (J1.1–J3.5), dikumpul 5 November 2026. Nama akaun & gambar profil dikaburkan.", F("pm", 22), (210, 220, 232), maxw=400)
         L(nt, tg0 + 1.2, tg1, (1490, 620), "fade", "fade", 0.4, 0.4, z=31, name="galeri sumber")
         S(tg0, "sfx_whoosh", 0.3)
     if t_empat:
@@ -501,8 +503,8 @@ def build(P, T, A, G, gaps_by, R):
         if i == 0:
             tk = A("Kini, kedai ini menjadi subjek", "E") or A("Kini", "E")
             if tk:
-                items.append({"img": formula_row([block("KEDAI INI", "SUBJEK", BLUE, w=320, h=124, tsize=42), "+",
-                                                  block("IALAH KEDAI MALATANG PALING SEDAP DI KL", "PREDIKAT", (46, 160, 70), w=660, h=124, tsize=28)], op_size=48),
+                items.append({"img": formula_row([block("KEDAI INI", "SUBJEK", BLUE, w=260, h=124, tsize=38), "+",
+                                                  block("ialah kedai malatang paling sedap di KL", "PREDIKAT", (46, 160, 70), w=760, h=124, tsize=27)], op_size=44),
                               "t0": tk, "t1": te, "ain": "scale", "name": "E subjek predikat"})
         stack(items, top=70, gap=30)
     if t_kesanE:
@@ -666,12 +668,12 @@ def build(P, T, A, G, gaps_by, R):
     L(title_card("DEMONSTRASI", "Cara Bermain [P:Misi Penyelamat Ayat]", "Rakaman sebenar Minecraft Education", PURPLE), sh["t0"], sh["t1"] + 0.2, (0, 0), "wipe", "fade", 0.6, 0.3, z=30, name="sting H")
     S(sh["t0"], "sfx_whoosh", 0.35)
     h0, h1 = sec_start("H1"), sec_end("H6")
-    P.sub_margin.append((h0 - 0.5, h1 + 0.5, 260, 560))
-    P.pips.append({"t0": h0 - 0.2, "t1": h1 + 0.3, "label": None, "size": (512, 288), "pos": (1920 - 512 - 22, 1080 - 288 - 14)})
+    P.sub_margin.append((sh["t0"], h1 + 8.0, 380, 380))
+    P.pips.append({"t0": h0 - 0.2, "t1": h1 + 0.3, "label": None, "size": (352, 198), "pos": (1920 - 352 - 14, 1080 - 198 - 10)})
     spk = {"H1": ALIFF_, "H2": AMIN_, "H3": IMAN_, "H4": AMIN_, "H5": AMIN_, "H6": AMIN_}
     for k_, (nm, rl) in spk.items():
         pl = pill(nm.split(" bin ")[0], F("mb", 20), fg=WHITE, bg=(20, 20, 30))
-        L(pl, sec_start(k_) + 0.2, sec_end(k_), (1920 - 512 - 22 + 10, 1080 - 288 - 14 + 10), "fade", "fade", 0.4, 0.3, z=22, name=f"pip nama {k_}")
+        L(pl, sec_start(k_) + 0.2, sec_end(k_), (1920 - 352 - 14 + 8, 1080 - 198 - 10 + 8), "fade", "fade", 0.4, 0.3, z=22, name=f"pip nama {k_}")
 
     def beats(sec, plan):
         """plan: (frasa_penambat, shots, cam[, file]) ; tamat pada penambat seterusnya."""
@@ -699,7 +701,7 @@ def build(P, T, A, G, gaps_by, R):
             print("  !! +100 tiada pemetaan", src_t); return None
         sp = score_pop(txt, sub, col)
         sp = sp.resize((int(sp.size[0] * 0.72), int(sp.size[1] * 0.72)), Image.LANCZOS)
-        L(sp, t + 0.45, t + 3.4, (C.GAME_DST[0] + C.GAME_DST[2] - sp.size[0] + 10, C.GAME_DST[1] - 8), "pop", "fade", 0.45, 0.4, z=21, name=f"pop {txt}@{src_t}")
+        L(sp, t + 0.45, t + 2.6, (C.GAME_DST[0] + C.GAME_DST[2] - sp.size[0] + 10, C.GAME_DST[1] - 8), "pop", "fade", 0.45, 0.4, z=21, name=f"pop {txt}@{src_t}")
         S(t + 0.45, "sfx_success" if col == GOLD else "sfx_fail", 0.45)
         return t
 
@@ -819,7 +821,7 @@ def build(P, T, A, G, gaps_by, R):
               {"img": keypoint_card("PILIHAN", "gembira  •  happy  •  marah", None, accent=PURPLE, w=540), "t0": A("Pilihannya ialah", "H5"), "t1": tml, "name": "pilihan", "ain": "right"}])
     tw_ = A("Jika murid jatuh ke dalam air", "H5")
     if tw_:
-        lb = pill("Jatuh ke air → kembali ke permulaan", F("mb", 22), fg=WHITE, bg=(30, 90, 170))
+        lb = pill("Jatuh ke air: kembali ke permulaan", F("mb", 22), fg=WHITE, bg=(30, 90, 170))
         L(lb, tw_ + 0.3, A("Setiap bilik mempunyai laluan", "H5") or tw_ + 5, (C.GAME_DST[0] + 14, C.GAME_DST[1] + C.GAME_DST[3] - 60), "left", "fade", 0.4, 0.3, z=20, name="label jatuh")
     tlb = A("Setiap bilik mempunyai laluan", "H5")
     if tlb:
@@ -830,10 +832,10 @@ def build(P, T, A, G, gaps_by, R):
     # ---- H6 – keputusan, pingat, pentas, Sudut Guru ----
     gapfill("h-mid", [(986.0, 989.5, "t")], 2)
     beats("H6", [
-        (None, [(989.5, 998.0, "k")], {"zoom": (1.0, 1.06)}),
-        ("Keputusan murid dipaparkan", [(998.0, 1005.0, "k")], {"punch": [(0.5, 6.0, 1.5, (560, 320))]}),
-        ("Murid yang membuat kesalahan", [(1005.0, 1012.5, "t"), (1031.0, 1043.0, "t")], {}),
-        ("Papan kedudukan memaparkan", [(1013.0, 1030.0, "t")], {}),
+        (None, [(989.5, 996.5, "k")], {"zoom": (1.0, 1.06)}),
+        ("Keputusan murid dipaparkan", [(996.5, 1003.0, "k")], {"punch": [(0.5, 5.0, 1.5, (560, 320))]}),
+        ("Murid yang membuat kesalahan", [(1003.0, 1012.8, "k")], {}),
+        ("Papan kedudukan memaparkan", [(1021.0, 1030.0, "t"), (1044.0, 1048.0, "k")], {}),
         ("Dunia ini juga mesra guru", [(1193.0, 1212.0, "k")], {}),
         ("Di Sudut Guru", [(8.0, 16.0, "t"), (16.0, 33.5, "k")], {}, "sg"),
     ])

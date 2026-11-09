@@ -313,8 +313,8 @@ def render_camera(src, seg, t_local):
 
 
 GAME_SRC = (0, 50, 1920, 980)
-GAME_DST = (115, 26, 1690, 862)
-GAME_DST_SIDE = (36, 70, 1250, 638)
+GAME_DST = (0, 0, 1920, 980)       # penuh lebar; jalur bawah 100 px untuk sarikata
+GAME_DST_SIDE = (0, 0, 1920, 980)
 
 
 def render_game(src, seg, t_local):
@@ -348,16 +348,14 @@ def render_game(src, seg, t_local):
                 r2 = GAME_DST_SIDE if nxt == "side" else GAME_DST
                 rect = lerp_rect(r1, r2, kk)
         dx, dy, dw, dh = [int(round(v)) for v in rect]
-        out = gfx.bg_gradient("game").copy()
+        out = np.full((H, W, 3), (6, 14, 12), np.uint8)
     M = np.array([[dw / cw, 0, dx - x0 * dw / cw], [0, dh / ch, dy - y0 * dh / ch]], np.float32)
     warped = cv2.warpAffine(src, M, (W, H), flags=cv2.INTER_LINEAR)
     if full:
         out[dy:dy + dh] = warped[dy:dy + dh]
         return out
-    m = round_mask(dw, dh, 20)
-    reg = out[dy:dy + dh, dx:dx + dw].astype(np.float32)
-    out[dy:dy + dh, dx:dx + dw] = (warped[dy:dy + dh, dx:dx + dw].astype(np.float32) * m + reg * (1 - m)).astype(np.uint8)
-    cv2.rectangle(out, (dx - 2, dy - 2), (dx + dw + 1, dy + dh + 1), (150, 92, 240), 3, lineType=cv2.LINE_AA)
+    out[dy:dy + dh, dx:dx + dw] = warped[dy:dy + dh, dx:dx + dw]
+    cv2.line(out, (0, dy + dh), (W, dy + dh), (150, 92, 240), 3, lineType=cv2.LINE_AA)
     return out
 
 
