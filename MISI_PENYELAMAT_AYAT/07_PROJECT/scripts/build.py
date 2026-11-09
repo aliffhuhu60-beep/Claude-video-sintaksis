@@ -14,6 +14,7 @@ FPS = 30
 TOTAL = 1800.0
 PEN = f"{ROOT}/01_RAW_VIDEO/video_penerangan.mp4"
 GAME = f"{ROOT}/03_MINECRAFT_GAMEPLAY/gameplay_minecraft.mp4"
+SGURU = f"{ROOT}/03_MINECRAFT_GAMEPLAY/sudut_guru.mp4"
 CACHE = f"{ROOT}/07_PROJECT/cache"
 os.makedirs(CACHE, exist_ok=True)
 
@@ -31,7 +32,7 @@ AMIN = ("Amin Najmi bin Mohyidin", "Pembentang")
 
 PIECES = {
     "A1": [(1.52, 66.42)],
-    "A2": [(153.91, 203.04)],
+    "A2": [(153.91, 165.55, "hard"), (85.69, 124.09)],
     "B": [(214.00, 359.88)],
     "C": [(367.62, 539.21), (547.88, 555.54)],
     "D": [(562.54, 652.78), (707.44, 730.92), (732.40, 734.56), (738.72, 758.56), (655.40, 701.52)],
@@ -58,7 +59,9 @@ SPLIT = {"A1": (500, 0, 920, 1080), "B": (640, 160, 640, 751), "C": (560, 0, 920
 BASEZOOM = {"B": (1.42, 1.48), "C": (1.0, 1.05), "D": (1.0, 1.05), "E": (1.0, 1.04), "F": (1.0, 1.05)}
 CENTER = {"B": (960, 520), "D": (1500, 520)}
 
-PAD_IN, PAD_OUT, MAXGAP = 0.16, 0.30, 1.0
+PAD_IN, PAD_OUT, MAXGAP = 0.16, 0.28, 0.75
+# selang tambahan (tanpa ucapan) disisip dalam bahagian: (masa sumber, tempoh, tag)
+PAUSES = {"C": [(443.5, 4.5, "bukti-C")], "D": [(618.30, 4.6, "bukti-D")], "E": [(832.85, 4.6, "bukti-E")]}
 MAXGAP_SEC = {"A2": 6.0}
 
 # =====================================================================
@@ -132,6 +135,7 @@ SEQ_FIX = [
     ("ialah saya benar-benar semua urusan sis dipermudah", 'ialah "Saya berdoa semoga urusan sis dipermudah"'),
     ("semoga dipermudahkan urusan sis dan berminat boleh masuk ke kedai kami", '"Semoga dipermudahkan urusan sis" dan "Berminat boleh walkin ke kedai kami."'),
     ("dimudakan", "dimulakan"),
+    ("6 bahagian bahagian pertama", "6 bahagian. Bahagian pertama,"),
     ("bagi klausa utama", "bagi klausa utama."),
 ]
 
@@ -208,23 +212,40 @@ class TL:
         self.gaps.append({"t0": t0, "t1": self.t, "tag": tag})
         return t0
 
-    def speech(self, sec, words, between=0.0):
+    def speech(self, sec, words, between=0.0, pause_before_piece=None):
         t_start = self.t
-        for pi, (a, b) in enumerate(PIECES[sec]):
+        pauses = sorted(PAUSES.get(sec, []))
+        for pi, piece in enumerate(PIECES[sec]):
+            a, b = piece[0], piece[1]
+            if pause_before_piece and pi in pause_before_piece:
+                d_, tag_ = pause_before_piece[pi]
+                self.gap(d_, tag_)
+            if len(piece) > 2 and piece[2] == "hard":
+                s0 = math.floor((a - PAD_IN) * FPS) / FPS
+                n = round((b - s0) * FPS)
+                ws = [w for w in words if w["s"] >= s0 and w["e"] <= b + 0.05]
+                ch = {"sec": sec, "src_s": s0, "src_e": s0 + n / FPS, "out_s": self.t, "out_e": q(self.t + n / FPS), "words": ws}
+                self.chunks.append(ch); self.t = ch["out_e"]
+                if pi < len(PIECES[sec]) - 1 and between:
+                    self.t = q(self.t + between)
+                continue
             ws = [w for w in words if w["s"] >= a - 0.05 and w["e"] <= b + 0.08]
-            # pecah pada jeda panjang
             runs, cur = [], [ws[0]]
             e = energy()
             floor = np.percentile(e[int(a * 100):int(b * 100)], 20) + 1e-5
             for w in ws[1:]:
                 g0, g1 = cur[-1]["e"] + 0.1, w["s"] - 0.1
                 speechy = int((e[int(g0 * 100):int(g1 * 100)] > floor * 6).sum()) if g1 > g0 else 0
-                if w["s"] - cur[-1]["e"] > MAXGAP_SEC.get(sec, MAXGAP) and speechy < 35:
+                forced = any(cur[-1]["e"] <= pt <= w["s"] + 0.05 for pt, _, _ in pauses)
+                if forced or (w["s"] - cur[-1]["e"] > MAXGAP_SEC.get(sec, MAXGAP) and speechy < 35):
                     runs.append(cur); cur = [w]
                 else:
                     cur.append(w)
             runs.append(cur)
             for ri, r in enumerate(runs):
+                for pt, pd, ptag in pauses:
+                    if abs(r[0]["s"] - pt) < 0.6 and ri > 0:
+                        self.gap(pd, ptag)
                 s0 = r[0]["s"] - PAD_IN
                 s1 = r[-1]["e"] + PAD_OUT
                 s0 = snap_quiet(s0, s0 - 0.12, r[0]["s"] - 0.04)
@@ -242,39 +263,39 @@ class TL:
 
 def build_timeline(words):
     T = TL()
-    T.gap(13.0, "opener")          # 0:00 skrin gelap + perkataan bercelaru
-    T.gap(11.0, "worldtitle")      # dunia Minecraft + MISI PENYELAMAT AYAT
-    T.gap(2.0, "maintitle")        # kad tajuk utama (suara bermula selepas ini, tajuk kekal)
+    T.gap(11.0, "opener")          # 0:00 skrin gelap + perkataan bercelaru
+    T.gap(3.4, "maintitle")        # kad tajuk utama (tanpa klip Minecraft)
     T.speech("A1", words)
     T.gap(0.5, "a-mid")
-    T.speech("A2", words)
-    T.gap(2.1, "sting-B")
+    T.speech("A2", words, between=0.35)
+    T.gap(1.8, "sting-B")
     T.speech("B", words)
-    T.gap(2.1, "sting-C")
+    T.gap(1.8, "sting-C")
     T.speech("C", words, between=0.3)
-    T.gap(2.1, "sting-D")
+    T.gap(1.8, "sting-D")
     T.speech("D", words, between=0.45)
-    T.gap(2.1, "sting-E")
+    T.gap(1.8, "sting-E")
     T.speech("E", words, between=0.45)
-    T.gap(2.1, "sting-F")
-    T.speech("F", words, between=0.45)
-    T.gap(2.1, "sting-G")
+    T.gap(1.8, "sting-F")
+    T.speech("F", words, between=0.45, pause_before_piece={1: (4.8, "bukti-F")})
+    T.gap(1.8, "sting-G")
     T.speech("G", words)
-    T.gap(3.2, "sting-H")
+    T.gap(2.6, "sting-H")
     T.speech("H1", words)
     T.gap(0.6, "h-mid")
     T.speech("H2", words)
     T.gap(0.6, "h-mid")
     T.speech("H3", words, between=0.35)
-    T.gap(4.0, "m1-done")
+    T.gap(3.2, "ulang")
+    T.gap(3.0, "m1-done")
     T.speech("H4", words, between=0.4)
-    T.gap(4.0, "m2-done")
+    T.gap(3.0, "m2-done")
     T.speech("H5", words)
     T.gap(0.8, "h-mid")
     T.speech("H6", words)
-    T.gap(2.1, "sting-I")
+    T.gap(1.8, "sting-I")
     T.speech("I", words, between=0.3)
-    T.gap(1.6, "sting-J")
+    T.gap(1.4, "sting-J")
     T.speech("J", words)
     T.gap(0.4, "j-k")
     T.speech("K", words)
@@ -487,17 +508,17 @@ def make_plan(T, words):
         new[-1]["t1"] = new[-1]["t1"]
         P.v1 = sorted(new, key=lambda s: s["t0"])
 
-    def game_segs(shots, cam=None):
+    def game_segs(shots, cam=None, file=None):
         segs = []
         for a, b, sp in shots:
-            segs.append({"type": "game", "src_in": a, "src_end": b, "speed": sp, "dur": (b - a) / sp, "cam": dict(cam or {})})
+            segs.append({"type": "game", "src_in": a, "src_end": b, "speed": sp, "dur": (b - a) / sp, "cam": dict(cam or {}), "file": file})
         return segs
 
-    def gshots(t0, t1, shots, label="", cam=None, pip=True):
+    def gshots(t0, t1, shots, label="", cam=None, pip=True, file=None):
         if t0 is None or t1 is None:
             print("  !! gshots tanpa masa", label); return []
         fitted = fit_shots(shots, q(t1) - q(t0), label)
-        segs = game_segs(fitted, cam)
+        segs = game_segs(fitted, cam, file)
         override(t0, t1, segs, pip=pip)
         for s in segs:
             pass
@@ -509,10 +530,35 @@ def make_plan(T, words):
                 return ch["out_s"] + (t - ch["src_s"])
         return None
 
-    P.override, P.gshots, P.set_mode, P.A_src = override, gshots, set_mode, A_src
+    def gsrc2out(t, file=None):
+        for s in P.v1:
+            if s["type"] == "game" and s.get("file") == file and s["src_in"] <= t <= s["src_end"]:
+                return s["t0"] + (t - s["src_in"]) / s["speed"]
+        return None
+
+    P.gside = []
+    P.override, P.gshots, P.set_mode, P.A_src, P.gsrc2out = override, gshots, set_mode, A_src, gsrc2out
     import scenes
     scenes.build(P, T, A, G, gaps_by, R)
 
+    # susun atur sisi untuk gameplay (grafik di lajur kanan, tidak menutup permainan)
+    gs = []
+    for m in sorted(P.gside):
+        if gs and m[0] <= gs[-1][1] + 1.2:
+            gs[-1] = (gs[-1][0], max(gs[-1][1], m[1]))
+        else:
+            gs.append(m)
+    for s in P.v1:
+        if s["type"] != "game":
+            continue
+        kf = [(-20.0, "full")]
+        for (m0, m1) in gs:
+            if m1 <= s["t0"] or m0 >= s["t1"]:
+                continue
+            kf.append((-10.0 + 0.001 * len(kf), "side") if m0 < s["t0"] - 0.01 else (m0 - s["t0"], "side"))
+            if m1 < s["t1"]:
+                kf.append((m1 - s["t0"], "full"))
+        s["cam"] = dict(s.get("cam", {})); s["cam"]["gkf"] = sorted(kf)
     # gabung selang mod yang bertindih / berdekatan
     merged = []
     for m in sorted(P.modes):
@@ -611,7 +657,10 @@ def seg_cmd(s, out, w=1920, h=1080, pip=False):
               f"tpad=stop=-1:stop_mode=clone")
         if pip:
             vf += f",scale={w}:{h}"
-        return base + ["-ss", f"{a:.3f}", "-t", f"{(b - a) + 0.5:.3f}", "-i", GAME, "-vf", vf] + enc
+        src = SGURU if s.get("file") == "sg" else GAME
+        if s.get("file") == "sg":
+            vf = vf.replace("scale=1920:980:flags=lanczos,pad=1920:1080:0:50:color=0x06221a", "scale=-2:980:flags=lanczos,pad=1920:1080:(ow-iw)/2:50:color=0x06221a")
+        return base + ["-ss", f"{a:.3f}", "-t", f"{(b - a) + 0.5:.3f}", "-i", src, "-vf", vf] + enc
     # latar (hitam) – compositor melukis latar
     return base + ["-f", "lavfi", "-i", f"color=c=black:s={w}x{h}:r={FPS}"] + enc
 
@@ -659,7 +708,7 @@ def build_base(P, which="v1"):
     for i, s in enumerate(segs):
         f = f"{d}/s{i:04d}.mp4"
         files.append(f)
-        key = json.dumps({k: (round(v, 4) if isinstance(v, float) else v) for k, v in s.items() if k in ("t0", "t1", "type", "src_in", "src_end", "speed")}, sort_keys=True)
+        key = json.dumps({k: (round(v, 4) if isinstance(v, float) else v) for k, v in s.items() if k in ("t0", "t1", "type", "src_in", "src_end", "speed", "file")}, sort_keys=True)
         kf = f + ".key"
         if os.path.exists(f) and os.path.exists(kf) and open(kf).read() == key:
             continue
@@ -806,7 +855,7 @@ def build_audio(P, T):
     gam = np.zeros((N, 2), np.float32)
     gsrc = None
     for s in P.v1:
-        if s["type"] == "game" and abs(s["speed"] - 1) < 0.05:
+        if s["type"] == "game" and abs(s["speed"] - 1) < 0.05 and s.get("file") != "sg":
             if gsrc is None:
                 p = f"{CACHE}/game48.wav"
                 if not os.path.exists(p):

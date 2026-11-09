@@ -24,8 +24,9 @@ PEMB = {"A1": "Mohamad Aliff", "A2": "Aliff, Amin, Iman", "B": "Amin Najmi", "C"
 
 # --- bahagian ucapan dibuang (pelengkap kiu) ---
 chunks = sorted(d["chunks"], key=lambda c: c["src_s"])
-REASON = [((66.5, 152.5), "Take 1 perkenalan + perbualan luar skrip (\"aku cakap nanti korang akan masuk…\") – diganti Take 2 yang lebih kemas"),
-          ((203.1, 213.9), "Jeda & perbualan antara rakaman (\"Dah\", \"Ya…\")"),
+REASON = [((66.5, 85.6), "Take 1 bahagian nama pembentang (diganti take 2 yang lebih kemas)"),
+          ((124.2, 153.8), "Perbualan luar skrip antara take (\"aku cakap nanti korang akan masuk…\")"),
+          ((165.6, 213.9), "Take 2 ayat pengenalan – sebutan \"kerancuan\" tidak tepat; diganti ayat yang sama daripada take 1"),
           ((539.3, 547.8), "Ayat serah tugas tidak lengkap (diulang semula oleh pembentang)"),
           ((734.6, 738.6), "Tergeliat lidah: \"Semoga dipermudahkan urusan semua\" (diulang)"),
           ((965.5, 972.3), "Ayat \"Kesan kesalahan ini cukup besar\" berulang"),
@@ -66,6 +67,7 @@ L.append("**Video:** `08_EXPORT/MISI_PENYELAMAT_AYAT_BMMB3233_FINAL.mp4` · 1920
 L.append("**Kursus:** BMMB3233 Sintaksis Bahasa Melayu · IPG Kampus Tun Hussein Onn, Batu Pahat · Pensyarah: Dr. Siti Dahlia binti Abdullah\n")
 L.append("## 1. Bahan sumber\n")
 L.append("| Fail | Kandungan | Spesifikasi |\n|---|---|---|")
+L.append("| `Sudut guru.mp4` | Rakaman Sudut Guru (blok redstone, set semula markah) | 0:34, 1728×1080 |")
 L.append("| `video penerangan` | Rakaman ketiga-tiga pembentang (Bahagian A–K, termasuk naratif demonstrasi H) | 34:18, 1280×720, 30 fps |")
 L.append("| `GAMEPLAY MINECRAFT.mp4` | Rakaman skrin dunia *Misi Penyelamat Ayat* (tiada suara) | 20:29, 1904×972, 30 fps |")
 L.append("| `Skrip_PB2…pdf` | Skrip penuh + kunci jawapan + rujukan | 22 hlm |")
@@ -102,16 +104,22 @@ L.append("\n* Suara pembentang **tidak pernah dipercepat** – hanya visual game
          "* Speed ramp dipercepat ≥1.8× menggunakan pengadunan bingkai (motion blur ringan).\n"
          "* Detik soalan, pemilihan jawapan, BETUL +100, SALAH −50, peti/bingkai, parkour, keputusan dan papan kedudukan dikekalkan pada 1×.\n")
 
-L.append("## 5. Bahan yang tidak tersedia / catatan kejujuran\n")
-L.append("1. **Jawapan salah dalam Misi 1 tidak dirakam** (semua 5 soalan Misi 1 dijawab betul). Semasa naratif \"Saya sengaja memilih murid…\", video memaparkan **rakaman sebenar SALAH −50 daripada Misi 2** dengan label jelas *\"Contoh paparan jawapan SALAH – rakaman sebenar (Misi 2)\"*.\n"
-         "2. **Sudut Guru (blok redstone/laporan) tidak dirakam.** Bahagian ini dipaparkan sebagai panel fungsi grafik di atas rakaman lobi, berlabel *\"Paparan fungsi – tiada data murid dipaparkan\"*. Tiada data murid direka.\n"
-         "3. **Tiada tangkap layar media sosial disediakan** (PDF bukti hanya mengandungi teks). Petikan kapsyen TikTok sebenar (Bukti J1.1 & J2.1) dipaparkan dalam bingkai telefon berlabel \"Petikan hantaran awam\" dengan nama akaun & gambar profil dikaburkan. Contoh YouTube/Threads dilabel \"Contoh ayat\" (bukan bukti tangkap layar). Rakaman **galeri telefon sebenar dalam dunia Minecraft** digunakan di Bahagian H1.\n"
-         "4. **Tiada rakaman dron/udara** – intro menggunakan rakaman lobi sebenar dengan gerak kamera perlahan (zoom) sebagai pengganti.\n"
-         "5. **Petak latihan (blok emas) tidak dirakam** – naratif disokong papan markah sebenar \"Betul +100 / Salah −50\" dalam lobi.\n"
-         "6. **Pembahagian pembentang dalam rakaman berbeza daripada skrip** (cth. Bahagian B dibentang Amin, C oleh Iman). Lower-third mengikut penutur sebenar (disahkan melalui ucapan serah tugas dan lencana nama).\n"
-         "7. **Ejaan nama** diambil daripada arahan tugasan (tiada muka depan tugasan dalam folder): Mohamad Aliff bin Ahmad Shahabuddin, Muhammad Iman Irfan bin Mohd Ramzi, Amin Najmi bin Mohyidin – sila semak sekali lagi. Tiada nombor KP/matrik dipaparkan.\n"
-         "8. Rujukan dipaparkan seperti dalam skrip (butiran tajuk beberapa rujukan masih \"seperti dalam PB1\" dalam skrip asal).\n")
-
+L.append("## 5. Pindaan versi 2 (atas permintaan) & catatan\n")
+L.append("1. Intro kini **tanpa klip Minecraft & tajuk Misi Penyelamat Ayat**: skrin gelap + perkataan bercelaru → kad tajuk isu.\n"
+         "2. **Tiada label bahagian** (\"Bahagian A/B…\", \"H1…\") dipaparkan sepanjang video.\n"
+         "3. **Sebutan \"kerancuan\"** pada awal video: ayat take 2 (sebutan kurang tepat) diganti ayat yang sama daripada take 1. Catatan: ASR juga mengesan kemungkinan sebutan kurang jelas di Bahagian C (\"kerancuan ayat dapat dilihat…\") dan K (\"Kesimpulannya, kerancuan…\"); tiada take alternatif untuk bahagian tersebut.\n"
+         "4. **Paparan maklumat disusun semula**: kotak ayat salah/analisis/betul disusun automatik dengan jarak seragam (≥26 px) tanpa bertindih.\n"
+         "5. **Bukti media sosial**: galeri 15 petikan sebenar (J1.1–J3.5) di Bahagian C, dan dinding bukti setiap jenis sebelum contoh D, E, F (termasuk contoh YouTube/Threads daripada skrip, dilabel \"Contoh skrip\").\n"
+         "6. **Sudut Guru**: klip `Sudut guru.mp4` digunakan semasa Amin menerangkan Sudut Guru.\n"
+         "7. **Pingat** diterangkan semasa rakaman dewan keputusan (sebelum pentas), dalam lajur sisi – gameplay dikecilkan ke kiri supaya tidak terlindung.\n"
+         "8. **Jatuh ke air**: klip sebenar pemain jatuh dan kembali ke permulaan (gameplay 15:23–15:28).\n"
+         "9. **Ayat salah / soalan** dipaparkan dalam lajur kanan – tidak menutup soalan dalam permainan.\n"
+         "10. **Pilihan pengecoh** menggunakan klip peti Soalan 1 Misi 2.\n"
+         "11. **+100 / −50** muncul 0.45 s selepas paparan BETUL/SALAH dalam permainan (dikesan automatik: 3:58.97, 7:58.93, 13:36.90, SALAH 10:29.20).\n"
+         "12. **Misi 2 Soalan 1** diselaraskan langkah demi langkah dengan penerangan Amin (soalan → peti 1 → peti 2 → bingkai → BETUL).\n"
+         "13. **Blok biru (ULANG)**: klip gameplay 10:34 dan seterusnya – pemain memijak blok biru lalu terus ke soalan seterusnya.\n"
+         "14. **Blok emas**: klip lobi (pandangan udara) daripada `Sudut guru.mp4`.\n")
+L.append("**Catatan kejujuran:** Misi 1 tiada rakaman jawapan salah, maka contoh SALAH −50 diambil daripada Misi 2 (berlabel). Tiada tangkap layar media sosial diberikan; petikan teks daripada dokumen bukti dipaparkan dengan nama akaun dikaburkan. Ejaan nama pembentang mengikut arahan tugasan – sila semak.\n")
 L.append("## 6. Sarikata\n")
 L.append("* Dijana daripada transkripsi automatik (Whisper *medium*) **dijajarkan dengan skrip asal** perkataan demi perkataan: masa ikut audio sebenar, ejaan ikut skrip.\n"
          "* Pembetulan manual untuk contoh bahasa rojak yang \"diterjemah\" oleh ASR (cth. *happy*, *share*, *so*, *only*, *try guys*) supaya sarikata sama dengan ucapan sebenar.\n"

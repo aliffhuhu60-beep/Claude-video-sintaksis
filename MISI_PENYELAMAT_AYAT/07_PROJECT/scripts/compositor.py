@@ -314,6 +314,7 @@ def render_camera(src, seg, t_local):
 
 GAME_SRC = (0, 50, 1920, 980)
 GAME_DST = (115, 26, 1690, 862)
+GAME_DST_SIDE = (36, 70, 1250, 638)
 
 
 def render_game(src, seg, t_local):
@@ -336,7 +337,17 @@ def render_game(src, seg, t_local):
         dx, dy, dw, dh = 0, 50, W, 980
         out = np.zeros((H, W, 3), np.uint8)
     else:
-        dx, dy, dw, dh = GAME_DST
+        gk = cam.get("gkf", [])
+        rect = GAME_DST
+        if gk:
+            idx = bisect.bisect_right([k[0] for k in gk], t_local) - 1
+            if idx >= 0:
+                nxt = gk[idx][1]; prv = gk[idx - 1][1] if idx > 0 else nxt
+                kk = ease_io((t_local - gk[idx][0]) / 0.7)
+                r1 = GAME_DST_SIDE if prv == "side" else GAME_DST
+                r2 = GAME_DST_SIDE if nxt == "side" else GAME_DST
+                rect = lerp_rect(r1, r2, kk)
+        dx, dy, dw, dh = [int(round(v)) for v in rect]
         out = gfx.bg_gradient("game").copy()
     M = np.array([[dw / cw, 0, dx - x0 * dw / cw], [0, dh / ch, dy - y0 * dh / ch]], np.float32)
     warped = cv2.warpAffine(src, M, (W, H), flags=cv2.INTER_LINEAR)

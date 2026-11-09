@@ -12,426 +12,424 @@ Style: Sub,Montserrat SemiBold,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.15,0:00:30.93,Sub,,0,0,0,,{\fad(90,70)}Assalamualaikum warahmatullahi\Nwabarakatuh dan salam sejahtera.
-Dialogue: 0,0:00:30.97,0:00:34.69,Sub,,0,0,0,,{\fad(90,70)}Yang kami hormati, pensyarah\Nkursus {\fnMontserrat ExtraBold\c&HF5A63F&}Sintaksis{\r} Bahasa Melayu,
-Dialogue: 0,0:00:34.73,0:00:38.89,Sub,,0,0,0,,{\fad(90,70)}Dr. Siti Dahlia binti Abdullah,\Nserta rakan-rakan sekalian.
-Dialogue: 0,0:00:38.93,0:00:42.95,Sub,,0,0,0,,{\fad(90,70)}Terlebih dahulu, kami ingin merakamkan\Nsetinggi-tinggi penghargaan dan jutaan
-Dialogue: 0,0:00:42.99,0:00:44.29,Sub,,0,0,0,,{\fad(90,70)}terima kasih kepada Dr.
-Dialogue: 0,0:00:44.33,0:00:49.55,Sub,,0,0,0,,{\fad(90,70)}Siti atas bimbingan, tunjuk ajar dan\Nteguran yang membina sepanjang kursus
-Dialogue: 0,0:00:49.59,0:00:53.09,Sub,,0,0,0,,{\fad(90,70)}ini. Melalui tugasan PB1, Dr.
-Dialogue: 0,0:00:53.13,0:00:58.41,Sub,,0,0,0,,{\fad(90,70)}telah membimbing kami menganalisis\Nbinaan frasa, binaan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dan proses
-Dialogue: 0,0:00:58.45,0:01:03.13,Sub,,0,0,0,,{\fad(90,70)}transformasi ayat, iaitu pengguguran,\Npenyusunan semula dan perluasan.
-Dialogue: 0,0:01:03.17,0:01:07.33,Sub,,0,0,0,,{\fad(90,70)}Ilmu itulah yang menjadi\Nasas kepada tugasan PB2 ini.
-Dialogue: 0,0:01:07.37,0:01:11.89,Sub,,0,0,0,,{\fad(90,70)}Tanpa pemahaman bahawa setiap ayat\Nmesti mempunyai {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT,{\r}
-Dialogue: 0,0:01:11.93,0:01:15.22,Sub,,0,0,0,,{\fad(90,70)}dan bahawa {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Ntidak dapat berdiri sendiri,
-Dialogue: 0,0:01:15.37,0:01:19.61,Sub,,0,0,0,,{\fad(90,70)}kami tidak mungkin dapat mengenal\Npasti kesalahan ayat yang berlaku di
-Dialogue: 0,0:01:19.65,0:01:20.99,Sub,,0,0,0,,{\fad(90,70)}sekeliling kami setiap hari.
-Dialogue: 0,0:01:21.03,0:01:26.33,Sub,,0,0,0,,{\fad(90,70)}Kami juga ingin berterima kasih kepada\Nrakan-rakan sekelas yang sudi mencuba
-Dialogue: 0,0:01:26.37,0:01:31.34,Sub,,0,0,0,,{\fad(90,70)}dan memberikan pandangan semasa\Nkami membina dunia permainan ini.
-Dialogue: 0,0:01:31.64,0:01:36.49,Sub,,0,0,0,,{\fad(90,70)}Saya, Mohamad Aliff bin Ahmad\NShahabuddin bersama rakan saya
-Dialogue: 0,0:01:43.53,0:01:48.83,Sub,,0,0,0,,{\fad(90,70)}Pada hari ni, kami akan membentakan isu\Nkeracauan bahasa dalam aspek sintaksi
-Dialogue: 0,0:01:48.87,0:01:51.19,Sub,,0,0,0,,{\fad(90,70)}iaitu kesalahan pada peringkat ayat.
-Dialogue: 0,0:01:51.23,0:01:54.01,Sub,,0,0,0,,{\fad(90,70)}Pembentangan kami terbahagi\Nkepada 6 bahagian.
-Dialogue: 0,0:01:54.05,0:01:57.75,Sub,,0,0,0,,{\fad(90,70)}yang pertama, pengetahuan isu\Ndan sebab isu ini dipilih.
-Dialogue: 0,0:01:57.79,0:02:02.85,Sub,,0,0,0,,{\fad(90,70)}Yang kedua, 3 jenis kesalahan ayat\Nyang kami pilih bersatu contoh daripada
-Dialogue: 0,0:02:02.89,0:02:04.78,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} dan kesannya.
-Dialogue: 0,0:02:04.99,0:02:08.99,Sub,,0,0,0,,{\fad(90,70)}Seterusnya, cadangan penambahan baikan\Nmelalui dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} yang
-Dialogue: 0,0:02:09.03,0:02:11.49,Sub,,0,0,0,,{\fad(90,70)}kami namakan {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
-Dialogue: 0,0:02:11.53,0:02:16.85,Sub,,0,0,0,,{\fad(90,70)}Selain itu, demonstrasi cara bermain,\Ntambahan pula, cadangan penambahan
-Dialogue: 0,0:02:16.89,0:02:21.06,Sub,,0,0,0,,{\fad(90,70)}baikan lain dan akhir sekali\Nharapan serta penutup.
-Dialogue: 0,0:02:23.23,0:02:26.10,Sub,,0,0,0,,{\fad(90,70)}Apakah ini maksudkan\Ndengan {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA?{\r}
-Dialogue: 0,0:02:26.35,0:02:30.27,Sub,,0,0,0,,{\fad(90,70)}Menurut {\fnMontserrat ExtraBold\c&HF5A63F&}Kamus{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}Dewan,{\r} perkataan\Nrancu membawa maksud {\fnMontserrat ExtraBold\c&H0AD6FF&}KACAU,{\r}
-Dialogue: 0,0:02:30.31,0:02:32.67,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERATUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ATAU{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}CAMPUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ADUK.{\r}
-Dialogue: 0,0:02:32.71,0:02:37.49,Sub,,0,0,0,,{\fad(90,70)}Oleh itu, {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} ialah\Npenggunaan bahasa yang {\fnMontserrat ExtraBold\c&H0AD6FF&}KACAU{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}
-Dialogue: 0,0:02:37.53,0:02:42.01,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TERATUR{\r} sehingga {\fnMontserrat ExtraBold\c&H0AD6FF&}MENYALAHI{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}PERATURAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TATABAHASA{\r} bahasa Melayu.
-Dialogue: 0,0:02:42.05,0:02:46.95,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} boleh berlaku dalam\Npelbagai aspek, misalnya ejaan,
-Dialogue: 0,0:02:46.99,0:02:50.51,Sub,,0,0,0,,{\fad(90,70)}sebutan, pembentukan\Nkata dan susunan ayat.
-Dialogue: 0,0:02:50.55,0:02:54.83,Sub,,0,0,0,,{\fad(90,70)}Dalam pembentangan ini, kami memberikan\Ntumpuan kepada kerancuan dalam aspek
-Dialogue: 0,0:02:54.87,0:02:59.45,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis.{\r} Seperti yang telah\Nkami bincangkan dalam PB1,
-Dialogue: 0,0:02:59.49,0:03:04.85,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} ialah bidang {\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} yang\Nmengkaji cara perkataan disusun untuk
-Dialogue: 0,0:03:04.89,0:03:10.71,Sub,,0,0,0,,{\fad(90,70)}membentuk frasa, {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dan ayat\Nmenurut (Nik Safiah Karim et al.,
-Dialogue: 0,0:03:10.75,0:03:12.26,Sub,,0,0,0,,{\fad(90,70)}2024).
-Dialogue: 0,0:03:12.71,0:03:16.07,Sub,,0,0,0,,{\fad(90,70)}Ayat yang {\fnMontserrat ExtraBold\c&HF5A63F&}gramatis{\r} mestilah\Nmempunyai {\fnMontserrat ExtraBold\c&H0AD6FF&}DUA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UNSUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UTAMA,{\r}
-Dialogue: 0,0:03:16.11,0:03:18.47,Sub,,0,0,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
-Dialogue: 0,0:03:18.51,0:03:22.93,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Subjek{\r} ialah unsur yang diterangkan,\Nmanakala {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ialah unsur yang
-Dialogue: 0,0:03:22.97,0:03:24.35,Sub,,0,0,0,,{\fad(90,70)}menerangkan {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:03:24.39,0:03:29.41,Sub,,0,0,0,,{\fad(90,70)}Contohnya, dalam ayat {\fnMontserrat ExtraBold\c&H6ED658&}Murid{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}membaca{\r} {\fnMontserrat ExtraBold\c&H6ED658&}buku,{\r} murid ialah {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r}
-Dialogue: 0,0:03:29.45,0:03:32.20,Sub,,0,0,0,,{\fad(90,70)}manakala membaca buku ialah {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
-Dialogue: 0,0:03:32.25,0:03:36.29,Sub,,0,0,0,,{\fad(90,70)}Kerancuan {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} berlaku apabila\Nhubungan {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT{\r} ini
-Dialogue: 0,0:03:36.33,0:03:40.62,Sub,,0,0,0,,{\fad(90,70)}terganggu. Gangguan itu boleh\Nberlaku dalam beberapa keadaan.
-Dialogue: 0,0:03:41.11,0:03:45.35,Sub,,0,0,0,,{\fad(90,70)}Ada kalanya {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} hilang kerana\Nditenggelami oleh {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} di hadapan
-Dialogue: 0,0:03:45.39,0:03:50.07,Sub,,0,0,0,,{\fad(90,70)}ayat. Ada kalanya {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} tidak wujud,\Nsehingga ayat itu hanya terdiri
-Dialogue: 0,0:03:50.11,0:03:52.42,Sub,,0,0,0,,{\fad(90,70)}daripada satu {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang panjang.
-Dialogue: 0,0:03:52.91,0:03:58.87,Sub,,0,0,0,,{\fad(90,70)}Ada kalanya pula {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r} dibiarkan\Nberdiri sendiri {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KLAUSA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UTAMA.{\r}
-Dialogue: 0,0:03:58.91,0:04:04.55,Sub,,0,0,0,,{\fad(90,70)}Selain itu, sudut ayat juga menjadi rancu\Napabila unsur bahasa asing mengambil
-Dialogue: 0,0:04:04.59,0:04:10.81,Sub,,0,0,0,,{\fad(90,70)}alih fungsi kata kerja,\N{\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} dan kata adjektif
-Dialogue: 0,0:04:10.85,0:04:12.48,Sub,,0,0,0,,{\fad(90,70)}dalam ayat bahasa Melayu.
-Dialogue: 0,0:04:12.73,0:04:17.61,Sub,,0,0,0,,{\fad(90,70)}Kami ingin menegaskan bahawa fokus kami\N{\fnMontserrat ExtraBold\c&H0AD6FF&}BUKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KESALAHAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KATA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SECARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERPENCIL,{\r}
-Dialogue: 0,0:04:17.65,0:04:20.42,Sub,,0,0,0,,{\fad(90,70)}seperti salah ejaan satu perkataan.
-Dialogue: 0,0:04:20.75,0:04:25.20,Sub,,0,0,0,,{\fad(90,70)}Fokus kami ialah kesalahan yang\Nmenjejaskan {\fnMontserrat ExtraBold\c&H0AD6FF&}BINAAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SECARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KESELURUHAN.{\r}
-Dialogue: 0,0:04:25.57,0:04:29.99,Sub,,0,0,0,,{\fad(90,70)}Kesalahan seperti ini lebih sukar\Ndikesan kerana ayatnya kelihatan biasa,
-Dialogue: 0,0:04:30.03,0:04:33.12,Sub,,0,0,0,,{\fad(90,70)}malah sudah sebati dengan\Npertuturan harian kita.
-Dialogue: 0,0:04:33.35,0:04:37.99,Sub,,0,0,0,,{\fad(90,70)}Dalam pertuturan, kita dibantu oleh\Nkonteks, nada suara dan gerak badan.
-Dialogue: 0,0:04:38.03,0:04:42.11,Sub,,0,0,0,,{\fad(90,70)}Namun, dalam penulisan, pembaca\Nhanya bergantung pada susunan ayat.
-Dialogue: 0,0:04:42.15,0:04:47.40,Sub,,0,0,0,,{\fad(90,70)}Oleh sebab itu, ayat rancu dalam tulisan\Nlebih mudah menimbulkan kekeliruan.
-Dialogue: 0,0:04:49.95,0:04:53.94,Sub,,0,0,0,,{\fad(90,70)}Persoalannya, di manakah isu\Nini paling jelas berlaku?
-Dialogue: 0,0:04:54.39,0:04:57.59,Sub,,0,0,0,,{\fad(90,70)}Jawapannya ialah di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
-Dialogue: 0,0:04:57.63,0:05:01.78,Sub,,0,0,0,,{\fad(90,70)}Kami telah meneliti 3\Nplatform yang paling popular,
-Dialogue: 0,0:05:02.15,0:05:03.68,Sub,,0,0,0,,{\fad(90,70)}iaitu TikTok,
-Dialogue: 0,0:05:04.21,0:05:06.96,Sub,,0,0,0,,{\fad(90,70)}Threads dan juga YouTube.
-Dialogue: 0,0:05:07.51,0:05:12.81,Sub,,0,0,0,,{\fad(90,70)}Kerancuan ayat dapat dilihat\Ndengan jelas dalam kapsyen jualan,
-Dialogue: 0,0:05:12.85,0:05:17.04,Sub,,0,0,0,,{\fad(90,70)}tajuk video, hantaran\Ndan juga ruangan komen.
-Dialogue: 0,0:05:17.49,0:05:20.86,Sub,,0,0,0,,{\fad(90,70)}Contohnya, dalam kapsyen jualan di TikTok,
-Dialogue: 0,0:05:21.23,0:05:26.39,Sub,,0,0,0,,{\fad(90,70)}kita sering membaca ayat {\fnMontserrat ExtraBold\c&H6ED658&}seperti{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
-Dialogue: 0,0:05:26.43,0:05:32.21,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} komen. Dalam tajuk video makanan\Npula, terdapat ayat {\fnMontserrat ExtraBold\c&H4E4CFF&}seperti{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Kedai{\r}
-Dialogue: 0,0:05:32.25,0:05:34.78,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}malatang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}paling{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kat{\r} KL.
-Dialogue: 0,0:05:35.49,0:05:40.45,Sub,,0,0,0,,{\fad(90,70)}Di YouTube dan Threads, ayat {\fnMontserrat ExtraBold\c&H4E4CFF&}seperti{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Harini{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}team{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}nak{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}share{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cara{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}buat{\r}
-Dialogue: 0,0:05:40.49,0:05:47.13,Sub,,0,0,0,,{\fad(90,70)}kek {\fnMontserrat ExtraBold\c&H4E4CFF&}Dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Overall{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}best{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}gila,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wajib{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}try{\r} guys!
-Dialogue: 0,0:05:47.69,0:05:49.59,Sub,,0,0,0,,{\fad(90,70)}sudah menjadi perkara biasa.
-Dialogue: 0,0:05:49.63,0:05:55.39,Sub,,0,0,0,,{\fad(90,70)}Ayat-ayat ini ditulis oleh\Npengguna dewasa, peniaga dan
-Dialogue: 0,0:05:55.43,0:05:56.96,Sub,,0,0,0,,{\fad(90,70)}pencipta kandungan,
-Dialogue: 0,0:05:57.57,0:06:01.92,Sub,,0,0,0,,{\fad(90,70)}tetapi dibaca setiap hari\Noleh jutaan pengguna,
-Dialogue: 0,0:06:02.53,0:06:05.20,Sub,,0,0,0,,{\fad(90,70)}termasuklah kanak-kanak.
-Dialogue: 0,0:06:05.51,0:06:08.98,Sub,,0,0,0,,{\fad(90,70)}Kami memilih isu ini atas {\fnMontserrat ExtraBold\c&H0AD6FF&}EMPAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SEBAB.{\r}
-Dialogue: 0,0:06:09.03,0:06:10.38,Sub,,0,0,0,,{\fad(90,70)}Sebab yang pertama,
-Dialogue: 0,0:06:10.75,0:06:13.30,Sub,,0,0,0,,{\fad(90,70)}isu ini {\fnMontserrat ExtraBold\c&H0AD6FF&}PALING{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}HAMPIR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DENGAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}MURID.{\r}
-Dialogue: 0,0:06:13.63,0:06:17.61,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} hari ini\Nmembesar dengan TikTok dan YouTube.
-Dialogue: 0,0:06:17.65,0:06:23.41,Sub,,0,0,0,,{\fad(90,70)}Bahasa yang mereka baca dan dengar\Nsetiap hari akan mereka tiru dalam
-Dialogue: 0,0:06:23.45,0:06:26.00,Sub,,0,0,0,,{\fad(90,70)}pertuturan dan penulisan.
-Dialogue: 0,0:06:26.11,0:06:27.76,Sub,,0,0,0,,{\fad(90,70)}Sebab yang kedua,
-Dialogue: 0,0:06:28.94,0:06:34.87,Sub,,0,0,0,,{\fad(90,70)}kesalahan ini sudah dianggap moment.
-Dialogue: 0,0:06:35.52,0:06:41.10,Sub,,0,0,0,,{\fad(90,70)}Ramai pengguna tidak lagi menyedari\Nbahawa ayat-ayat itu salah,
-Dialogue: 0,0:06:41.14,0:06:45.04,Sub,,0,0,0,,{\fad(90,70)}maka kesalahan itu terus\Nberulang dan tersebar.
-Dialogue: 0,0:06:45.08,0:06:50.37,Sub,,0,0,0,,{\fad(90,70)}Sebab yang ketiga, isu ini berkait\Nsecara langsung dengan kursus {\fnMontserrat ExtraBold\c&HF5A63F&}Sintaksis{\r}
-Dialogue: 0,0:06:50.84,0:06:57.35,Sub,,0,0,0,,{\fad(90,70)}kerana melibatkan unsur {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}predikat,{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}bebas{\r} dan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat.{\r}
-Dialogue: 0,0:06:57.46,0:07:02.64,Sub,,0,0,0,,{\fad(90,70)}Kajian juga mendapati bahawa kesalahan\Nstruktur ayat manseh lagi lazim dalam
-Dialogue: 0,0:07:02.68,0:07:04.37,Sub,,0,0,0,,{\fad(90,70)}penulisan murid
-Dialogue: 0,0:07:04.84,0:07:10.47,Sub,,0,0,0,,{\fad(90,70)}menurut Chongfeng Peng &\NVanithmalar Jayabalan, 2026).
-Dialogue: 0,0:07:10.68,0:07:15.34,Sub,,0,0,0,,{\fad(90,70)}Sebab yang keempat, sebagai\N{\fnMontserrat ExtraBold\c&H0AD6FF&}BAKAL{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU{\r} bahasa Melayu,
-Dialogue: 0,0:07:15.38,0:07:19.32,Sub,,0,0,0,,{\fad(90,70)}kami bertanggungjawab untuk\Ntidak sekadar mengkritik,
-Dialogue: 0,0:07:19.36,0:07:25.76,Sub,,0,0,0,,{\fad(90,70)}tetapi menyediakan jalan penyelesaian\Nyang sesuai dengan dunia murid.
-Dialogue: 0,0:07:25.80,0:07:28.69,Sub,,0,0,0,,{\fad(90,70)}Daripada bukti yang kami kumpulkan,
-Dialogue: 0,0:07:29.14,0:07:33.04,Sub,,0,0,0,,{\fad(90,70)}kami memilih tiga jenis kesalahan\Nayat yang paling kerap ditemui,
-Dialogue: 0,0:07:33.08,0:07:39.32,Sub,,0,0,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK,{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP{\r} dan juga {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} dalam binaan
-Dialogue: 0,0:07:39.36,0:07:40.29,Sub,,0,0,0,,{\fad(90,70)}ayat.
-Dialogue: 0,0:07:40.81,0:07:46.45,Sub,,0,0,0,,{\fad(90,70)}Ketiga-tiga jenis ini akan diterangkan\Noleh rakan saya iaitu Muhammad Aliff,
-Dialogue: 0,0:07:46.49,0:07:48.76,Sub,,0,0,0,,{\fad(90,70)}dan juga Amin Najmi.
-Dialogue: 0,0:07:51.13,0:07:52.72,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Iman Irfan.
-Dialogue: 0,0:07:53.07,0:07:56.89,Sub,,0,0,0,,{\fad(90,70)}Jenis kesalahan pertama\Nialah {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK.{\r}
-Dialogue: 0,0:07:56.93,0:07:58.95,Sub,,0,0,0,,{\fad(90,70)}Kesalahan ini berlaku dalam dua keadaan.
-Dialogue: 0,0:07:58.99,0:08:04.47,Sub,,0,0,0,,{\fad(90,70)}Keadaan pertama, ayat dimulakan\Ndengan {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} seperti kepada,
-Dialogue: 0,0:08:04.51,0:08:09.19,Sub,,0,0,0,,{\fad(90,70)}bagi, untuk, dalam, di,\Ndaripada dan menurut,
-Dialogue: 0,0:08:09.23,0:08:12.28,Sub,,0,0,0,,{\fad(90,70)}atau frasa seperti dengan adanya.
-Dialogue: 0,0:08:12.71,0:08:16.55,Sub,,0,0,0,,{\fad(90,70)}Apabila {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r}\Ndiletakkan di hadapan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama,{\r}
-Dialogue: 0,0:08:16.59,0:08:21.95,Sub,,0,0,0,,{\fad(90,70)}frasa itu berubah menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang berfungsi sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan,{\r}
-Dialogue: 0,0:08:21.99,0:08:24.68,Sub,,0,0,0,,{\fad(90,70)}bukan lagi sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:08:24.75,0:08:28.33,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ayat\Nitu tidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:08:28.37,0:08:34.45,Sub,,0,0,0,,{\fad(90,70)}Keadaan kedua, {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} digugurkan\Nterus, terutamanya {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}ganti{\r}
-Dialogue: 0,0:08:34.49,0:08:40.65,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} seperti saya, anda atau kami,\Nkerana penulis menganggap pembaca
-Dialogue: 0,0:08:40.69,0:08:41.66,Sub,,0,0,0,,{\fad(90,70)}sudah faham.
-Dialogue: 0,0:08:42.09,0:08:46.93,Sub,,0,0,0,,{\fad(90,70)}Baiklah, Mari kita lihat contoh\Nyang kami temui di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
-Dialogue: 0,0:08:46.97,0:08:49.66,Sub,,0,0,0,,{\fad(90,70)}Di dalam platform TikTok, kapsyen jualan,
-Dialogue: 0,0:08:50.19,0:08:55.55,Sub,,0,0,0,,{\fad(90,70)}ayat yang selalu digunakan {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah,{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
-Dialogue: 0,0:08:55.59,0:09:02.06,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}komen.{\r} Dalam ayat ini, kepada\Nyang berminat ialah {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama.{\r}
-Dialogue: 0,0:09:02.27,0:09:04.86,Sub,,0,0,0,,{\fad(90,70)}Jadi, siapakah yang boleh maklumkan?
-Dialogue: 0,0:09:05.21,0:09:07.29,Sub,,0,0,0,,{\fad(90,70)}Ayat ini tidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:09:07.33,0:09:12.63,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Mereka{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}memaklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r}
-Dialogue: 0,0:09:12.67,0:09:18.51,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}komen.{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}Kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} kepada\Ndigugurkan dan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} mereka yang
-Dialogue: 0,0:09:18.55,0:09:20.96,Sub,,0,0,0,,{\fad(90,70)}berminat menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:09:21.87,0:09:25.96,Sub,,0,0,0,,{\fad(90,70)}Contoh yang {\fnMontserrat ExtraBold\c&H4E4CFF&}kedua,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kalau{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}berminat,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}boleh{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wasap{\r} ya?
-Dialogue: 0,0:09:26.45,0:09:29.03,Sub,,0,0,0,,{\fad(90,70)}Ayat ini terdiri daripada dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
-Dialogue: 0,0:09:29.07,0:09:32.32,Sub,,0,0,0,,{\fad(90,70)}Tetapi kedua-duanya\Ntidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:09:32.65,0:09:37.53,Sub,,0,0,0,,{\fad(90,70)}Siapakah yang berminat dan siapakah\Nyang boleh menghubungi Ayat yang {\fnMontserrat ExtraBold\c&H6ED658&}betul,{\r}
-Dialogue: 0,0:09:37.57,0:09:41.41,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}jika{\r} {\fnMontserrat ExtraBold\c&H6ED658&}anda{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}anda{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}menghubungi{\r} kami.
-Dialogue: 0,0:09:41.45,0:09:45.64,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Subjek{\r} anda ditambah\Ndalam kedua-dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
-Dialogue: 0,0:09:46.56,0:09:49.01,Sub,,0,0,0,,{\fad(90,70)}Contoh yang ketiga dan {\fnMontserrat ExtraBold\c&H4E4CFF&}keempat.{\r}
-Dialogue: 0,0:09:49.51,0:09:54.92,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Semoga{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dipermudahkan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}urusan{\r} sis {\fnMontserrat ExtraBold\c&H4E4CFF&}dan{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Berminat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}boleh{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}walkin{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}ke{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kedai{\r} kami.
-Dialogue: 0,0:09:55.71,0:10:00.11,Sub,,0,0,0,,{\fad(90,70)}Kedua-duanya juga tidak mempunyai\N{\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} bagi {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
-Dialogue: 0,0:10:00.15,0:10:01.76,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul,
-Dialogue: 0,0:10:02.09,0:10:07.69,Sub,,0,0,0,,{\fad(90,70)}ialah {\fnMontserrat ExtraBold\c&H6ED658&}Saya{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berdoa{\r} {\fnMontserrat ExtraBold\c&H6ED658&}semoga{\r} {\fnMontserrat ExtraBold\c&H6ED658&}urusan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sis{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}dipermudah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}dan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pelanggan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r}
-Dialogue: 0,0:10:07.73,0:10:09.64,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}datang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ke{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami.{\r}
-Dialogue: 0,0:10:10.13,0:10:11.03,Sub,,0,0,0,,{\fad(90,70)}Jadi,
-Dialogue: 0,0:10:11.17,0:10:13.01,Sub,,0,0,0,,{\fad(90,70)}Apakah kesan kesalahan ini?
-Dialogue: 0,0:10:13.05,0:10:19.19,Sub,,0,0,0,,{\fad(90,70)}Kesan yang Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}MAKSUD{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MENJADI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KABUR{\r} kerana pembaca tidak tahu
-Dialogue: 0,0:10:19.23,0:10:22.57,Sub,,0,0,0,,{\fad(90,70)}siapa pelaku atau siapa yang diterangkan.
-Dialogue: 0,0:10:22.61,0:10:28.61,Sub,,0,0,0,,{\fad(90,70)}Dalam pengumuman rasmi, kekaburan ini\Nboleh menyebabkan arahan disalah faham.
-Dialogue: 0,0:10:28.65,0:10:34.29,Sub,,0,0,0,,{\fad(90,70)}Kedua, kesalahan ini sukar disedari\Nkerana ayatnya terasa betul apabila
-Dialogue: 0,0:10:34.33,0:10:35.34,Sub,,0,0,0,,{\fad(90,70)}dituturkan.
-Dialogue: 0,0:10:35.67,0:10:39.40,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, murid membawa pola\Nyang sama ke dalam karangan,
-Dialogue: 0,0:10:39.73,0:10:46.26,Sub,,0,0,0,,{\fad(90,70)}misalnya {\fnMontserrat ExtraBold\c&H4E4CFF&}Bagi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}saya{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berpendapat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}bahawa{\r}\Natau {\fnMontserrat ExtraBold\c&H4E4CFF&}Dalam{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cerita{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}itu{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}mengisahkan{\r}
-Dialogue: 0,0:10:46.93,0:10:51.83,Sub,,0,0,0,,{\fad(90,70)}Akhir sekali dalam peperiksaan, ayat\Nseperti ini dikira sebagai kesalahan
-Dialogue: 0,0:10:51.87,0:10:56.54,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} dan menyebabkan\Nmurid kehilangan markah bahasa.
-Dialogue: 0,0:10:58.85,0:11:02.61,Sub,,0,0,0,,{\fad(90,70)}Terima kasih Aliff untuk penerangan\Njenis kesalahan yang pertama.
-Dialogue: 0,0:11:02.65,0:11:07.43,Sub,,0,0,0,,{\fad(90,70)}Jadi saya akan menerangkan Jenis\Nkesalahan kedua iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP.{\r}
-Dialogue: 0,0:11:07.47,0:11:11.71,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP{\r} ialah binaan yang\Nkelihatan seperti ayat kerana dimulakan
-Dialogue: 0,0:11:11.75,0:11:15.95,Sub,,0,0,0,,{\fad(90,70)}dengan huruf besar dan diakhiri dengan\Ntanda noktah, tetapi tidak mempunyai
-Dialogue: 0,0:11:15.99,0:11:18.23,Sub,,0,0,0,,{\fad(90,70)}unsur yang cukup untuk membentuk ayat.
-Dialogue: 0,0:11:18.27,0:11:21.03,Sub,,0,0,0,,{\fad(90,70)}Kesalahan ini terbahagi\Nkepada tiga bentuk.
-Dialogue: 0,0:11:21.07,0:11:23.61,Sub,,0,0,0,,{\fad(90,70)}Bentuk pertama, ayat {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
-Dialogue: 0,0:11:23.65,0:11:28.01,Sub,,0,0,0,,{\fad(90,70)}Penulis hanya menulis {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang\Npanjang, biasanya dengan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r}
-Dialogue: 0,0:11:28.05,0:11:28.89,Sub,,0,0,0,,{\fad(90,70)}yang.
-Dialogue: 0,0:11:28.93,0:11:31.47,Sub,,0,0,0,,{\fad(90,70)}Seperti yang kami huraikan dalam PB1,
-Dialogue: 0,0:11:31.87,0:11:36.23,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r} ialah {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Nyang hanya menerangkan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama,{\r}
-Dialogue: 0,0:11:36.27,0:11:38.63,Sub,,0,0,0,,{\fad(90,70)}maka ia tidak boleh menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
-Dialogue: 0,0:11:38.67,0:11:44.43,Sub,,0,0,0,,{\fad(90,70)}Bentuk kedua, {\fnMontserrat ExtraBold\c&H0AD6FF&}KLAUSA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERGANTUNG,{\r} iaitu\N{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r} yang dimulakan dengan
-Dialogue: 0,0:11:44.47,0:11:47.10,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} seperti apabila,
-Dialogue: 0,0:11:47.57,0:11:53.28,Sub,,0,0,0,,{\fad(90,70)}kerana, kalau dan selepas,\Ntetapi tidak disertai {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
-Dialogue: 0,0:11:53.69,0:11:57.75,Sub,,0,0,0,,{\fad(90,70)}Bentuk ketiga, {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kerja{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}transitif{\r} yang tidak diikuti {\fnMontserrat ExtraBold\c&HF5A63F&}objek,{\r}
-Dialogue: 0,0:11:57.79,0:12:00.13,Sub,,0,0,0,,{\fad(90,70)}misalnya {\fnMontserrat ExtraBold\c&H4E4CFF&}Ayah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}membeli{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kedai.{\r}
-Dialogue: 0,0:12:00.17,0:12:03.87,Sub,,0,0,0,,{\fad(90,70)}Pembaca tertanya-tanya,\Napakah yang dibeli oleh ayah?
-Dialogue: 0,0:12:03.91,0:12:08.81,Sub,,0,0,0,,{\fad(90,70)}Jadi Contoh pertama ialah tajuk {\fnMontserrat ExtraBold\c&H4E4CFF&}video,{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Kedai{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}malatang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}paling{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kat{\r}
-Dialogue: 0,0:12:08.85,0:12:14.01,Sub,,0,0,0,,{\fad(90,70)}KL. Binaan ini hanyalah {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r}\Nkedai malatang yang diterangkan oleh
-Dialogue: 0,0:12:14.05,0:12:16.65,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r} yang paling sedap.
-Dialogue: 0,0:12:16.69,0:12:20.16,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT{\r} yang menyatakan\Napa-apa tentang kedai itu.
-Dialogue: 0,0:12:20.45,0:12:25.28,Sub,,0,0,0,,{\fad(90,70)}Ayat yang {\fnMontserrat ExtraBold\c&H6ED658&}betul{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}malatang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}paling{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}KL.{\r}
-Dialogue: 0,0:12:25.79,0:12:31.13,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Kini,{\r} kedai ini {\fnMontserrat ExtraBold\c&H6ED658&}menjadi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}subjek{\r} {\fnMontserrat ExtraBold\c&H6ED658&}dan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}malatang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}paling{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sedap{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} KL
-Dialogue: 0,0:12:31.17,0:12:33.34,Sub,,0,0,0,,{\fad(90,70)}menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
-Dialogue: 0,0:12:33.85,0:12:37.31,Sub,,0,0,0,,{\fad(90,70)}Contoh {\fnMontserrat ExtraBold\c&H6ED658&}kedua,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}restoran{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}mewah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}tapi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}harga{\r} {\fnMontserrat ExtraBold\c&H6ED658&}murah.{\r}
-Dialogue: 0,0:12:37.35,0:12:42.81,Sub,,0,0,0,,{\fad(90,70)}Tanpa {\fnMontserrat ExtraBold\c&HF5A63F&}penentu{\r} ini, frasa restoran mewah\Ndibaca sebagai satu {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} iaitu
-Dialogue: 0,0:12:42.85,0:12:46.67,Sub,,0,0,0,,{\fad(90,70)}restoran sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} dan\Nmewah sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}penerang.{\r}
-Dialogue: 0,0:12:46.71,0:12:49.67,Sub,,0,0,0,,{\fad(90,70)}Hal yang sama berlaku pada harga murah.
-Dialogue: 0,0:12:49.71,0:12:54.91,Sub,,0,0,0,,{\fad(90,70)}Jadi, binaan ini hanyalah 2 {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang dihubungkan bukan ayat.
-Dialogue: 0,0:12:54.95,0:12:59.38,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}restoran{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}mewah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}tetapi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}harganya{\r} murah.
-Dialogue: 0,0:12:59.93,0:13:03.93,Sub,,0,0,0,,{\fad(90,70)}Contoh ketiga, korang kalau\Nsuka snek seperti ini.
-Dialogue: 0,0:13:03.97,0:13:09.01,Sub,,0,0,0,,{\fad(90,70)}Ayat ini ialah {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan{\r} syarat\Nyang dimulakan dengan kalau tetapi
-Dialogue: 0,0:13:09.05,0:13:10.43,Sub,,0,0,0,,{\fad(90,70)}tidak ada {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
-Dialogue: 0,0:13:10.47,0:13:13.98,Sub,,0,0,0,,{\fad(90,70)}Pembaca tertunggu-tunggu kalau\Nsuka apa yang perlu dilakukan.
-Dialogue: 0,0:13:14.25,0:13:18.90,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalau{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalian{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}suka{\r} {\fnMontserrat ExtraBold\c&H6ED658&}snek{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalian{\r} {\fnMontserrat ExtraBold\c&H6ED658&}wajib{\r} mencubanya.
-Dialogue: 0,0:13:19.41,0:13:21.09,Sub,,0,0,0,,{\fad(90,70)}Kesan kesalahan ini cukup besar.
-Dialogue: 0,0:13:21.13,0:13:24.59,Sub,,0,0,0,,{\fad(90,70)}Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}MESEJ{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}SAMPAI{\r} dengan lengkap.
-Dialogue: 0,0:13:24.63,0:13:28.65,Sub,,0,0,0,,{\fad(90,70)}Dalam iklan, pembaca tidak tahu\Napakah tawaran yang sebenarnya.
-Dialogue: 0,0:13:28.97,0:13:32.93,Sub,,0,0,0,,{\fad(90,70)}Dalam arahan pula, pembaca tidak\Ntahu tindakan yang perlu diambil.
-Dialogue: 0,0:13:32.97,0:13:37.83,Sub,,0,0,0,,{\fad(90,70)}Kedua, murid yang kerap membaca ayat\Nseperti ini akan menulis ayat tergantung
-Dialogue: 0,0:13:37.87,0:13:41.49,Sub,,0,0,0,,{\fad(90,70)}dalam karangan, misalnya\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Apabila{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}loceng{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berbunyi.{\r}
-Dialogue: 0,0:13:41.53,0:13:43.42,Sub,,0,0,0,,{\fad(90,70)}lalu terus meletakkan noktah.
-Dialogue: 0,0:13:44.03,0:13:48.91,Sub,,0,0,0,,{\fad(90,70)}Ketiga, kemahiran murid membina {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}majmuk{\r} menjadi lemah kerana tidak
-Dialogue: 0,0:13:48.95,0:13:52.85,Sub,,0,0,0,,{\fad(90,70)}memahami bahawa {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Nmemerlukan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
-Dialogue: 0,0:13:52.89,0:13:57.53,Sub,,0,0,0,,{\fad(90,70)}Jadi, Saya serahkan kepada Iman Irfan\Nuntuk menerangkan jenis kesalahan
-Dialogue: 0,0:13:57.57,0:13:58.90,Sub,,0,0,0,,{\fad(90,70)}ketiga.
-Dialogue: 0,0:14:00.82,0:14:01.78,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Amin.
-Dialogue: 0,0:14:01.82,0:14:05.21,Sub,,0,0,0,,{\fad(90,70)}Jenis kesalahan ketiga ialah {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK.{\r}
-Dialogue: 0,0:14:05.74,0:14:09.98,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} ialah percampuran bahasa\NMelayu dengan bahasa Inggeris atau
-Dialogue: 0,0:14:10.02,0:14:12.56,Sub,,0,0,0,,{\fad(90,70)}bahasa basahan dalam satu ayat.
-Dialogue: 0,0:14:12.60,0:14:17.06,Sub,,0,0,0,,{\fad(90,70)}Mungkin ada yang bertanya, adakah {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} termasuk dalam aspek {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r}
-Dialogue: 0,0:14:17.10,0:14:19.47,Sub,,0,0,0,,{\fad(90,70)}atau hanya aspek kata?
-Dialogue: 0,0:14:19.52,0:14:24.82,Sub,,0,0,0,,{\fad(90,70)}Jawapannya, {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} menjadi isu\N{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} apabila unsur asing itu
-Dialogue: 0,0:14:24.86,0:14:27.39,Sub,,0,0,0,,{\fad(90,70)}mengambil alih fungsi dalam binaan ayat.
-Dialogue: 0,0:14:27.82,0:14:32.56,Sub,,0,0,0,,{\fad(90,70)}Unsur bahasa Inggeris dijadikan\N{\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kerja,{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} yang
-Dialogue: 0,0:14:32.60,0:14:38.59,Sub,,0,0,0,,{\fad(90,70)}menghubungkan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dalam {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}majmuk,{\r}\Natau {\fnMontserrat ExtraBold\c&HF5A63F&}penerang{\r} dalam {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}adjektif.{\r}
-Dialogue: 0,0:14:39.26,0:14:44.99,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, ayat itu tidak lagi mematuhi\Nstruktur ayat bahasa Melayu baku.
-Dialogue: 0,0:14:45.67,0:14:49.84,Sub,,0,0,0,,{\fad(90,70)}Baiklah, contoh yang pertama\Nialah tajuk video di {\fnMontserrat ExtraBold\c&H4E4CFF&}YouTube,{\r}
-Dialogue: 0,0:14:50.17,0:14:53.18,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Harini{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}team{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}nak{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}share{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cara{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}buat{\r} kek.
-Dialogue: 0,0:14:53.39,0:14:58.36,Sub,,0,0,0,,{\fad(90,70)}Dalam ayat ini, {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} ialah\Nteam dan {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ialah share,
-Dialogue: 0,0:14:58.95,0:15:01.70,Sub,,0,0,0,,{\fad(90,70)}kedua-duanya perkataan bahasa Inggeris.
-Dialogue: 0,0:15:02.13,0:15:06.38,Sub,,0,0,0,,{\fad(90,70)}Kata bantu nak dan kata kerja\Nbuat pula ialah bentuk basahan.
-Dialogue: 0,0:15:06.99,0:15:13.00,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Hari{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pasukan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ingin{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berkongsi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}cara{\r} {\fnMontserrat ExtraBold\c&H6ED658&}membuat{\r} kek.
-Dialogue: 0,0:15:13.91,0:15:17.96,Sub,,0,0,0,,{\fad(90,70)}Contoh kedua dan ketiga ialah\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Pakej{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}serendah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}RM30{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}only!{\r}
-Dialogue: 0,0:15:18.00,0:15:19.74,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Tekan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}link{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}bio.{\r}
-Dialogue: 0,0:15:19.79,0:15:22.02,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Overall{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}best{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}gila,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wajib{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}try{\r} guys!
-Dialogue: 0,0:15:22.21,0:15:26.67,Sub,,0,0,0,,{\fad(90,70)}Dalam contoh ketiga, hampir semua\Nunsur ayat iaitu {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan,{\r}
-Dialogue: 0,0:15:26.71,0:15:31.33,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} dan {\fnMontserrat ExtraBold\c&HF5A63F&}objek{\r} diambil daripada\Nbahasa Inggeris dan bahasa basahan.
-Dialogue: 0,0:15:31.37,0:15:33.53,Sub,,0,0,0,,{\fad(90,70)}Malah subjeknya juga tiada.
-Dialogue: 0,0:15:33.57,0:15:37.88,Sub,,0,0,0,,{\fad(90,70)}Ayat betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}secara{\r} {\fnMontserrat ExtraBold\c&H6ED658&}keseluruhan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}makanan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sangat{\r} bagus.
-Dialogue: 0,0:15:38.21,0:15:40.04,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}Anda{\r} {\fnMontserrat ExtraBold\c&H6ED658&}wajib{\r} {\fnMontserrat ExtraBold\c&H6ED658&}mencubanya.{\r}
-Dialogue: 0,0:15:40.09,0:15:43.01,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} juga merosakkan\Nbinaan {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}majmuk.{\r}
-Dialogue: 0,0:15:43.05,0:15:44.54,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Contohnya,{\r}
-Dialogue: 0,0:15:45.04,0:15:48.67,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}pergi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}shopping{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}pasar{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}raya,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}so{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}penat{\r} sangat.
-Dialogue: 0,0:15:48.90,0:15:53.16,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} bahasa Inggeris so digunakan\Nuntuk menghubungkan dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
-Dialogue: 0,0:15:53.20,0:15:57.00,Sub,,0,0,0,,{\fad(90,70)}Ayat {\fnMontserrat ExtraBold\c&H6ED658&}betul{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pergi{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}membeli-belah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pasar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}raya.{\r}
-Dialogue: 0,0:15:57.04,0:15:59.49,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}Oleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} sangat penat.
-Dialogue: 0,0:16:00.41,0:16:06.69,Sub,,0,0,0,,{\fad(90,70)}Apakah kesannya? Yang Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} menjejaskan {\fnMontserrat ExtraBold\c&H0AD6FF&}MARTABAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}MELAYU{\r}
-Dialogue: 0,0:16:06.73,0:16:12.35,Sub,,0,0,0,,{\fad(90,70)}sebagai bahasa kebangsaan seperti\Nyang termaktub dalam {\fnMontserrat ExtraBold\c&H0AD6FF&}PERKARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}152{\r}
-Dialogue: 0,0:16:12.39,0:16:15.39,Sub,,0,0,0,,{\fad(90,70)}Perlembagaan Persekutuan.
-Dialogue: 0,0:16:15.43,0:16:19.39,Sub,,0,0,0,,{\fad(90,70)}Yang Kedua, murid kehilangan\Nkosa kata bahasa Melayu.
-Dialogue: 0,0:16:19.43,0:16:24.21,Sub,,0,0,0,,{\fad(90,70)}Ramai murid lebih mengenali perkataan\Nsubmit, share dan busy berbanding
-Dialogue: 0,0:16:24.25,0:16:27.27,Sub,,0,0,0,,{\fad(90,70)}menghantar, berkongsi dan sibuk.
-Dialogue: 0,0:16:27.31,0:16:32.91,Sub,,0,0,0,,{\fad(90,70)}Yang Ketiga, murid tidak dapat membezakan\Nsituasi rasmi dengan situasi tidak
-Dialogue: 0,0:16:32.95,0:16:37.03,Sub,,0,0,0,,{\fad(90,70)}rasmi, lalu membawa {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} ke dalam karangan mereka,
-Dialogue: 0,0:16:37.07,0:16:40.15,Sub,,0,0,0,,{\fad(90,70)}surat rasmi dan jawapan peperiksaan.
-Dialogue: 0,0:16:40.19,0:16:44.33,Sub,,0,0,0,,{\fad(90,70)}Dan yang Keempat, jika dibiarkan,\Ngenerasi akan datang mungkin menganggap
-Dialogue: 0,0:16:44.37,0:16:48.17,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} sebagai\Nbentuk bahasa yang betul.
-Dialogue: 0,0:16:48.21,0:16:53.49,Sub,,0,0,0,,{\fad(90,70)}Secara keseluruhan, ketiga-tiga jenis\Nkesalahan ini mempunyai satu persamaan,
-Dialogue: 0,0:16:53.53,0:16:59.33,Sub,,0,0,0,,{\fad(90,70)}iaitu semuanya merosakkan hubungan\Nantara {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} dalam ayat.
-Dialogue: 0,0:16:59.37,0:17:03.41,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} paling terkesan\Nkerana mereka berada pada peringkat
-Dialogue: 0,0:17:03.45,0:17:05.43,Sub,,0,0,0,,{\fad(90,70)}meniru dan membina asas bahasa.
-Dialogue: 0,0:17:05.47,0:17:10.69,Sub,,0,0,0,,{\fad(90,70)}Apa-apa yang mereka baca hari ini\Nakan menjadi bahasa mereka pada masa
-Dialogue: 0,0:17:10.73,0:17:16.92,Sub,,0,0,0,,{\fad(90,70)}hadapan. Oleh itu, kami percaya\Nbahawa usaha membasmi {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}
-Dialogue: 0,0:17:17.22,0:17:20.02,Sub,,0,0,0,,{\fad(90,70)}mesti bermula di {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH.{\r}
-Dialogue: 0,0:17:20.06,0:17:23.22,Sub,,0,0,0,,{\fad(90,70)}Baiklah, sekarang Saya serahkan\Nsemula kepada rakan saya,
-Dialogue: 0,0:17:23.26,0:17:26.53,Sub,,0,0,0,,{\fad(90,70)}Aliff, untuk menerangkan\Ncadangan penambahbaikan kami.
-Dialogue: 0,0:17:29.08,0:17:31.37,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Iman Irfan.
-Dialogue: 0,0:17:31.64,0:17:36.74,Sub,,0,0,0,,{\fad(90,70)}Daripada bukti yang kami peroleh di\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL,{\r} kami bertanya kepada diri
-Dialogue: 0,0:17:36.78,0:17:42.02,Sub,,0,0,0,,{\fad(90,70)}sendiri: sebagai {\fnMontserrat ExtraBold\c&H0AD6FF&}BAKAL{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU,{\r}\Napakah yang boleh kami lakukan?
-Dialogue: 0,0:17:42.06,0:17:46.66,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} tidak boleh dihalang\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} sepenuhnya,
-Dialogue: 0,0:17:46.70,0:17:52.42,Sub,,0,0,0,,{\fad(90,70)}tetapi mereka boleh dilatih untuk\Nmengenal pasti ayat yang salah dan
-Dialogue: 0,0:17:52.46,0:17:57.76,Sub,,0,0,0,,{\fad(90,70)}membetulkannya. Kami juga sedar bahawa\Nlatihan {\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} secara tradisional
-Dialogue: 0,0:17:57.80,0:18:00.78,Sub,,0,0,0,,{\fad(90,70)}sering dianggap membosankan oleh murid.
-Dialogue: 0,0:18:00.82,0:18:06.66,Sub,,0,0,0,,{\fad(90,70)}Oleh itu, kami membina sebuah dunia\Npermainan dalam {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} yang
-Dialogue: 0,0:18:06.70,0:18:10.06,Sub,,0,0,0,,{\fad(90,70)}kami namakan {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
-Dialogue: 0,0:18:10.10,0:18:14.50,Sub,,0,0,0,,{\fad(90,70)}Kami memilih {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} kerana tiga sebab.
-Dialogue: 0,0:18:14.54,0:18:20.24,Sub,,0,0,0,,{\fad(90,70)}Sebab yang Pertama, permainan ini sangat\Ndiminati oleh murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH,{\r}
-Dialogue: 0,0:18:20.28,0:18:21.18,Sub,,0,0,0,,{\fad(90,70)}maka
-Dialogue: 0,0:18:21.28,0:18:23.00,Sub,,0,0,0,,{\fad(90,70)}mereka terlibat secara aktif.
-Dialogue: 0,0:18:23.04,0:18:28.14,Sub,,0,0,0,,{\fad(90,70)}Sebab yang Kedua, {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r}\Nboleh diakses oleh guru dan murid
-Dialogue: 0,0:18:28.18,0:18:32.71,Sub,,0,0,0,,{\fad(90,70)}melalui akaun DELIMa, maka\Ntidak memerlukan kos tambahan.
-Dialogue: 0,0:18:33.22,0:18:38.12,Sub,,0,0,0,,{\fad(90,70)}Dan akhir sekali, {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r}\Nmembolehkan kami menggabungkan
-Dialogue: 0,0:18:38.16,0:18:43.38,Sub,,0,0,0,,{\fad(90,70)}pembelajaran dengan permainan melalui\Nmisi, markah, pingat dan papan
-Dialogue: 0,0:18:43.42,0:18:44.59,Sub,,0,0,0,,{\fad(90,70)}kedudukan.
-Dialogue: 0,0:18:45.20,0:18:48.59,Sub,,0,0,0,,{\fad(90,70)}Dunia ini dibina berdasarkan\Nbukti yang kami kumpulkan.
-Dialogue: 0,0:18:49.12,0:18:54.20,Sub,,0,0,0,,{\fad(90,70)}Ketiga-tiga jenis kesalahan yang telah\Nditerangkan tadi dijadikan sebagai tiga
-Dialogue: 0,0:18:54.24,0:19:00.54,Sub,,0,0,0,,{\fad(90,70)}misi. Contoh kapsyen {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang\Nsebenar dipamerkan dalam galeri isu di
-Dialogue: 0,0:19:00.58,0:19:06.18,Sub,,0,0,0,,{\fad(90,70)}lobi utama. Setiap jawapan murid\Ndiikuti dengan penerangan segera tentang
-Dialogue: 0,0:19:06.22,0:19:10.29,Sub,,0,0,0,,{\fad(90,70)}sebab jawapan itu betul atau salah.
-Dialogue: 0,0:19:10.44,0:19:17.21,Sub,,0,0,0,,{\fad(90,70)}Sekarang, kami akan menunjukkan cara\Nbermain dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} ini.
-Dialogue: 0,0:19:20.86,0:19:25.65,Sub,,260,560,0,,{\fad(90,70)}Apabila murid memasuki dunia ini,\Nmereka akan berada di lobi utama.
-Dialogue: 0,0:19:25.76,0:19:30.24,Sub,,260,560,0,,{\fad(90,70)}Papan tanda Selamat Datang ke {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} menerangkan matlamat
-Dialogue: 0,0:19:30.28,0:19:34.86,Sub,,260,560,0,,{\fad(90,70)}permainan, iaitu membetulkan ayat\Nyang salah dan mengumpulkan markah.
-Dialogue: 0,0:19:34.90,0:19:37.23,Sub,,260,560,0,,{\fad(90,70)}Apabila murid mendekati watak
-Dialogue: 0,0:19:37.69,0:19:42.91,Sub,,260,560,0,,{\fad(90,70)}penyambut, mesej di bahagian bawah skrin\Nmengarahkan mereka membaca poster di
-Dialogue: 0,0:19:42.95,0:19:48.61,Sub,,260,560,0,,{\fad(90,70)}sekitar dinding dan galeri isu\Ndi dinding sebelah kiri dan
-Dialogue: 0,0:19:48.65,0:19:55.21,Sub,,260,560,0,,{\fad(90,70)}kanan. Poster di dinding sebelah\Nutara memperkenalkan tiga misi.
-Dialogue: 0,0:19:55.25,0:19:58.52,Sub,,260,560,0,,{\fad(90,70)}iaitu misi yang pertama\NJenis yang pertama,
-Dialogue: 0,0:19:58.91,0:20:05.15,Sub,,260,560,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK,{\r} dengan\Nperingatan Elak mula ayat dengan kepada,
-Dialogue: 0,0:20:05.19,0:20:07.96,Sub,,260,560,0,,{\fad(90,70)}bagi, dalam, dan di.
-Dialogue: 0,0:20:08.03,0:20:13.05,Sub,,260,560,0,,{\fad(90,70)}Dan Jenis yang kedua ialah {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP,{\r} dengan peringatan bahawa ayat
-Dialogue: 0,0:20:13.09,0:20:15.11,Sub,,260,560,0,,{\fad(90,70)}perlu {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
-Dialogue: 0,0:20:15.15,0:20:20.33,Sub,,260,560,0,,{\fad(90,70)}Dan akhir sekali Jenis ketiga ialah\N{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK,{\r} dengan peringatan Jangan
-Dialogue: 0,0:20:20.37,0:20:23.06,Sub,,260,560,0,,{\fad(90,70)}campur bahasa Inggeris\Natau Bahasa basahan.
-Dialogue: 0,0:20:23.27,0:20:28.71,Sub,,260,560,0,,{\fad(90,70)}Di dinding sebelah kiri dan kanan pula\Nterdapat Galeri Isu {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA.{\r}
-Dialogue: 0,0:20:28.75,0:20:33.35,Sub,,260,560,0,,{\fad(90,70)}Setiap paparan berbentuk telefon\Nmengandungi tiga bahagian,
-Dialogue: 0,0:20:33.39,0:20:37.89,Sub,,260,560,0,,{\fad(90,70)}iaitu kapsyen yang salah\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL,{\r} jenis isu,
-Dialogue: 0,0:20:37.93,0:20:39.65,Sub,,260,560,0,,{\fad(90,70)}dan ayat yang betul.
-Dialogue: 0,0:20:39.69,0:20:44.53,Sub,,260,560,0,,{\fad(90,70)}Contohnya, {\fnMontserrat ExtraBold\c&H4E4CFF&}kapsyen{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}komen{\r}
-Dialogue: 0,0:20:44.57,0:20:50.53,Sub,,260,560,0,,{\fad(90,70)}dilabelkan sebagai Jenis satu iaitu\Ntiada {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r} dan diikuti ayat
-Dialogue: 0,0:20:50.57,0:20:55.81,Sub,,260,560,0,,{\fad(90,70)}betulnya. Galeri ini penting kerana\Nmurid dapat melihat sendiri bahawa
-Dialogue: 0,0:20:55.85,0:21:01.17,Sub,,260,560,0,,{\fad(90,70)}kesalahan yang dipelajari benar-benar\Nberlaku di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang mereka
-Dialogue: 0,0:21:01.21,0:21:03.24,Sub,,260,560,0,,{\fad(90,70)}gunakan setiap hari.
-Dialogue: 0,0:21:04.03,0:21:08.68,Sub,,260,560,0,,{\fad(90,70)}Murid boleh memilih untuk bermain\Nsecara individu atau berkumpulan.
-Dialogue: 0,0:21:08.75,0:21:13.63,Sub,,260,560,0,,{\fad(90,70)}Untuk bermain secara individu, murid\Nmasuk melalui gerbang hijau dan memijak
-Dialogue: 0,0:21:13.67,0:21:17.99,Sub,,260,560,0,,{\fad(90,70)}blok zamrud. Untuk bermain secara\Nberkumpulan, murid masuk melalui gerbang
-Dialogue: 0,0:21:18.03,0:21:23.37,Sub,,260,560,0,,{\fad(90,70)}ungu dan memijak bulu mengikut\Nwarna kumpulan, iaitu merah,
-Dialogue: 0,0:21:23.41,0:21:25.47,Sub,,260,560,0,,{\fad(90,70)}biru, hijau atau kuning.
-Dialogue: 0,0:21:25.51,0:21:30.17,Sub,,260,560,0,,{\fad(90,70)}Dalam mod berkumpulan, markah dikongsi\Nbersama, maka murid perlu berbincang
-Dialogue: 0,0:21:30.21,0:21:35.91,Sub,,260,560,0,,{\fad(90,70)}dan bekerjasama. Sebelum bermula,\Nmurid boleh mencuba petak latihan dengan
-Dialogue: 0,0:21:35.95,0:21:38.99,Sub,,260,560,0,,{\fad(90,70)}memijak blok emas untuk membiasakan diri.
-Dialogue: 0,0:21:39.03,0:21:40.79,Sub,,260,560,0,,{\fad(90,70)}Sistem markahnya mudah.
-Dialogue: 0,0:21:40.83,0:21:44.45,Sub,,260,560,0,,{\fad(90,70)}Setiap jawapan yang betul\Ndiberi tambahan 100 markah,
-Dialogue: 0,0:21:44.49,0:21:48.65,Sub,,260,560,0,,{\fad(90,70)}manakala setiap jawapan yang\Nsalah ditolak 50 markah.
-Dialogue: 0,0:21:48.69,0:21:54.07,Sub,,260,560,0,,{\fad(90,70)}Murid perlu menjawab 5 soalan dengan\Nbetul untuk naik ke jenis seterusnya.
-Dialogue: 0,0:21:54.11,0:21:56.72,Sub,,260,560,0,,{\fad(90,70)}Setiap jenis mempunyai 10 soalan.
-Dialogue: 0,0:21:57.79,0:22:01.64,Sub,,260,560,0,,{\fad(90,70)}Selepas memijak blok zamrud,\Nmurid dibawa ke lobi Jenis satu.
-Dialogue: 0,0:22:01.75,0:22:06.32,Sub,,260,560,0,,{\fad(90,70)}Di sini, murid diberikan 30 saat\Nuntuk membaca papan ciri-ciri.
-Dialogue: 0,0:22:06.65,0:22:10.30,Sub,,260,560,0,,{\fad(90,70)}Papan ini mengingatkan bahawa\Nsetiap ayat mesti mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r}
-Dialogue: 0,0:22:10.69,0:22:12.51,Sub,,260,560,0,,{\fad(90,70)}Dan cara membetulkannya.
-Dialogue: 0,0:22:12.55,0:22:16.55,Sub,,260,560,0,,{\fad(90,70)}adalah menggugurkan {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} atau menambah {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:22:16.59,0:22:21.01,Sub,,260,560,0,,{\fad(90,70)}Masa membaca ini sengaja disediakan\Nsupaya murid mengulang kaji konsep sebelum
-Dialogue: 0,0:22:21.05,0:22:21.95,Sub,,260,560,0,,{\fad(90,70)}menjawab.
-Dialogue: 0,0:22:22.42,0:22:28.28,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama, {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kepada{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}semua{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}murid{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dikehendaki{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berkumpul{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} dewan.
-Dialogue: 0,0:22:28.32,0:22:31.84,Sub,,260,560,0,,{\fad(90,70)}Murid diminta memilih perkataan yang\Nperlu digugurkan supaya ayat ini
-Dialogue: 0,0:22:31.88,0:22:37.94,Sub,,260,560,0,,{\fad(90,70)}mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r} Pilihan A ialah\Nsemua, pilihan B ialah Kepada
-Dialogue: 0,0:22:37.98,0:22:40.66,Sub,,260,560,0,,{\fad(90,70)}pilihan C ialah dewan.
-Dialogue: 0,0:22:40.70,0:22:44.01,Sub,,260,560,0,,{\fad(90,70)}Murid menjawab dengan\Nmemijak blok berwarna.
-Dialogue: 0,0:22:44.12,0:22:46.53,Sub,,260,560,0,,{\fad(90,70)}Saya pijak blok B, iaitu Kepada.
-Dialogue: 0,0:22:47.04,0:22:50.45,Sub,,260,560,0,,{\fad(90,70)}Jawapan betul, dan saya\Nmendapat 100 markah.
-Dialogue: 0,0:22:50.98,0:22:53.33,Sub,,260,560,0,,{\fad(90,70)}Perhatikan penerangan di skrin:
-Dialogue: 0,0:22:53.98,0:22:55.99,Sub,,260,560,0,,{\fad(90,70)}Kepada ialah kata sendi.
-Dialogue: 0,0:22:56.44,0:22:59.53,Sub,,260,560,0,,{\fad(90,70)}Gugurkan supaya Semua murid jadi {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
-Dialogue: 0,0:23:00.33,0:23:05.24,Sub,,260,560,0,,{\fad(90,70)}Sekarang saya tunjukkan apa yang\Nberlaku jika murid menjawab salah.
-Dialogue: 0,0:23:05.57,0:23:09.58,Sub,,260,560,0,,{\fad(90,70)}Soalan kedua {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Bagi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}murid{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}datang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}lewat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}akan{\r} didenda.
-Dialogue: 0,0:23:09.69,0:23:12.48,Sub,,260,560,0,,{\fad(90,70)}Saya sengaja memilih murid.
-Dialogue: 0,0:23:13.05,0:23:16.41,Sub,,260,560,0,,{\fad(90,70)}Jawapan salah, markah akan ditolak 50.
-Dialogue: 0,0:23:16.45,0:23:22.14,Sub,,260,560,0,,{\fad(90,70)}dan permainan terus menunjukkan\Njawapan yang betul, iaitu Bagi,
-Dialogue: 0,0:23:22.23,0:23:28.18,Sub,,260,560,0,,{\fad(90,70)}beserta sebabnya. Melalui cara ini,\Nmurid tidak sekadar tahu jawapannya
-Dialogue: 0,0:23:28.22,0:23:30.07,Sub,,260,560,0,,{\fad(90,70)}salah, tetapi faham
-Dialogue: 0,0:23:30.60,0:23:32.34,Sub,,260,560,0,,{\fad(90,70)}mengapa jawapannya salah.
-Dialogue: 0,0:23:32.38,0:23:36.78,Sub,,260,560,0,,{\fad(90,70)}Jika murid mahu mencuba soalan lain,\Nmereka boleh memijak blok biru untuk
-Dialogue: 0,0:23:36.82,0:23:37.81,Sub,,260,560,0,,{\fad(90,70)}ulang.
-Dialogue: 0,0:23:41.89,0:23:46.37,Sub,,260,560,0,,{\fad(90,70)}Setelah menjawab lima soalan dengan\Nbetul, murid naik ke Jenis dua,
-Dialogue: 0,0:23:46.41,0:23:48.05,Sub,,260,560,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP.{\r}
-Dialogue: 0,0:23:48.09,0:23:50.66,Sub,,260,560,0,,{\fad(90,70)}Aktiviti dalam misi ini berbeza.
-Dialogue: 0,0:23:50.73,0:23:52.45,Sub,,260,560,0,,{\fad(90,70)}Murid perlu menyusun ayat.
-Dialogue: 0,0:23:52.49,0:23:56.72,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} itu.
-Dialogue: 0,0:23:56.83,0:23:59.70,Sub,,260,560,0,,{\fad(90,70)}Ayat ini tidak lengkap\Nkerana {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
-Dialogue: 0,0:24:00.01,0:24:04.03,Sub,,260,560,0,,{\fad(90,70)}Murid perlu membuka Peti satu yang\Nmengandungi bahagian awal ayat,
-Dialogue: 0,0:24:04.07,0:24:07.11,Sub,,260,560,0,,{\fad(90,70)}dan Peti dua yang mengandungi\Nbahagian akhir ayat.
-Dialogue: 0,0:24:07.15,0:24:13.01,Sub,,260,560,0,,{\fad(90,70)}Saya ambil {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu{\r}\Ndaripada Peti satu dan {\fnMontserrat ExtraBold\c&H6ED658&}terletak{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
-Dialogue: 0,0:24:13.05,0:24:15.53,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} daripada Peti dua.
-Dialogue: 0,0:24:15.57,0:24:20.39,Sub,,260,560,0,,{\fad(90,70)}Kemudian, saya letakkan kepingan itu\Ndalam Bingkai satu dan Bingkai dua.
-Dialogue: 0,0:24:20.43,0:24:24.59,Sub,,260,560,0,,{\fad(90,70)}Jawapan terus disemak, dan {\fnMontserrat ExtraBold\c&H6ED658&}ayat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu{\r} {\fnMontserrat ExtraBold\c&H6ED658&}terletak{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r}
-Dialogue: 0,0:24:24.63,0:24:26.73,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} ialah ayat yang lengkap.
-Dialogue: 0,0:24:27.58,0:24:32.22,Sub,,260,560,0,,{\fad(90,70)}Perhatikan bahawa peti juga mengandungi\Npilihan pengecoh seperti {\fnMontserrat ExtraBold\c&H4E4CFF&}Kerana{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}rumah{\r}
-Dialogue: 0,0:24:32.26,0:24:34.80,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Ali{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}hujung{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kampung.{\r}
-Dialogue: 0,0:24:34.84,0:24:39.60,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Jika{\r} murid memilih pengecoh ini, ayat\Nitu masih tergantung atau masih {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r}
-Dialogue: 0,0:24:39.64,0:24:42.94,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r} Inilah kemahiran\Nyang kami mahu murid kuasai,
-Dialogue: 0,0:24:42.98,0:24:46.00,Sub,,260,560,0,,{\fad(90,70)}iaitu membezakan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}utama{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat.{\r}
-Dialogue: 0,0:24:46.04,0:24:51.10,Sub,,260,560,0,,{\fad(90,70)}Jika murid tersalah susun, mereka boleh\Nmemijak blok Set Semula untuk mengisi
-Dialogue: 0,0:24:51.14,0:24:53.35,Sub,,260,560,0,,{\fad(90,70)}semula peti dan mengosongkan bingkai.
-Dialogue: 0,0:24:57.58,0:25:01.39,Sub,,260,560,0,,{\fad(90,70)}Misi terakhir ialah Jenis\N3, iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK.{\r}
-Dialogue: 0,0:25:01.44,0:25:04.94,Sub,,260,560,0,,{\fad(90,70)}Misi ini paling mencabar kerana\Nmurid perlu melakukan parkour,
-Dialogue: 0,0:25:04.98,0:25:09.34,Sub,,260,560,0,,{\fad(90,70)}iaitu melompat dari satu blok ke blok\Nyang lain untuk sampai ke platform
-Dialogue: 0,0:25:09.38,0:25:11.00,Sub,,260,560,0,,{\fad(90,70)}jawapan yang betul.
-Dialogue: 0,0:25:11.04,0:25:15.74,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Saya{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sangat{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}happy{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kerana{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dapat{\r} hadiah.
-Dialogue: 0,0:25:15.78,0:25:19.78,Sub,,260,560,0,,{\fad(90,70)}Perkataan berwarna merah perlu digantikan\Ndengan perkataan bahasa Melayu yang
-Dialogue: 0,0:25:19.82,0:25:24.22,Sub,,260,560,0,,{\fad(90,70)}betul. Pilihannya ialah\N{\fnMontserrat ExtraBold\c&H6ED658&}gembira,{\r} happy dan marah.
-Dialogue: 0,0:25:24.26,0:25:27.50,Sub,,260,560,0,,{\fad(90,70)}Saya melompat ke platform\NA, iaitu {\fnMontserrat ExtraBold\c&H6ED658&}gembira.{\r}
-Dialogue: 0,0:25:27.54,0:25:32.92,Sub,,260,560,0,,{\fad(90,70)}Jawapan betul! Jika murid jatuh ke dalam\Nair, mereka perlu mencuba semula dari
-Dialogue: 0,0:25:32.96,0:25:38.45,Sub,,260,560,0,,{\fad(90,70)}permulaan. Setiap bilik\Nmempunyai laluan yang berbeza,
-Dialogue: 0,0:25:38.98,0:25:43.84,Sub,,260,560,0,,{\fad(90,70)}maka murid perlu fokus dan berhati-hati,\Nsama seperti mereka perlu
-Dialogue: 0,0:25:43.88,0:25:47.09,Sub,,260,560,0,,{\fad(90,70)}berhati-hati memilih\Nperkataan dalam penulisan.
-Dialogue: 0,0:25:47.71,0:25:51.91,Sub,,260,560,0,,{\fad(90,70)}Apabila ketiga-tiga misi selesai,\Nmurid dibawa ke dewan keputusan dan
-Dialogue: 0,0:25:51.95,0:25:54.11,Sub,,260,560,0,,{\fad(90,70)}diberikan gelaran {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
-Dialogue: 0,0:25:54.15,0:25:58.67,Sub,,260,560,0,,{\fad(90,70)}Keputusan murid dipaparkan, termasuk\Nmarkah, bilangan jawapan betul,
-Dialogue: 0,0:25:58.71,0:26:02.15,Sub,,260,560,0,,{\fad(90,70)}bilangan jawapan yang salah\Ndan bilangan misi yang selesai.
-Dialogue: 0,0:26:02.19,0:26:07.93,Sub,,260,560,0,,{\fad(90,70)}Murid yang membuat kesalahan antara\Nsifar hingga 3 kali layak menerima {\fnMontserrat ExtraBold\c&H0AD6FF&}PINGAT{\r}
-Dialogue: 0,0:26:07.97,0:26:10.58,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}EMAS{\r} dengan bonus 300.
-Dialogue: 0,0:26:11.03,0:26:16.01,Sub,,260,560,0,,{\fad(90,70)}Murid yang membuat kesalahan antara\N4 hingga 7 kali menerima pingat perak
-Dialogue: 0,0:26:16.05,0:26:20.56,Sub,,260,560,0,,{\fad(90,70)}dengan bonus 150 manakala\Nselebihnya menerima pingat gangsa.
-Dialogue: 0,0:26:20.60,0:26:24.25,Sub,,260,560,0,,{\fad(90,70)}Papan kedudukan memaparkan\N15 pemain teratas.
-Dialogue: 0,0:26:24.29,0:26:26.66,Sub,,260,560,0,,{\fad(90,70)}Apabila guru memijak lodestone,
-Dialogue: 0,0:26:27.11,0:26:32.64,Sub,,260,560,0,,{\fad(90,70)}majlis penyampaian bermula dan juara\Npertama, kedua dan ketiga naik ke pentas.
-Dialogue: 0,0:26:32.81,0:26:34.69,Sub,,260,560,0,,{\fad(90,70)}Dunia ini juga mesra guru.
-Dialogue: 0,0:26:34.73,0:26:38.45,Sub,,260,560,0,,{\fad(90,70)}Jika masa kelas tamat, murid boleh\Nkeluar dengan memijak blok besi,
-Dialogue: 0,0:26:38.49,0:26:40.39,Sub,,260,560,0,,{\fad(90,70)}dan kemajuan mereka disimpan.
-Dialogue: 0,0:26:40.43,0:26:44.27,Sub,,260,560,0,,{\fad(90,70)}Pada sesi seterusnya, murid hanya perlu\Nmemijak glowstone untuk menyambung
-Dialogue: 0,0:26:44.31,0:26:49.79,Sub,,260,560,0,,{\fad(90,70)}misi. Di {\fnMontserrat ExtraBold\c&H0AD6FF&}SUDUT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU,{\r} guru boleh menetapkan\Nsemula semua markah dan memaparkan
-Dialogue: 0,0:26:49.83,0:26:51.95,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}LAPORAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KEMAJUAN{\r} setiap murid.
-Dialogue: 0,0:26:51.99,0:26:55.71,Sub,,260,560,0,,{\fad(90,70)}Melalui laporan ini, guru dapat mengenal\Npasti jenis kesalahan yang paling
-Dialogue: 0,0:26:55.75,0:26:58.98,Sub,,260,560,0,,{\fad(90,70)}kerap dilakukan oleh murid dan\Nmerancang pengajaran susulan.
-Dialogue: 0,0:27:01.55,0:27:03.14,Sub,,0,0,0,,{\fad(90,70)}Selain {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION,{\r}
-Dialogue: 0,0:27:03.53,0:27:08.77,Sub,,0,0,0,,{\fad(90,70)}kami turut mencadangkan beberapa langkah\Nlain yang lebih mudah dilaksanakan,
-Dialogue: 0,0:27:08.81,0:27:12.66,Sub,,0,0,0,,{\fad(90,70)}terutamanya di sekolah yang mempunyai\Nkemudahan peranti yang terhad.
-Dialogue: 0,0:27:13.09,0:27:14.60,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang pertama
-Dialogue: 0,0:27:14.95,0:27:18.15,Sub,,0,0,0,,{\fad(90,70)}aktiviti Detektif Ayat {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
-Dialogue: 0,0:27:18.19,0:27:24.90,Sub,,0,0,0,,{\fad(90,70)}Guru memaparkan tangkap layar capture\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} tanpa nama akaun.
-Dialogue: 0,0:27:25.25,0:27:30.52,Sub,,0,0,0,,{\fad(90,70)}Murid bekerja dalam kumpulan untuk\Nmenggariskan {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT,{\r}
-Dialogue: 0,0:27:30.61,0:27:34.42,Sub,,0,0,0,,{\fad(90,70)}mengenal pasti jenis\Nkesalahan, dalam kumpulan
-Dialogue: 0,0:27:34.81,0:27:38.45,Sub,,0,0,0,,{\fad(90,70)}dan menulis semula ayat yang betul.
-Dialogue: 0,0:27:38.49,0:27:43.59,Sub,,0,0,0,,{\fad(90,70)}Ayat-ayat yang telah dibetulkan ditampal\Npada Dinding Ayat Betul di dalam
-Dialogue: 0,0:27:43.63,0:27:49.86,Sub,,0,0,0,,{\fad(90,70)}kelas. Aktiviti ini melatih murid supaya\Nmembaca {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} secara kritis.
-Dialogue: 0,0:27:50.23,0:27:55.05,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang kedua ialah kad\Npermainan {\fnMontserrat ExtraBold\c&H0AD6FF&}SELAMATKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
-Dialogue: 0,0:27:55.09,0:27:59.44,Sub,,0,0,0,,{\fad(90,70)}Kad ini mengandungi ayat salah\Ndaripada tiga jenis kesalahan.
-Dialogue: 0,0:27:59.79,0:28:02.28,Sub,,0,0,0,,{\fad(90,70)}Murid bergilir-gilir mencabut kad,
-Dialogue: 0,0:28:02.66,0:28:07.22,Sub,,0,0,0,,{\fad(90,70)}dan murid yang dapat membetulkan ayat\Ndengan tepat akan mengumpulkan mata.
-Dialogue: 0,0:28:07.26,0:28:12.04,Sub,,0,0,0,,{\fad(90,70)}Kad ini murah, tidak memerlukan internet,\Ndan boleh digunakan sebagai aktiviti
-Dialogue: 0,0:28:12.08,0:28:14.34,Sub,,0,0,0,,{\fad(90,70)}pengayaan atau pemulihan.
-Dialogue: 0,0:28:14.38,0:28:19.17,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang terakhir ialah kempen\Nhashtag Ayat Betul Sekolahku.
-Dialogue: 0,0:28:19.22,0:28:24.62,Sub,,0,0,0,,{\fad(90,70)}Semua pengumuman, papan notis dan hantaran\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} rasmi sekolah disemak
-Dialogue: 0,0:28:24.66,0:28:28.19,Sub,,0,0,0,,{\fad(90,70)}oleh panitia Bahasa\NMelayu sebelum disiarkan.
-Dialogue: 0,0:28:28.26,0:28:32.58,Sub,,0,0,0,,{\fad(90,70)}Ibu bapa juga digalakkan menjadi contoh\Ndengan menggunakan bahasa Melayu yang
-Dialogue: 0,0:28:32.62,0:28:35.49,Sub,,0,0,0,,{\fad(90,70)}betul dalam kumpulan WhatsApp kelas.
-Dialogue: 0,0:28:35.68,0:28:38.80,Sub,,0,0,0,,{\fad(90,70)}Apabila murid dikelilingi\Noleh contoh ayat yang betul,
-Dialogue: 0,0:28:38.84,0:28:42.27,Sub,,0,0,0,,{\fad(90,70)}mereka akan meniru bahasa yang betul.
-Dialogue: 0,0:28:44.33,0:28:49.95,Sub,,0,0,0,,{\fad(90,70)}Kami berharap agar dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} ini dapat digunakan oleh guru
-Dialogue: 0,0:28:49.99,0:28:54.99,Sub,,0,0,0,,{\fad(90,70)}bahasa Melayu di {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} dan\Nterus dikembangkan dengan jenis kesalahan
-Dialogue: 0,0:28:55.03,0:28:59.77,Sub,,0,0,0,,{\fad(90,70)}ayat yang lain. Kami juga berharap\Nagar murid hari ini membesar sebagai
-Dialogue: 0,0:28:59.81,0:29:05.19,Sub,,0,0,0,,{\fad(90,70)}pengguna {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang {\fnMontserrat ExtraBold\c&H0AD6FF&}CELIK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA,{\r}\Niaitu mampu menikmati kandungan
-Dialogue: 0,0:29:05.23,0:29:07.72,Sub,,0,0,0,,{\fad(90,70)}digital tanpa meniru kesalahannya.
-Dialogue: 0,0:29:08.09,0:29:12.71,Sub,,0,0,0,,{\fad(90,70)}Akhir sekali, kami berharap agar masyarakat,\Nterutamanya pencipta kandungan,
-Dialogue: 0,0:29:12.75,0:29:17.71,Sub,,0,0,0,,{\fad(90,70)}berbangga menggunakan bahasa Melayu yang\Nbetul, kerana bahasa yang betul tetap
-Dialogue: 0,0:29:17.75,0:29:21.88,Sub,,0,0,0,,{\fad(90,70)}boleh menarik dan dekat dengan khalayak.
-Dialogue: 0,0:29:22.36,0:29:27.66,Sub,,0,0,0,,{\fad(90,70)}Kesimpulannya, {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} dalam\Naspek {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} bukan isu kecil kerana
-Dialogue: 0,0:29:27.70,0:29:33.04,Sub,,0,0,0,,{\fad(90,70)}ia merosakkan asas ayat, iaitu\Nhubungan {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
-Dialogue: 0,0:29:33.08,0:29:36.82,Sub,,0,0,0,,{\fad(90,70)}Sekali lagi, kami merakamkan\Njutaan terima kasih kepada Dr.
-Dialogue: 0,0:29:36.86,0:29:41.48,Sub,,0,0,0,,{\fad(90,70)}Siti Dahlia atas bimbingan\Ndan ilmu yang dicurahkan.
-Dialogue: 0,0:29:41.52,0:29:42.94,Sub,,0,0,0,,{\fad(90,70)}Sekian, terima kasih.
-Dialogue: 0,0:29:42.98,0:29:45.75,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BETULKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT,{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SELAMATKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA!{\r}
+Dialogue: 0,0:00:14.55,0:00:19.33,Sub,,0,0,0,,{\fad(90,70)}Assalamualaikum warahmatullahi\Nwabarakatuh dan salam sejahtera.
+Dialogue: 0,0:00:19.37,0:00:23.09,Sub,,0,0,0,,{\fad(90,70)}Yang kami hormati, pensyarah\Nkursus {\fnMontserrat ExtraBold\c&HF5A63F&}Sintaksis{\r} Bahasa Melayu,
+Dialogue: 0,0:00:23.13,0:00:27.29,Sub,,0,0,0,,{\fad(90,70)}Dr. Siti Dahlia binti Abdullah,\Nserta rakan-rakan sekalian.
+Dialogue: 0,0:00:27.33,0:00:31.35,Sub,,0,0,0,,{\fad(90,70)}Terlebih dahulu, kami ingin merakamkan\Nsetinggi-tinggi penghargaan dan jutaan
+Dialogue: 0,0:00:31.39,0:00:32.69,Sub,,0,0,0,,{\fad(90,70)}terima kasih kepada Dr.
+Dialogue: 0,0:00:32.73,0:00:37.95,Sub,,0,0,0,,{\fad(90,70)}Siti atas bimbingan, tunjuk ajar dan\Nteguran yang membina sepanjang kursus
+Dialogue: 0,0:00:37.99,0:00:41.49,Sub,,0,0,0,,{\fad(90,70)}ini. Melalui tugasan PB1, Dr.
+Dialogue: 0,0:00:41.53,0:00:46.81,Sub,,0,0,0,,{\fad(90,70)}telah membimbing kami menganalisis\Nbinaan frasa, binaan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dan proses
+Dialogue: 0,0:00:46.85,0:00:51.53,Sub,,0,0,0,,{\fad(90,70)}transformasi ayat, iaitu pengguguran,\Npenyusunan semula dan perluasan.
+Dialogue: 0,0:00:51.57,0:00:55.73,Sub,,0,0,0,,{\fad(90,70)}Ilmu itulah yang menjadi\Nasas kepada tugasan PB2 ini.
+Dialogue: 0,0:00:55.77,0:01:00.29,Sub,,0,0,0,,{\fad(90,70)}Tanpa pemahaman bahawa setiap ayat\Nmesti mempunyai {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT,{\r}
+Dialogue: 0,0:01:00.33,0:01:03.62,Sub,,0,0,0,,{\fad(90,70)}dan bahawa {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Ntidak dapat berdiri sendiri,
+Dialogue: 0,0:01:03.77,0:01:08.01,Sub,,0,0,0,,{\fad(90,70)}kami tidak mungkin dapat mengenal\Npasti kesalahan ayat yang berlaku di
+Dialogue: 0,0:01:08.05,0:01:09.39,Sub,,0,0,0,,{\fad(90,70)}sekeliling kami setiap hari.
+Dialogue: 0,0:01:09.43,0:01:14.73,Sub,,0,0,0,,{\fad(90,70)}Kami juga ingin berterima kasih kepada\Nrakan-rakan sekelas yang sudi mencuba
+Dialogue: 0,0:01:14.77,0:01:19.74,Sub,,0,0,0,,{\fad(90,70)}dan memberikan pandangan semasa\Nkami membina dunia permainan ini.
+Dialogue: 0,0:01:20.17,0:01:25.02,Sub,,0,0,0,,{\fad(90,70)}Saya, Mohamad Aliff bin Ahmad\NShahabuddin bersama rakan saya
+Dialogue: 0,0:01:32.45,0:01:37.03,Sub,,0,0,0,,{\fad(90,70)}Pada hari ini, kami akan membentangkan\Nisu {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} dalam aspek
+Dialogue: 0,0:01:37.07,0:01:40.37,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis,{\r} iaitu kesalahan\Npada peringkat ayat.
+Dialogue: 0,0:01:40.41,0:01:43.42,Sub,,0,0,0,,{\fad(90,70)}Pembentangan kami akan\Nterbahagi kepada 6 bahagian.
+Dialogue: 0,0:01:43.46,0:01:48.39,Sub,,0,0,0,,{\fad(90,70)}Bahagian pertama, pengenalan\Nisu dan sebab isu ini dipilih.
+Dialogue: 0,0:01:48.43,0:01:52.99,Sub,,0,0,0,,{\fad(90,70)}Seterusnya, 3 jenis kesalahan ayat\Nyang kami pilih beserta contoh daripada
+Dialogue: 0,0:01:53.03,0:01:54.88,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} dan kesannya.
+Dialogue: 0,0:01:55.43,0:01:59.73,Sub,,0,0,0,,{\fad(90,70)}Seterusnya, cadangan penambahbaikan\Nmelalui dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} yang
+Dialogue: 0,0:01:59.77,0:02:02.39,Sub,,0,0,0,,{\fad(90,70)}kami namakan {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
+Dialogue: 0,0:02:02.43,0:02:05.31,Sub,,0,0,0,,{\fad(90,70)}Selain itu, demonstrasi cara bermain.
+Dialogue: 0,0:02:05.35,0:02:07.71,Sub,,0,0,0,,{\fad(90,70)}tambahan pula cadangan\Npenambahbaikan lain.
+Dialogue: 0,0:02:07.75,0:02:11.14,Sub,,0,0,0,,{\fad(90,70)}dan Akhir sekali, harapan serta penutup.
+Dialogue: 0,0:02:12.89,0:02:15.76,Sub,,0,0,0,,{\fad(90,70)}Apakah ini maksudkan\Ndengan {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA?{\r}
+Dialogue: 0,0:02:15.98,0:02:19.90,Sub,,0,0,0,,{\fad(90,70)}Menurut {\fnMontserrat ExtraBold\c&HF5A63F&}Kamus{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}Dewan,{\r} perkataan\Nrancu membawa maksud {\fnMontserrat ExtraBold\c&H0AD6FF&}KACAU,{\r}
+Dialogue: 0,0:02:19.94,0:02:22.30,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERATUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ATAU{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}CAMPUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ADUK.{\r}
+Dialogue: 0,0:02:22.34,0:02:27.12,Sub,,0,0,0,,{\fad(90,70)}Oleh itu, {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} ialah\Npenggunaan bahasa yang {\fnMontserrat ExtraBold\c&H0AD6FF&}KACAU{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}
+Dialogue: 0,0:02:27.16,0:02:31.64,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TERATUR{\r} sehingga {\fnMontserrat ExtraBold\c&H0AD6FF&}MENYALAHI{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}PERATURAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TATABAHASA{\r} bahasa Melayu.
+Dialogue: 0,0:02:31.68,0:02:36.58,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} boleh berlaku dalam\Npelbagai aspek, misalnya ejaan,
+Dialogue: 0,0:02:36.62,0:02:40.14,Sub,,0,0,0,,{\fad(90,70)}sebutan, pembentukan\Nkata dan susunan ayat.
+Dialogue: 0,0:02:40.18,0:02:44.46,Sub,,0,0,0,,{\fad(90,70)}Dalam pembentangan ini, kami memberikan\Ntumpuan kepada kerancuan dalam aspek
+Dialogue: 0,0:02:44.50,0:02:49.08,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis.{\r} Seperti yang telah\Nkami bincangkan dalam PB1,
+Dialogue: 0,0:02:49.12,0:02:54.48,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} ialah bidang {\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} yang\Nmengkaji cara perkataan disusun untuk
+Dialogue: 0,0:02:54.52,0:03:00.34,Sub,,0,0,0,,{\fad(90,70)}membentuk frasa, {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dan ayat\Nmenurut (Nik Safiah Karim et al.,
+Dialogue: 0,0:03:00.38,0:03:01.89,Sub,,0,0,0,,{\fad(90,70)}2024).
+Dialogue: 0,0:03:02.34,0:03:05.70,Sub,,0,0,0,,{\fad(90,70)}Ayat yang {\fnMontserrat ExtraBold\c&HF5A63F&}gramatis{\r} mestilah\Nmempunyai {\fnMontserrat ExtraBold\c&H0AD6FF&}DUA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UNSUR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UTAMA,{\r}
+Dialogue: 0,0:03:05.74,0:03:08.10,Sub,,0,0,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
+Dialogue: 0,0:03:08.14,0:03:12.56,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Subjek{\r} ialah unsur yang diterangkan,\Nmanakala {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ialah unsur yang
+Dialogue: 0,0:03:12.60,0:03:13.98,Sub,,0,0,0,,{\fad(90,70)}menerangkan {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:03:14.02,0:03:19.04,Sub,,0,0,0,,{\fad(90,70)}Contohnya, dalam ayat {\fnMontserrat ExtraBold\c&H6ED658&}Murid{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}membaca{\r} {\fnMontserrat ExtraBold\c&H6ED658&}buku,{\r} murid ialah {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r}
+Dialogue: 0,0:03:19.08,0:03:21.83,Sub,,0,0,0,,{\fad(90,70)}manakala membaca buku ialah {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
+Dialogue: 0,0:03:22.01,0:03:26.05,Sub,,0,0,0,,{\fad(90,70)}Kerancuan {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} berlaku apabila\Nhubungan {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT{\r} ini
+Dialogue: 0,0:03:26.09,0:03:30.38,Sub,,0,0,0,,{\fad(90,70)}terganggu. Gangguan itu boleh\Nberlaku dalam beberapa keadaan.
+Dialogue: 0,0:03:30.84,0:03:35.08,Sub,,0,0,0,,{\fad(90,70)}Ada kalanya {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} hilang kerana\Nditenggelami oleh {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} di hadapan
+Dialogue: 0,0:03:35.12,0:03:39.80,Sub,,0,0,0,,{\fad(90,70)}ayat. Ada kalanya {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} tidak wujud,\Nsehingga ayat itu hanya terdiri
+Dialogue: 0,0:03:39.84,0:03:42.15,Sub,,0,0,0,,{\fad(90,70)}daripada satu {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang panjang.
+Dialogue: 0,0:03:42.21,0:03:48.17,Sub,,0,0,0,,{\fad(90,70)}Ada kalanya pula {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r} dibiarkan\Nberdiri sendiri {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KLAUSA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}UTAMA.{\r}
+Dialogue: 0,0:03:48.21,0:03:53.85,Sub,,0,0,0,,{\fad(90,70)}Selain itu, sudut ayat juga menjadi rancu\Napabila unsur bahasa asing mengambil
+Dialogue: 0,0:03:53.89,0:04:00.11,Sub,,0,0,0,,{\fad(90,70)}alih fungsi kata kerja,\N{\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} dan kata adjektif
+Dialogue: 0,0:04:00.15,0:04:01.78,Sub,,0,0,0,,{\fad(90,70)}dalam ayat bahasa Melayu.
+Dialogue: 0,0:04:02.03,0:04:06.91,Sub,,0,0,0,,{\fad(90,70)}Kami ingin menegaskan bahawa fokus kami\N{\fnMontserrat ExtraBold\c&H0AD6FF&}BUKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KESALAHAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KATA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SECARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERPENCIL,{\r}
+Dialogue: 0,0:04:06.95,0:04:09.72,Sub,,0,0,0,,{\fad(90,70)}seperti salah ejaan satu perkataan.
+Dialogue: 0,0:04:10.05,0:04:14.50,Sub,,0,0,0,,{\fad(90,70)}Fokus kami ialah kesalahan yang\Nmenjejaskan {\fnMontserrat ExtraBold\c&H0AD6FF&}BINAAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SECARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KESELURUHAN.{\r}
+Dialogue: 0,0:04:14.87,0:04:19.29,Sub,,0,0,0,,{\fad(90,70)}Kesalahan seperti ini lebih sukar\Ndikesan kerana ayatnya kelihatan biasa,
+Dialogue: 0,0:04:19.33,0:04:22.42,Sub,,0,0,0,,{\fad(90,70)}malah sudah sebati dengan\Npertuturan harian kita.
+Dialogue: 0,0:04:22.65,0:04:27.29,Sub,,0,0,0,,{\fad(90,70)}Dalam pertuturan, kita dibantu oleh\Nkonteks, nada suara dan gerak badan.
+Dialogue: 0,0:04:27.33,0:04:31.41,Sub,,0,0,0,,{\fad(90,70)}Namun, dalam penulisan, pembaca\Nhanya bergantung pada susunan ayat.
+Dialogue: 0,0:04:31.45,0:04:36.70,Sub,,0,0,0,,{\fad(90,70)}Oleh sebab itu, ayat rancu dalam tulisan\Nlebih mudah menimbulkan kekeliruan.
+Dialogue: 0,0:04:38.55,0:04:42.54,Sub,,0,0,0,,{\fad(90,70)}Persoalannya, di manakah isu\Nini paling jelas berlaku?
+Dialogue: 0,0:04:42.99,0:04:46.19,Sub,,0,0,0,,{\fad(90,70)}Jawapannya ialah di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
+Dialogue: 0,0:04:46.23,0:04:50.38,Sub,,0,0,0,,{\fad(90,70)}Kami telah meneliti 3\Nplatform yang paling popular,
+Dialogue: 0,0:04:50.75,0:04:52.28,Sub,,0,0,0,,{\fad(90,70)}iaitu TikTok,
+Dialogue: 0,0:04:52.67,0:04:55.42,Sub,,0,0,0,,{\fad(90,70)}Threads dan juga YouTube.
+Dialogue: 0,0:04:55.84,0:05:01.14,Sub,,0,0,0,,{\fad(90,70)}Kerancuan ayat dapat dilihat\Ndengan jelas dalam kapsyen jualan,
+Dialogue: 0,0:05:01.18,0:05:05.37,Sub,,0,0,0,,{\fad(90,70)}tajuk video, hantaran\Ndan juga ruangan komen.
+Dialogue: 0,0:05:05.83,0:05:09.20,Sub,,0,0,0,,{\fad(90,70)}Contohnya, dalam kapsyen jualan di TikTok,
+Dialogue: 0,0:05:09.57,0:05:14.73,Sub,,0,0,0,,{\fad(90,70)}kita sering membaca ayat {\fnMontserrat ExtraBold\c&H6ED658&}seperti{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
+Dialogue: 0,0:05:14.77,0:05:20.55,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} komen. Dalam tajuk video makanan\Npula, terdapat ayat {\fnMontserrat ExtraBold\c&H4E4CFF&}seperti{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Kedai{\r}
+Dialogue: 0,0:05:20.59,0:05:23.12,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}malatang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}paling{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kat{\r} KL.
+Dialogue: 0,0:05:23.56,0:05:28.52,Sub,,0,0,0,,{\fad(90,70)}Di YouTube dan Threads, ayat {\fnMontserrat ExtraBold\c&H4E4CFF&}seperti{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Harini{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}team{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}nak{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}share{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cara{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}buat{\r}
+Dialogue: 0,0:05:28.56,0:05:35.20,Sub,,0,0,0,,{\fad(90,70)}kek {\fnMontserrat ExtraBold\c&H4E4CFF&}Dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Overall{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}best{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}gila,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wajib{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}try{\r} guys!
+Dialogue: 0,0:05:35.63,0:05:37.53,Sub,,0,0,0,,{\fad(90,70)}sudah menjadi perkara biasa.
+Dialogue: 0,0:05:37.57,0:05:43.33,Sub,,0,0,0,,{\fad(90,70)}Ayat-ayat ini ditulis oleh\Npengguna dewasa, peniaga dan
+Dialogue: 0,0:05:43.37,0:05:44.90,Sub,,0,0,0,,{\fad(90,70)}pencipta kandungan,
+Dialogue: 0,0:05:45.31,0:05:49.66,Sub,,0,0,0,,{\fad(90,70)}tetapi dibaca setiap hari\Noleh jutaan pengguna,
+Dialogue: 0,0:05:50.10,0:05:52.77,Sub,,0,0,0,,{\fad(90,70)}termasuklah kanak-kanak.
+Dialogue: 0,0:05:57.08,0:06:00.55,Sub,,0,0,0,,{\fad(90,70)}Kami memilih isu ini atas {\fnMontserrat ExtraBold\c&H0AD6FF&}EMPAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SEBAB.{\r}
+Dialogue: 0,0:06:00.60,0:06:01.95,Sub,,0,0,0,,{\fad(90,70)}Sebab yang pertama,
+Dialogue: 0,0:06:02.32,0:06:04.87,Sub,,0,0,0,,{\fad(90,70)}isu ini {\fnMontserrat ExtraBold\c&H0AD6FF&}PALING{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}HAMPIR{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DENGAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}MURID.{\r}
+Dialogue: 0,0:06:05.20,0:06:09.18,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} hari ini\Nmembesar dengan TikTok dan YouTube.
+Dialogue: 0,0:06:09.22,0:06:14.98,Sub,,0,0,0,,{\fad(90,70)}Bahasa yang mereka baca dan dengar\Nsetiap hari akan mereka tiru dalam
+Dialogue: 0,0:06:15.02,0:06:17.57,Sub,,0,0,0,,{\fad(90,70)}pertuturan dan penulisan.
+Dialogue: 0,0:06:17.68,0:06:19.33,Sub,,0,0,0,,{\fad(90,70)}Sebab yang kedua,
+Dialogue: 0,0:06:20.51,0:06:26.44,Sub,,0,0,0,,{\fad(90,70)}kesalahan ini sudah dianggap moment.
+Dialogue: 0,0:06:26.86,0:06:32.44,Sub,,0,0,0,,{\fad(90,70)}Ramai pengguna tidak lagi menyedari\Nbahawa ayat-ayat itu salah,
+Dialogue: 0,0:06:32.48,0:06:36.38,Sub,,0,0,0,,{\fad(90,70)}maka kesalahan itu terus\Nberulang dan tersebar.
+Dialogue: 0,0:06:36.42,0:06:41.71,Sub,,0,0,0,,{\fad(90,70)}Sebab yang ketiga, isu ini berkait\Nsecara langsung dengan kursus {\fnMontserrat ExtraBold\c&HF5A63F&}Sintaksis{\r}
+Dialogue: 0,0:06:41.88,0:06:48.39,Sub,,0,0,0,,{\fad(90,70)}kerana melibatkan unsur {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}predikat,{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}bebas{\r} dan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat.{\r}
+Dialogue: 0,0:06:48.50,0:06:53.68,Sub,,0,0,0,,{\fad(90,70)}Kajian juga mendapati bahawa kesalahan\Nstruktur ayat manseh lagi lazim dalam
+Dialogue: 0,0:06:53.72,0:06:59.38,Sub,,0,0,0,,{\fad(90,70)}penulisan murid menurut Chongfeng\NPeng & Vanithmalar Jayabalan,
+Dialogue: 0,0:06:59.42,0:07:05.94,Sub,,0,0,0,,{\fad(90,70)}2026). Sebab yang keempat,\Nsebagai {\fnMontserrat ExtraBold\c&H0AD6FF&}BAKAL{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU{\r} bahasa Melayu,
+Dialogue: 0,0:07:05.98,0:07:09.92,Sub,,0,0,0,,{\fad(90,70)}kami bertanggungjawab untuk\Ntidak sekadar mengkritik,
+Dialogue: 0,0:07:09.96,0:07:16.36,Sub,,0,0,0,,{\fad(90,70)}tetapi menyediakan jalan penyelesaian\Nyang sesuai dengan dunia murid.
+Dialogue: 0,0:07:16.40,0:07:19.29,Sub,,0,0,0,,{\fad(90,70)}Daripada bukti yang kami kumpulkan,
+Dialogue: 0,0:07:19.74,0:07:23.64,Sub,,0,0,0,,{\fad(90,70)}kami memilih tiga jenis kesalahan\Nayat yang paling kerap ditemui,
+Dialogue: 0,0:07:23.68,0:07:29.92,Sub,,0,0,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK,{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP{\r} dan juga {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} dalam binaan
+Dialogue: 0,0:07:29.96,0:07:35.89,Sub,,0,0,0,,{\fad(90,70)}ayat. Ketiga-tiga jenis ini akan\Nditerangkan oleh rakan saya iaitu Muhammad
+Dialogue: 0,0:07:35.93,0:07:38.96,Sub,,0,0,0,,{\fad(90,70)}Aliff, dan juga Amin Najmi.
+Dialogue: 0,0:07:41.03,0:07:42.62,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Iman Irfan.
+Dialogue: 0,0:07:42.97,0:07:46.79,Sub,,0,0,0,,{\fad(90,70)}Jenis kesalahan pertama\Nialah {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK.{\r}
+Dialogue: 0,0:07:46.83,0:07:48.85,Sub,,0,0,0,,{\fad(90,70)}Kesalahan ini berlaku dalam dua keadaan.
+Dialogue: 0,0:07:48.89,0:07:54.37,Sub,,0,0,0,,{\fad(90,70)}Keadaan pertama, ayat dimulakan\Ndengan {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} seperti kepada,
+Dialogue: 0,0:07:54.41,0:07:59.09,Sub,,0,0,0,,{\fad(90,70)}bagi, untuk, dalam, di,\Ndaripada dan menurut,
+Dialogue: 0,0:07:59.13,0:08:02.18,Sub,,0,0,0,,{\fad(90,70)}atau frasa seperti dengan adanya.
+Dialogue: 0,0:08:02.61,0:08:06.45,Sub,,0,0,0,,{\fad(90,70)}Apabila {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r}\Ndiletakkan di hadapan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama,{\r}
+Dialogue: 0,0:08:06.49,0:08:11.85,Sub,,0,0,0,,{\fad(90,70)}frasa itu berubah menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang berfungsi sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan,{\r}
+Dialogue: 0,0:08:11.89,0:08:14.58,Sub,,0,0,0,,{\fad(90,70)}bukan lagi sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:08:14.65,0:08:18.23,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ayat\Nitu tidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:08:18.27,0:08:24.73,Sub,,0,0,0,,{\fad(90,70)}Keadaan kedua, {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} digugurkan\Nterus, terutamanya {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}ganti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r}
+Dialogue: 0,0:08:24.77,0:08:30.85,Sub,,0,0,0,,{\fad(90,70)}seperti saya, anda atau kami,\Nkerana penulis menganggap pembaca sudah
+Dialogue: 0,0:08:30.89,0:08:31.79,Sub,,0,0,0,,{\fad(90,70)}faham.
+Dialogue: 0,0:08:31.99,0:08:36.98,Sub,,0,0,0,,{\fad(90,70)}Baiklah, Mari kita lihat contoh\Nyang kami temui di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
+Dialogue: 0,0:08:41.64,0:08:44.33,Sub,,0,0,0,,{\fad(90,70)}Di dalam platform TikTok, kapsyen jualan,
+Dialogue: 0,0:08:44.76,0:08:50.12,Sub,,0,0,0,,{\fad(90,70)}ayat yang selalu digunakan {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah,{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
+Dialogue: 0,0:08:50.16,0:08:56.63,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}komen.{\r} Dalam ayat ini, kepada\Nyang berminat ialah {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama.{\r}
+Dialogue: 0,0:08:56.84,0:08:59.43,Sub,,0,0,0,,{\fad(90,70)}Jadi, siapakah yang boleh maklumkan?
+Dialogue: 0,0:08:59.78,0:09:01.86,Sub,,0,0,0,,{\fad(90,70)}Ayat ini tidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:09:01.90,0:09:07.20,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Mereka{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}memaklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r}
+Dialogue: 0,0:09:07.24,0:09:13.08,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}komen.{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}Kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} kepada\Ndigugurkan dan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} mereka yang
+Dialogue: 0,0:09:13.12,0:09:15.53,Sub,,0,0,0,,{\fad(90,70)}berminat menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:09:16.43,0:09:20.52,Sub,,0,0,0,,{\fad(90,70)}Contoh yang {\fnMontserrat ExtraBold\c&H4E4CFF&}kedua,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kalau{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}berminat,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}boleh{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wasap{\r} ya?
+Dialogue: 0,0:09:20.58,0:09:23.16,Sub,,0,0,0,,{\fad(90,70)}Ayat ini terdiri daripada dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
+Dialogue: 0,0:09:23.20,0:09:26.45,Sub,,0,0,0,,{\fad(90,70)}Tetapi kedua-duanya\Ntidak mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:09:26.78,0:09:31.66,Sub,,0,0,0,,{\fad(90,70)}Siapakah yang berminat dan siapakah\Nyang boleh menghubungi Ayat yang {\fnMontserrat ExtraBold\c&H6ED658&}betul,{\r}
+Dialogue: 0,0:09:31.70,0:09:35.54,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}jika{\r} {\fnMontserrat ExtraBold\c&H6ED658&}anda{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}anda{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}menghubungi{\r} kami.
+Dialogue: 0,0:09:35.58,0:09:39.77,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Subjek{\r} anda ditambah\Ndalam kedua-dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
+Dialogue: 0,0:09:40.66,0:09:43.11,Sub,,0,0,0,,{\fad(90,70)}Contoh yang ketiga dan {\fnMontserrat ExtraBold\c&H4E4CFF&}keempat.{\r}
+Dialogue: 0,0:09:43.58,0:09:48.99,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Semoga{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dipermudahkan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}urusan{\r} sis {\fnMontserrat ExtraBold\c&H4E4CFF&}dan{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Berminat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}boleh{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}walkin{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}ke{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kedai{\r} kami.
+Dialogue: 0,0:09:49.78,0:09:54.18,Sub,,0,0,0,,{\fad(90,70)}Kedua-duanya juga tidak mempunyai\N{\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} bagi {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
+Dialogue: 0,0:09:54.22,0:09:55.83,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul,
+Dialogue: 0,0:09:56.16,0:10:01.76,Sub,,0,0,0,,{\fad(90,70)}ialah {\fnMontserrat ExtraBold\c&H6ED658&}Saya{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berdoa{\r} {\fnMontserrat ExtraBold\c&H6ED658&}semoga{\r} {\fnMontserrat ExtraBold\c&H6ED658&}urusan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sis{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}dipermudah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}dan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pelanggan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r}
+Dialogue: 0,0:10:01.80,0:10:03.71,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}datang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ke{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami.{\r}
+Dialogue: 0,0:10:04.19,0:10:05.09,Sub,,0,0,0,,{\fad(90,70)}Jadi,
+Dialogue: 0,0:10:05.23,0:10:07.07,Sub,,0,0,0,,{\fad(90,70)}Apakah kesan kesalahan ini?
+Dialogue: 0,0:10:07.11,0:10:13.25,Sub,,0,0,0,,{\fad(90,70)}Kesan yang Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}MAKSUD{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MENJADI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KABUR{\r} kerana pembaca tidak tahu
+Dialogue: 0,0:10:13.29,0:10:16.63,Sub,,0,0,0,,{\fad(90,70)}siapa pelaku atau siapa yang diterangkan.
+Dialogue: 0,0:10:16.67,0:10:22.67,Sub,,0,0,0,,{\fad(90,70)}Dalam pengumuman rasmi, kekaburan ini\Nboleh menyebabkan arahan disalah faham.
+Dialogue: 0,0:10:22.71,0:10:28.35,Sub,,0,0,0,,{\fad(90,70)}Kedua, kesalahan ini sukar disedari\Nkerana ayatnya terasa betul apabila
+Dialogue: 0,0:10:28.39,0:10:29.40,Sub,,0,0,0,,{\fad(90,70)}dituturkan.
+Dialogue: 0,0:10:29.73,0:10:33.46,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, murid membawa pola\Nyang sama ke dalam karangan,
+Dialogue: 0,0:10:33.79,0:10:40.32,Sub,,0,0,0,,{\fad(90,70)}misalnya {\fnMontserrat ExtraBold\c&H4E4CFF&}Bagi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}saya{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berpendapat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}bahawa{\r}\Natau {\fnMontserrat ExtraBold\c&H4E4CFF&}Dalam{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cerita{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}itu{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}mengisahkan{\r}
+Dialogue: 0,0:10:40.76,0:10:45.66,Sub,,0,0,0,,{\fad(90,70)}Akhir sekali dalam peperiksaan, ayat\Nseperti ini dikira sebagai kesalahan
+Dialogue: 0,0:10:45.70,0:10:50.37,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} dan menyebabkan\Nmurid kehilangan markah bahasa.
+Dialogue: 0,0:10:52.38,0:10:56.14,Sub,,0,0,0,,{\fad(90,70)}Terima kasih Aliff untuk penerangan\Njenis kesalahan yang pertama.
+Dialogue: 0,0:10:56.18,0:11:00.96,Sub,,0,0,0,,{\fad(90,70)}Jadi saya akan menerangkan Jenis\Nkesalahan kedua iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP.{\r}
+Dialogue: 0,0:11:01.00,0:11:05.24,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP{\r} ialah binaan yang\Nkelihatan seperti ayat kerana dimulakan
+Dialogue: 0,0:11:05.28,0:11:09.48,Sub,,0,0,0,,{\fad(90,70)}dengan huruf besar dan diakhiri dengan\Ntanda noktah, tetapi tidak mempunyai
+Dialogue: 0,0:11:09.52,0:11:11.76,Sub,,0,0,0,,{\fad(90,70)}unsur yang cukup untuk membentuk ayat.
+Dialogue: 0,0:11:11.80,0:11:14.56,Sub,,0,0,0,,{\fad(90,70)}Kesalahan ini terbahagi\Nkepada tiga bentuk.
+Dialogue: 0,0:11:14.60,0:11:17.14,Sub,,0,0,0,,{\fad(90,70)}Bentuk pertama, ayat {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
+Dialogue: 0,0:11:17.18,0:11:21.54,Sub,,0,0,0,,{\fad(90,70)}Penulis hanya menulis {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang\Npanjang, biasanya dengan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r}
+Dialogue: 0,0:11:21.58,0:11:22.42,Sub,,0,0,0,,{\fad(90,70)}yang.
+Dialogue: 0,0:11:22.46,0:11:25.00,Sub,,0,0,0,,{\fad(90,70)}Seperti yang kami huraikan dalam PB1,
+Dialogue: 0,0:11:25.40,0:11:29.76,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r} ialah {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Nyang hanya menerangkan {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama,{\r}
+Dialogue: 0,0:11:29.80,0:11:32.16,Sub,,0,0,0,,{\fad(90,70)}maka ia tidak boleh menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
+Dialogue: 0,0:11:32.20,0:11:37.96,Sub,,0,0,0,,{\fad(90,70)}Bentuk kedua, {\fnMontserrat ExtraBold\c&H0AD6FF&}KLAUSA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TERGANTUNG,{\r} iaitu\N{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r} yang dimulakan dengan
+Dialogue: 0,0:11:38.00,0:11:40.63,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} seperti apabila,
+Dialogue: 0,0:11:41.07,0:11:46.78,Sub,,0,0,0,,{\fad(90,70)}kerana, kalau dan selepas,\Ntetapi tidak disertai {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
+Dialogue: 0,0:11:47.19,0:11:51.25,Sub,,0,0,0,,{\fad(90,70)}Bentuk ketiga, {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kerja{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}transitif{\r} yang tidak diikuti {\fnMontserrat ExtraBold\c&HF5A63F&}objek,{\r}
+Dialogue: 0,0:11:51.29,0:11:53.63,Sub,,0,0,0,,{\fad(90,70)}misalnya {\fnMontserrat ExtraBold\c&H4E4CFF&}Ayah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}membeli{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kedai.{\r}
+Dialogue: 0,0:11:53.67,0:11:57.50,Sub,,0,0,0,,{\fad(90,70)}Pembaca tertanya-tanya,\Napakah yang dibeli oleh ayah?
+Dialogue: 0,0:12:02.14,0:12:07.04,Sub,,0,0,0,,{\fad(90,70)}Jadi Contoh pertama ialah tajuk {\fnMontserrat ExtraBold\c&H4E4CFF&}video,{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Kedai{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}malatang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}paling{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kat{\r}
+Dialogue: 0,0:12:07.08,0:12:12.24,Sub,,0,0,0,,{\fad(90,70)}KL. Binaan ini hanyalah {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r}\Nkedai malatang yang diterangkan oleh
+Dialogue: 0,0:12:12.28,0:12:14.88,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}relatif{\r} yang paling sedap.
+Dialogue: 0,0:12:14.92,0:12:18.39,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT{\r} yang menyatakan\Napa-apa tentang kedai itu.
+Dialogue: 0,0:12:18.68,0:12:23.51,Sub,,0,0,0,,{\fad(90,70)}Ayat yang {\fnMontserrat ExtraBold\c&H6ED658&}betul{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}malatang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}paling{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sedap{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}KL.{\r}
+Dialogue: 0,0:12:23.96,0:12:29.30,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Kini,{\r} kedai ini {\fnMontserrat ExtraBold\c&H6ED658&}menjadi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}subjek{\r} {\fnMontserrat ExtraBold\c&H6ED658&}dan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kedai{\r} {\fnMontserrat ExtraBold\c&H6ED658&}malatang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}paling{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sedap{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} KL
+Dialogue: 0,0:12:29.34,0:12:31.51,Sub,,0,0,0,,{\fad(90,70)}menjadi {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
+Dialogue: 0,0:12:32.05,0:12:35.51,Sub,,0,0,0,,{\fad(90,70)}Contoh {\fnMontserrat ExtraBold\c&H6ED658&}kedua,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}restoran{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}mewah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}tapi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}harga{\r} {\fnMontserrat ExtraBold\c&H6ED658&}murah.{\r}
+Dialogue: 0,0:12:35.55,0:12:41.01,Sub,,0,0,0,,{\fad(90,70)}Tanpa {\fnMontserrat ExtraBold\c&HF5A63F&}penentu{\r} ini, frasa restoran mewah\Ndibaca sebagai satu {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} iaitu
+Dialogue: 0,0:12:41.05,0:12:44.87,Sub,,0,0,0,,{\fad(90,70)}restoran sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} dan\Nmewah sebagai {\fnMontserrat ExtraBold\c&HF5A63F&}penerang.{\r}
+Dialogue: 0,0:12:44.91,0:12:47.87,Sub,,0,0,0,,{\fad(90,70)}Hal yang sama berlaku pada harga murah.
+Dialogue: 0,0:12:47.91,0:12:53.11,Sub,,0,0,0,,{\fad(90,70)}Jadi, binaan ini hanyalah 2 {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} yang dihubungkan bukan ayat.
+Dialogue: 0,0:12:53.15,0:12:57.58,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}restoran{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}mewah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}tetapi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}harganya{\r} murah.
+Dialogue: 0,0:12:58.46,0:13:02.46,Sub,,0,0,0,,{\fad(90,70)}Contoh ketiga, korang kalau\Nsuka snek seperti ini.
+Dialogue: 0,0:13:02.50,0:13:07.54,Sub,,0,0,0,,{\fad(90,70)}Ayat ini ialah {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan{\r} syarat\Nyang dimulakan dengan kalau tetapi
+Dialogue: 0,0:13:07.58,0:13:08.96,Sub,,0,0,0,,{\fad(90,70)}tidak ada {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
+Dialogue: 0,0:13:09.00,0:13:12.51,Sub,,0,0,0,,{\fad(90,70)}Pembaca tertunggu-tunggu kalau\Nsuka apa yang perlu dilakukan.
+Dialogue: 0,0:13:12.78,0:13:17.43,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalau{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalian{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}suka{\r} {\fnMontserrat ExtraBold\c&H6ED658&}snek{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kalian{\r} {\fnMontserrat ExtraBold\c&H6ED658&}wajib{\r} mencubanya.
+Dialogue: 0,0:13:17.91,0:13:19.59,Sub,,0,0,0,,{\fad(90,70)}Kesan kesalahan ini cukup besar.
+Dialogue: 0,0:13:19.63,0:13:23.09,Sub,,0,0,0,,{\fad(90,70)}Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}MESEJ{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}SAMPAI{\r} dengan lengkap.
+Dialogue: 0,0:13:23.13,0:13:27.15,Sub,,0,0,0,,{\fad(90,70)}Dalam iklan, pembaca tidak tahu\Napakah tawaran yang sebenarnya.
+Dialogue: 0,0:13:27.47,0:13:31.43,Sub,,0,0,0,,{\fad(90,70)}Dalam arahan pula, pembaca tidak\Ntahu tindakan yang perlu diambil.
+Dialogue: 0,0:13:31.47,0:13:36.33,Sub,,0,0,0,,{\fad(90,70)}Kedua, murid yang kerap membaca ayat\Nseperti ini akan menulis ayat tergantung
+Dialogue: 0,0:13:36.37,0:13:39.99,Sub,,0,0,0,,{\fad(90,70)}dalam karangan, misalnya\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Apabila{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}loceng{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berbunyi.{\r}
+Dialogue: 0,0:13:40.03,0:13:41.92,Sub,,0,0,0,,{\fad(90,70)}lalu terus meletakkan noktah.
+Dialogue: 0,0:13:42.03,0:13:46.91,Sub,,0,0,0,,{\fad(90,70)}Ketiga, kemahiran murid membina {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}majmuk{\r} menjadi lemah kerana tidak
+Dialogue: 0,0:13:46.95,0:13:50.85,Sub,,0,0,0,,{\fad(90,70)}memahami bahawa {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat{\r}\Nmemerlukan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}utama.{\r}
+Dialogue: 0,0:13:50.89,0:13:55.53,Sub,,0,0,0,,{\fad(90,70)}Jadi, Saya serahkan kepada Iman Irfan\Nuntuk menerangkan jenis kesalahan
+Dialogue: 0,0:13:55.57,0:13:56.90,Sub,,0,0,0,,{\fad(90,70)}ketiga.
+Dialogue: 0,0:13:58.52,0:13:59.48,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Amin.
+Dialogue: 0,0:13:59.52,0:14:02.91,Sub,,0,0,0,,{\fad(90,70)}Jenis kesalahan ketiga ialah {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK.{\r}
+Dialogue: 0,0:14:03.37,0:14:07.61,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} ialah percampuran bahasa\NMelayu dengan bahasa Inggeris atau
+Dialogue: 0,0:14:07.65,0:14:10.19,Sub,,0,0,0,,{\fad(90,70)}bahasa basahan dalam satu ayat.
+Dialogue: 0,0:14:10.23,0:14:14.69,Sub,,0,0,0,,{\fad(90,70)}Mungkin ada yang bertanya, adakah {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} termasuk dalam aspek {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r}
+Dialogue: 0,0:14:14.73,0:14:17.10,Sub,,0,0,0,,{\fad(90,70)}atau hanya aspek kata?
+Dialogue: 0,0:14:17.15,0:14:22.45,Sub,,0,0,0,,{\fad(90,70)}Jawapannya, {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} menjadi isu\N{\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} apabila unsur asing itu
+Dialogue: 0,0:14:22.49,0:14:25.02,Sub,,0,0,0,,{\fad(90,70)}mengambil alih fungsi dalam binaan ayat.
+Dialogue: 0,0:14:25.45,0:14:30.19,Sub,,0,0,0,,{\fad(90,70)}Unsur bahasa Inggeris dijadikan\N{\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kerja,{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} yang
+Dialogue: 0,0:14:30.23,0:14:36.02,Sub,,0,0,0,,{\fad(90,70)}menghubungkan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} dalam {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}majmuk,{\r}\Natau {\fnMontserrat ExtraBold\c&HF5A63F&}penerang{\r} dalam {\fnMontserrat ExtraBold\c&HF5A63F&}frasa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}adjektif.{\r}
+Dialogue: 0,0:14:36.06,0:14:41.79,Sub,,0,0,0,,{\fad(90,70)}Akibatnya, ayat itu tidak lagi mematuhi\Nstruktur ayat bahasa Melayu baku.
+Dialogue: 0,0:14:46.87,0:14:51.04,Sub,,0,0,0,,{\fad(90,70)}Baiklah, contoh yang pertama\Nialah tajuk video di {\fnMontserrat ExtraBold\c&H4E4CFF&}YouTube,{\r}
+Dialogue: 0,0:14:51.37,0:14:54.38,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Harini{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}team{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}nak{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}share{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}cara{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}buat{\r} kek.
+Dialogue: 0,0:14:54.59,0:14:59.56,Sub,,0,0,0,,{\fad(90,70)}Dalam ayat ini, {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} ialah\Nteam dan {\fnMontserrat ExtraBold\c&HF5A63F&}inti{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} ialah share,
+Dialogue: 0,0:14:59.98,0:15:02.73,Sub,,0,0,0,,{\fad(90,70)}kedua-duanya perkataan bahasa Inggeris.
+Dialogue: 0,0:15:03.16,0:15:07.41,Sub,,0,0,0,,{\fad(90,70)}Kata bantu nak dan kata kerja\Nbuat pula ialah bentuk basahan.
+Dialogue: 0,0:15:07.85,0:15:13.86,Sub,,0,0,0,,{\fad(90,70)}Ayat yang betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Hari{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pasukan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ingin{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berkongsi{\r} {\fnMontserrat ExtraBold\c&H6ED658&}cara{\r} {\fnMontserrat ExtraBold\c&H6ED658&}membuat{\r} kek.
+Dialogue: 0,0:15:14.71,0:15:18.76,Sub,,0,0,0,,{\fad(90,70)}Contoh kedua dan ketiga ialah\N{\fnMontserrat ExtraBold\c&H4E4CFF&}Pakej{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}serendah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}RM30{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}only!{\r}
+Dialogue: 0,0:15:18.80,0:15:20.54,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Tekan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}link{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}bio.{\r}
+Dialogue: 0,0:15:20.59,0:15:22.82,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Overall{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}best{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}gila,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}wajib{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}try{\r} guys!
+Dialogue: 0,0:15:23.01,0:15:27.47,Sub,,0,0,0,,{\fad(90,70)}Dalam contoh ketiga, hampir semua\Nunsur ayat iaitu {\fnMontserrat ExtraBold\c&HF5A63F&}keterangan,{\r}
+Dialogue: 0,0:15:27.51,0:15:32.13,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} dan {\fnMontserrat ExtraBold\c&HF5A63F&}objek{\r} diambil daripada\Nbahasa Inggeris dan bahasa basahan.
+Dialogue: 0,0:15:32.17,0:15:34.33,Sub,,0,0,0,,{\fad(90,70)}Malah subjeknya juga tiada.
+Dialogue: 0,0:15:34.37,0:15:38.68,Sub,,0,0,0,,{\fad(90,70)}Ayat betul {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}secara{\r} {\fnMontserrat ExtraBold\c&H6ED658&}keseluruhan{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}makanan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ini{\r} {\fnMontserrat ExtraBold\c&H6ED658&}sangat{\r} bagus.
+Dialogue: 0,0:15:39.01,0:15:40.84,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}Anda{\r} {\fnMontserrat ExtraBold\c&H6ED658&}wajib{\r} {\fnMontserrat ExtraBold\c&H6ED658&}mencubanya.{\r}
+Dialogue: 0,0:15:40.89,0:15:43.81,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} juga merosakkan\Nbinaan {\fnMontserrat ExtraBold\c&HF5A63F&}ayat{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}majmuk.{\r}
+Dialogue: 0,0:15:43.85,0:15:45.34,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Contohnya,{\r}
+Dialogue: 0,0:15:45.81,0:15:49.44,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}pergi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}shopping{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}pasar{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}raya,{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}so{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kami{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}penat{\r} sangat.
+Dialogue: 0,0:15:49.67,0:15:53.93,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&HF5A63F&}Kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}hubung{\r} bahasa Inggeris so digunakan\Nuntuk menghubungkan dua {\fnMontserrat ExtraBold\c&HF5A63F&}klausa.{\r}
+Dialogue: 0,0:15:53.97,0:15:57.77,Sub,,0,0,0,,{\fad(90,70)}Ayat {\fnMontserrat ExtraBold\c&H6ED658&}betul{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pergi{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}membeli-belah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}pasar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}raya.{\r}
+Dialogue: 0,0:15:57.81,0:16:00.26,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}Oleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu,{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kami{\r} sangat penat.
+Dialogue: 0,0:16:00.78,0:16:07.06,Sub,,0,0,0,,{\fad(90,70)}Apakah kesannya? Yang Pertama, {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} menjejaskan {\fnMontserrat ExtraBold\c&H0AD6FF&}MARTABAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}MELAYU{\r}
+Dialogue: 0,0:16:07.10,0:16:12.72,Sub,,0,0,0,,{\fad(90,70)}sebagai bahasa kebangsaan seperti\Nyang termaktub dalam {\fnMontserrat ExtraBold\c&H0AD6FF&}PERKARA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}152{\r}
+Dialogue: 0,0:16:12.76,0:16:15.76,Sub,,0,0,0,,{\fad(90,70)}Perlembagaan Persekutuan.
+Dialogue: 0,0:16:15.80,0:16:19.76,Sub,,0,0,0,,{\fad(90,70)}Yang Kedua, murid kehilangan\Nkosa kata bahasa Melayu.
+Dialogue: 0,0:16:19.80,0:16:24.58,Sub,,0,0,0,,{\fad(90,70)}Ramai murid lebih mengenali perkataan\Nsubmit, share dan busy berbanding
+Dialogue: 0,0:16:24.62,0:16:27.64,Sub,,0,0,0,,{\fad(90,70)}menghantar, berkongsi dan sibuk.
+Dialogue: 0,0:16:27.68,0:16:33.28,Sub,,0,0,0,,{\fad(90,70)}Yang Ketiga, murid tidak dapat membezakan\Nsituasi rasmi dengan situasi tidak
+Dialogue: 0,0:16:33.32,0:16:37.40,Sub,,0,0,0,,{\fad(90,70)}rasmi, lalu membawa {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} ke dalam karangan mereka,
+Dialogue: 0,0:16:37.44,0:16:40.52,Sub,,0,0,0,,{\fad(90,70)}surat rasmi dan jawapan peperiksaan.
+Dialogue: 0,0:16:40.56,0:16:44.70,Sub,,0,0,0,,{\fad(90,70)}Dan yang Keempat, jika dibiarkan,\Ngenerasi akan datang mungkin menganggap
+Dialogue: 0,0:16:44.74,0:16:48.54,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK{\r} sebagai\Nbentuk bahasa yang betul.
+Dialogue: 0,0:16:48.58,0:16:53.86,Sub,,0,0,0,,{\fad(90,70)}Secara keseluruhan, ketiga-tiga jenis\Nkesalahan ini mempunyai satu persamaan,
+Dialogue: 0,0:16:53.90,0:16:59.70,Sub,,0,0,0,,{\fad(90,70)}iaitu semuanya merosakkan hubungan\Nantara {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}predikat{\r} dalam ayat.
+Dialogue: 0,0:16:59.74,0:17:03.78,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} paling terkesan\Nkerana mereka berada pada peringkat
+Dialogue: 0,0:17:03.82,0:17:05.80,Sub,,0,0,0,,{\fad(90,70)}meniru dan membina asas bahasa.
+Dialogue: 0,0:17:05.84,0:17:11.06,Sub,,0,0,0,,{\fad(90,70)}Apa-apa yang mereka baca hari ini\Nakan menjadi bahasa mereka pada masa
+Dialogue: 0,0:17:11.10,0:17:17.29,Sub,,0,0,0,,{\fad(90,70)}hadapan. Oleh itu, kami percaya\Nbahawa usaha membasmi {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r}
+Dialogue: 0,0:17:17.55,0:17:20.35,Sub,,0,0,0,,{\fad(90,70)}mesti bermula di {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH.{\r}
+Dialogue: 0,0:17:20.39,0:17:23.55,Sub,,0,0,0,,{\fad(90,70)}Baiklah, sekarang Saya serahkan\Nsemula kepada rakan saya,
+Dialogue: 0,0:17:23.59,0:17:26.86,Sub,,0,0,0,,{\fad(90,70)}Aliff, untuk menerangkan\Ncadangan penambahbaikan kami.
+Dialogue: 0,0:17:28.71,0:17:31.00,Sub,,0,0,0,,{\fad(90,70)}Terima kasih, Iman Irfan.
+Dialogue: 0,0:17:31.27,0:17:36.37,Sub,,0,0,0,,{\fad(90,70)}Daripada bukti yang kami peroleh di\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL,{\r} kami bertanya kepada diri
+Dialogue: 0,0:17:36.41,0:17:41.65,Sub,,0,0,0,,{\fad(90,70)}sendiri: sebagai {\fnMontserrat ExtraBold\c&H0AD6FF&}BAKAL{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU,{\r}\Napakah yang boleh kami lakukan?
+Dialogue: 0,0:17:41.69,0:17:46.29,Sub,,0,0,0,,{\fad(90,70)}Murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} tidak boleh dihalang\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} sepenuhnya,
+Dialogue: 0,0:17:46.33,0:17:52.05,Sub,,0,0,0,,{\fad(90,70)}tetapi mereka boleh dilatih untuk\Nmengenal pasti ayat yang salah dan
+Dialogue: 0,0:17:52.09,0:17:57.39,Sub,,0,0,0,,{\fad(90,70)}membetulkannya. Kami juga sedar bahawa\Nlatihan {\fnMontserrat ExtraBold\c&HF5A63F&}tatabahasa{\r} secara tradisional
+Dialogue: 0,0:17:57.43,0:18:00.41,Sub,,0,0,0,,{\fad(90,70)}sering dianggap membosankan oleh murid.
+Dialogue: 0,0:18:00.45,0:18:06.29,Sub,,0,0,0,,{\fad(90,70)}Oleh itu, kami membina sebuah dunia\Npermainan dalam {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} yang
+Dialogue: 0,0:18:06.33,0:18:09.69,Sub,,0,0,0,,{\fad(90,70)}kami namakan {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
+Dialogue: 0,0:18:09.73,0:18:14.13,Sub,,0,0,0,,{\fad(90,70)}Kami memilih {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r} kerana tiga sebab.
+Dialogue: 0,0:18:14.17,0:18:19.87,Sub,,0,0,0,,{\fad(90,70)}Sebab yang Pertama, permainan ini sangat\Ndiminati oleh murid {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH,{\r}
+Dialogue: 0,0:18:19.91,0:18:20.81,Sub,,0,0,0,,{\fad(90,70)}maka
+Dialogue: 0,0:18:20.91,0:18:22.63,Sub,,0,0,0,,{\fad(90,70)}mereka terlibat secara aktif.
+Dialogue: 0,0:18:22.67,0:18:27.77,Sub,,0,0,0,,{\fad(90,70)}Sebab yang Kedua, {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r}\Nboleh diakses oleh guru dan murid
+Dialogue: 0,0:18:27.81,0:18:32.34,Sub,,0,0,0,,{\fad(90,70)}melalui akaun DELIMa, maka\Ntidak memerlukan kos tambahan.
+Dialogue: 0,0:18:32.79,0:18:37.69,Sub,,0,0,0,,{\fad(90,70)}Dan akhir sekali, {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION{\r}\Nmembolehkan kami menggabungkan
+Dialogue: 0,0:18:37.73,0:18:42.95,Sub,,0,0,0,,{\fad(90,70)}pembelajaran dengan permainan melalui\Nmisi, markah, pingat dan papan
+Dialogue: 0,0:18:42.99,0:18:47.62,Sub,,0,0,0,,{\fad(90,70)}kedudukan. Dunia ini dibina\Nberdasarkan bukti yang kami kumpulkan.
+Dialogue: 0,0:18:48.05,0:18:53.13,Sub,,0,0,0,,{\fad(90,70)}Ketiga-tiga jenis kesalahan yang telah\Nditerangkan tadi dijadikan sebagai tiga
+Dialogue: 0,0:18:53.17,0:18:59.47,Sub,,0,0,0,,{\fad(90,70)}misi. Contoh kapsyen {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang\Nsebenar dipamerkan dalam galeri isu di
+Dialogue: 0,0:18:59.51,0:19:05.11,Sub,,0,0,0,,{\fad(90,70)}lobi utama. Setiap jawapan murid\Ndiikuti dengan penerangan segera tentang
+Dialogue: 0,0:19:05.15,0:19:09.22,Sub,,0,0,0,,{\fad(90,70)}sebab jawapan itu betul atau salah.
+Dialogue: 0,0:19:09.37,0:19:16.14,Sub,,0,0,0,,{\fad(90,70)}Sekarang, kami akan menunjukkan cara\Nbermain dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} ini.
+Dialogue: 0,0:19:19.20,0:19:23.99,Sub,,260,560,0,,{\fad(90,70)}Apabila murid memasuki dunia ini,\Nmereka akan berada di lobi utama.
+Dialogue: 0,0:19:24.10,0:19:28.58,Sub,,260,560,0,,{\fad(90,70)}Papan tanda Selamat Datang ke {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} menerangkan matlamat
+Dialogue: 0,0:19:28.62,0:19:33.20,Sub,,260,560,0,,{\fad(90,70)}permainan, iaitu membetulkan ayat\Nyang salah dan mengumpulkan markah.
+Dialogue: 0,0:19:33.24,0:19:35.57,Sub,,260,560,0,,{\fad(90,70)}Apabila murid mendekati watak
+Dialogue: 0,0:19:35.99,0:19:41.21,Sub,,260,560,0,,{\fad(90,70)}penyambut, mesej di bahagian bawah skrin\Nmengarahkan mereka membaca poster di
+Dialogue: 0,0:19:41.25,0:19:46.91,Sub,,260,560,0,,{\fad(90,70)}sekitar dinding dan galeri isu\Ndi dinding sebelah kiri dan
+Dialogue: 0,0:19:46.95,0:19:53.51,Sub,,260,560,0,,{\fad(90,70)}kanan. Poster di dinding sebelah\Nutara memperkenalkan tiga misi.
+Dialogue: 0,0:19:53.55,0:19:56.82,Sub,,260,560,0,,{\fad(90,70)}iaitu misi yang pertama\NJenis yang pertama,
+Dialogue: 0,0:19:57.21,0:20:03.45,Sub,,260,560,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TANPA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK,{\r} dengan\Nperingatan Elak mula ayat dengan kepada,
+Dialogue: 0,0:20:03.49,0:20:06.26,Sub,,260,560,0,,{\fad(90,70)}bagi, dalam, dan di.
+Dialogue: 0,0:20:06.33,0:20:11.35,Sub,,260,560,0,,{\fad(90,70)}Dan Jenis yang kedua ialah {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP,{\r} dengan peringatan bahawa ayat
+Dialogue: 0,0:20:11.39,0:20:13.41,Sub,,260,560,0,,{\fad(90,70)}perlu {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
+Dialogue: 0,0:20:13.45,0:20:18.63,Sub,,260,560,0,,{\fad(90,70)}Dan akhir sekali Jenis ketiga ialah\N{\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK,{\r} dengan peringatan Jangan
+Dialogue: 0,0:20:18.67,0:20:21.36,Sub,,260,560,0,,{\fad(90,70)}campur bahasa Inggeris\Natau Bahasa basahan.
+Dialogue: 0,0:20:21.54,0:20:26.98,Sub,,260,560,0,,{\fad(90,70)}Di dinding sebelah kiri dan kanan pula\Nterdapat Galeri Isu {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA.{\r}
+Dialogue: 0,0:20:27.02,0:20:31.62,Sub,,260,560,0,,{\fad(90,70)}Setiap paparan berbentuk telefon\Nmengandungi tiga bahagian,
+Dialogue: 0,0:20:31.66,0:20:36.16,Sub,,260,560,0,,{\fad(90,70)}iaitu kapsyen yang salah\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL,{\r} jenis isu,
+Dialogue: 0,0:20:36.20,0:20:37.92,Sub,,260,560,0,,{\fad(90,70)}dan ayat yang betul.
+Dialogue: 0,0:20:37.96,0:20:42.80,Sub,,260,560,0,,{\fad(90,70)}Contohnya, {\fnMontserrat ExtraBold\c&H4E4CFF&}kapsyen{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Kepada{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}berminat{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}boleh{\r} {\fnMontserrat ExtraBold\c&H6ED658&}maklumkan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}ruangan{\r} {\fnMontserrat ExtraBold\c&H6ED658&}komen{\r}
+Dialogue: 0,0:20:42.84,0:20:48.80,Sub,,260,560,0,,{\fad(90,70)}dilabelkan sebagai Jenis satu iaitu\Ntiada {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r} dan diikuti ayat
+Dialogue: 0,0:20:48.84,0:20:54.08,Sub,,260,560,0,,{\fad(90,70)}betulnya. Galeri ini penting kerana\Nmurid dapat melihat sendiri bahawa
+Dialogue: 0,0:20:54.12,0:20:59.44,Sub,,260,560,0,,{\fad(90,70)}kesalahan yang dipelajari benar-benar\Nberlaku di {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang mereka
+Dialogue: 0,0:20:59.48,0:21:01.51,Sub,,260,560,0,,{\fad(90,70)}gunakan setiap hari.
+Dialogue: 0,0:21:02.30,0:21:06.95,Sub,,260,560,0,,{\fad(90,70)}Murid boleh memilih untuk bermain\Nsecara individu atau berkumpulan.
+Dialogue: 0,0:21:07.02,0:21:11.90,Sub,,260,560,0,,{\fad(90,70)}Untuk bermain secara individu, murid\Nmasuk melalui gerbang hijau dan memijak
+Dialogue: 0,0:21:11.94,0:21:16.26,Sub,,260,560,0,,{\fad(90,70)}blok zamrud. Untuk bermain secara\Nberkumpulan, murid masuk melalui gerbang
+Dialogue: 0,0:21:16.30,0:21:21.64,Sub,,260,560,0,,{\fad(90,70)}ungu dan memijak bulu mengikut\Nwarna kumpulan, iaitu merah,
+Dialogue: 0,0:21:21.68,0:21:23.74,Sub,,260,560,0,,{\fad(90,70)}biru, hijau atau kuning.
+Dialogue: 0,0:21:23.78,0:21:28.44,Sub,,260,560,0,,{\fad(90,70)}Dalam mod berkumpulan, markah dikongsi\Nbersama, maka murid perlu berbincang
+Dialogue: 0,0:21:28.48,0:21:34.18,Sub,,260,560,0,,{\fad(90,70)}dan bekerjasama. Sebelum bermula,\Nmurid boleh mencuba petak latihan dengan
+Dialogue: 0,0:21:34.22,0:21:37.26,Sub,,260,560,0,,{\fad(90,70)}memijak blok emas untuk membiasakan diri.
+Dialogue: 0,0:21:37.30,0:21:39.06,Sub,,260,560,0,,{\fad(90,70)}Sistem markahnya mudah.
+Dialogue: 0,0:21:39.10,0:21:42.72,Sub,,260,560,0,,{\fad(90,70)}Setiap jawapan yang betul\Ndiberi tambahan 100 markah,
+Dialogue: 0,0:21:42.76,0:21:46.92,Sub,,260,560,0,,{\fad(90,70)}manakala setiap jawapan yang\Nsalah ditolak 50 markah.
+Dialogue: 0,0:21:46.96,0:21:52.34,Sub,,260,560,0,,{\fad(90,70)}Murid perlu menjawab 5 soalan dengan\Nbetul untuk naik ke jenis seterusnya.
+Dialogue: 0,0:21:52.38,0:21:54.99,Sub,,260,560,0,,{\fad(90,70)}Setiap jenis mempunyai 10 soalan.
+Dialogue: 0,0:21:56.02,0:21:59.87,Sub,,260,560,0,,{\fad(90,70)}Selepas memijak blok zamrud,\Nmurid dibawa ke lobi Jenis satu.
+Dialogue: 0,0:21:59.98,0:22:04.55,Sub,,260,560,0,,{\fad(90,70)}Di sini, murid diberikan 30 saat\Nuntuk membaca papan ciri-ciri.
+Dialogue: 0,0:22:04.88,0:22:08.53,Sub,,260,560,0,,{\fad(90,70)}Papan ini mengingatkan bahawa\Nsetiap ayat mesti mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek,{\r}
+Dialogue: 0,0:22:08.93,0:22:10.75,Sub,,260,560,0,,{\fad(90,70)}Dan cara membetulkannya.
+Dialogue: 0,0:22:10.79,0:22:14.79,Sub,,260,560,0,,{\fad(90,70)}adalah menggugurkan {\fnMontserrat ExtraBold\c&HF5A63F&}kata{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}sendi{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}nama{\r} atau menambah {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:22:14.83,0:22:19.25,Sub,,260,560,0,,{\fad(90,70)}Masa membaca ini sengaja disediakan\Nsupaya murid mengulang kaji konsep sebelum
+Dialogue: 0,0:22:19.29,0:22:20.19,Sub,,260,560,0,,{\fad(90,70)}menjawab.
+Dialogue: 0,0:22:20.62,0:22:26.48,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama, {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kepada{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}semua{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}murid{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dikehendaki{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}berkumpul{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} dewan.
+Dialogue: 0,0:22:26.52,0:22:30.04,Sub,,260,560,0,,{\fad(90,70)}Murid diminta memilih perkataan yang\Nperlu digugurkan supaya ayat ini
+Dialogue: 0,0:22:30.08,0:22:36.14,Sub,,260,560,0,,{\fad(90,70)}mempunyai {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r} Pilihan A ialah\Nsemua, pilihan B ialah Kepada
+Dialogue: 0,0:22:36.18,0:22:38.86,Sub,,260,560,0,,{\fad(90,70)}pilihan C ialah dewan.
+Dialogue: 0,0:22:38.90,0:22:42.21,Sub,,260,560,0,,{\fad(90,70)}Murid menjawab dengan\Nmemijak blok berwarna.
+Dialogue: 0,0:22:42.32,0:22:44.73,Sub,,260,560,0,,{\fad(90,70)}Saya pijak blok B, iaitu Kepada.
+Dialogue: 0,0:22:44.91,0:22:48.32,Sub,,260,560,0,,{\fad(90,70)}Jawapan betul, dan saya\Nmendapat 100 markah.
+Dialogue: 0,0:22:48.75,0:22:51.10,Sub,,260,560,0,,{\fad(90,70)}Perhatikan penerangan di skrin:
+Dialogue: 0,0:22:51.52,0:22:53.53,Sub,,260,560,0,,{\fad(90,70)}Kepada ialah kata sendi.
+Dialogue: 0,0:22:53.94,0:22:57.03,Sub,,260,560,0,,{\fad(90,70)}Gugurkan supaya Semua murid jadi {\fnMontserrat ExtraBold\c&HF5A63F&}subjek.{\r}
+Dialogue: 0,0:22:57.79,0:23:02.70,Sub,,260,560,0,,{\fad(90,70)}Sekarang saya tunjukkan apa yang\Nberlaku jika murid menjawab salah.
+Dialogue: 0,0:23:03.03,0:23:07.04,Sub,,260,560,0,,{\fad(90,70)}Soalan kedua {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Bagi{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}murid{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}datang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}lewat{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}akan{\r} didenda.
+Dialogue: 0,0:23:07.15,0:23:09.94,Sub,,260,560,0,,{\fad(90,70)}Saya sengaja memilih murid.
+Dialogue: 0,0:23:10.01,0:23:13.37,Sub,,260,560,0,,{\fad(90,70)}Jawapan salah, markah akan ditolak 50.
+Dialogue: 0,0:23:13.41,0:23:19.10,Sub,,260,560,0,,{\fad(90,70)}dan permainan terus menunjukkan\Njawapan yang betul, iaitu Bagi,
+Dialogue: 0,0:23:19.19,0:23:25.15,Sub,,260,560,0,,{\fad(90,70)}beserta sebabnya. Melalui cara ini,\Nmurid tidak sekadar tahu jawapannya
+Dialogue: 0,0:23:25.19,0:23:27.04,Sub,,260,560,0,,{\fad(90,70)}salah, tetapi faham
+Dialogue: 0,0:23:27.47,0:23:29.21,Sub,,260,560,0,,{\fad(90,70)}mengapa jawapannya salah.
+Dialogue: 0,0:23:29.25,0:23:33.65,Sub,,260,560,0,,{\fad(90,70)}Jika murid mahu mencuba soalan lain,\Nmereka boleh memijak blok biru untuk
+Dialogue: 0,0:23:33.69,0:23:34.68,Sub,,260,560,0,,{\fad(90,70)}ulang.
+Dialogue: 0,0:23:40.96,0:23:45.44,Sub,,260,560,0,,{\fad(90,70)}Setelah menjawab lima soalan dengan\Nbetul, murid naik ke Jenis dua,
+Dialogue: 0,0:23:45.48,0:23:47.12,Sub,,260,560,0,,{\fad(90,70)}iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}TIDAK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}LENGKAP.{\r}
+Dialogue: 0,0:23:47.16,0:23:49.73,Sub,,260,560,0,,{\fad(90,70)}Aktiviti dalam misi ini berbeza.
+Dialogue: 0,0:23:49.80,0:23:51.52,Sub,,260,560,0,,{\fad(90,70)}Murid perlu menyusun ayat.
+Dialogue: 0,0:23:51.56,0:23:55.79,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} itu.
+Dialogue: 0,0:23:55.90,0:23:58.77,Sub,,260,560,0,,{\fad(90,70)}Ayat ini tidak lengkap\Nkerana {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r}
+Dialogue: 0,0:23:59.08,0:24:03.10,Sub,,260,560,0,,{\fad(90,70)}Murid perlu membuka Peti satu yang\Nmengandungi bahagian awal ayat,
+Dialogue: 0,0:24:03.14,0:24:06.18,Sub,,260,560,0,,{\fad(90,70)}dan Peti dua yang mengandungi\Nbahagian akhir ayat.
+Dialogue: 0,0:24:06.22,0:24:12.08,Sub,,260,560,0,,{\fad(90,70)}Saya ambil {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu{\r}\Ndaripada Peti satu dan {\fnMontserrat ExtraBold\c&H6ED658&}terletak{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r}
+Dialogue: 0,0:24:12.12,0:24:14.60,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r} {\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} daripada Peti dua.
+Dialogue: 0,0:24:14.64,0:24:19.46,Sub,,260,560,0,,{\fad(90,70)}Kemudian, saya letakkan kepingan itu\Ndalam Bingkai satu dan Bingkai dua.
+Dialogue: 0,0:24:19.50,0:24:23.66,Sub,,260,560,0,,{\fad(90,70)}Jawapan terus disemak, dan {\fnMontserrat ExtraBold\c&H6ED658&}ayat{\r} {\fnMontserrat ExtraBold\c&H6ED658&}Rumah{\r}\N{\fnMontserrat ExtraBold\c&H6ED658&}Ali{\r} {\fnMontserrat ExtraBold\c&H6ED658&}yang{\r} {\fnMontserrat ExtraBold\c&H6ED658&}besar{\r} {\fnMontserrat ExtraBold\c&H6ED658&}itu{\r} {\fnMontserrat ExtraBold\c&H6ED658&}terletak{\r} {\fnMontserrat ExtraBold\c&H6ED658&}di{\r} {\fnMontserrat ExtraBold\c&H6ED658&}hujung{\r}
+Dialogue: 0,0:24:23.70,0:24:25.80,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H6ED658&}kampung{\r} ialah ayat yang lengkap.
+Dialogue: 0,0:24:26.61,0:24:31.25,Sub,,260,560,0,,{\fad(90,70)}Perhatikan bahawa peti juga mengandungi\Npilihan pengecoh seperti {\fnMontserrat ExtraBold\c&H4E4CFF&}Kerana{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}rumah{\r}
+Dialogue: 0,0:24:31.29,0:24:33.83,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Ali{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dan{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}yang{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}di{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}hujung{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kampung.{\r}
+Dialogue: 0,0:24:33.87,0:24:38.63,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H4E4CFF&}Jika{\r} murid memilih pengecoh ini, ayat\Nitu masih tergantung atau masih {\fnMontserrat ExtraBold\c&H0AD6FF&}TIADA{\r}
+Dialogue: 0,0:24:38.67,0:24:41.97,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT.{\r} Inilah kemahiran\Nyang kami mahu murid kuasai,
+Dialogue: 0,0:24:42.01,0:24:45.03,Sub,,260,560,0,,{\fad(90,70)}iaitu membezakan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r}\N{\fnMontserrat ExtraBold\c&HF5A63F&}utama{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}klausa{\r} {\fnMontserrat ExtraBold\c&HF5A63F&}terikat.{\r}
+Dialogue: 0,0:24:45.07,0:24:50.13,Sub,,260,560,0,,{\fad(90,70)}Jika murid tersalah susun, mereka boleh\Nmemijak blok Set Semula untuk mengisi
+Dialogue: 0,0:24:50.17,0:24:52.38,Sub,,260,560,0,,{\fad(90,70)}semula peti dan mengosongkan bingkai.
+Dialogue: 0,0:24:55.58,0:24:59.39,Sub,,260,560,0,,{\fad(90,70)}Misi terakhir ialah Jenis\N3, iaitu {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}ROJAK.{\r}
+Dialogue: 0,0:24:59.44,0:25:02.94,Sub,,260,560,0,,{\fad(90,70)}Misi ini paling mencabar kerana\Nmurid perlu melakukan parkour,
+Dialogue: 0,0:25:02.98,0:25:07.34,Sub,,260,560,0,,{\fad(90,70)}iaitu melompat dari satu blok ke blok\Nyang lain untuk sampai ke platform
+Dialogue: 0,0:25:07.38,0:25:09.00,Sub,,260,560,0,,{\fad(90,70)}jawapan yang betul.
+Dialogue: 0,0:25:09.04,0:25:13.74,Sub,,260,560,0,,{\fad(90,70)}Soalan pertama {\fnMontserrat ExtraBold\c&H4E4CFF&}ialah{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}Saya{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}sangat{\r}\N{\fnMontserrat ExtraBold\c&H4E4CFF&}happy{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}kerana{\r} {\fnMontserrat ExtraBold\c&H4E4CFF&}dapat{\r} hadiah.
+Dialogue: 0,0:25:13.78,0:25:17.78,Sub,,260,560,0,,{\fad(90,70)}Perkataan berwarna merah perlu digantikan\Ndengan perkataan bahasa Melayu yang
+Dialogue: 0,0:25:17.82,0:25:22.22,Sub,,260,560,0,,{\fad(90,70)}betul. Pilihannya ialah\N{\fnMontserrat ExtraBold\c&H6ED658&}gembira,{\r} happy dan marah.
+Dialogue: 0,0:25:22.26,0:25:25.50,Sub,,260,560,0,,{\fad(90,70)}Saya melompat ke platform\NA, iaitu {\fnMontserrat ExtraBold\c&H6ED658&}gembira.{\r}
+Dialogue: 0,0:25:25.54,0:25:30.92,Sub,,260,560,0,,{\fad(90,70)}Jawapan betul! Jika murid jatuh ke dalam\Nair, mereka perlu mencuba semula dari
+Dialogue: 0,0:25:30.96,0:25:36.45,Sub,,260,560,0,,{\fad(90,70)}permulaan. Setiap bilik\Nmempunyai laluan yang berbeza,
+Dialogue: 0,0:25:36.88,0:25:41.74,Sub,,260,560,0,,{\fad(90,70)}maka murid perlu fokus dan berhati-hati,\Nsama seperti mereka perlu
+Dialogue: 0,0:25:41.78,0:25:44.99,Sub,,260,560,0,,{\fad(90,70)}berhati-hati memilih\Nperkataan dalam penulisan.
+Dialogue: 0,0:25:45.61,0:25:49.81,Sub,,260,560,0,,{\fad(90,70)}Apabila ketiga-tiga misi selesai,\Nmurid dibawa ke dewan keputusan dan
+Dialogue: 0,0:25:49.85,0:25:52.01,Sub,,260,560,0,,{\fad(90,70)}diberikan gelaran {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
+Dialogue: 0,0:25:52.05,0:25:56.57,Sub,,260,560,0,,{\fad(90,70)}Keputusan murid dipaparkan, termasuk\Nmarkah, bilangan jawapan betul,
+Dialogue: 0,0:25:56.61,0:26:00.05,Sub,,260,560,0,,{\fad(90,70)}bilangan jawapan yang salah\Ndan bilangan misi yang selesai.
+Dialogue: 0,0:26:00.09,0:26:05.83,Sub,,260,560,0,,{\fad(90,70)}Murid yang membuat kesalahan antara\Nsifar hingga 3 kali layak menerima {\fnMontserrat ExtraBold\c&H0AD6FF&}PINGAT{\r}
+Dialogue: 0,0:26:05.87,0:26:08.48,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}EMAS{\r} dengan bonus 300.
+Dialogue: 0,0:26:08.93,0:26:13.91,Sub,,260,560,0,,{\fad(90,70)}Murid yang membuat kesalahan antara\N4 hingga 7 kali menerima pingat perak
+Dialogue: 0,0:26:13.95,0:26:18.46,Sub,,260,560,0,,{\fad(90,70)}dengan bonus 150 manakala\Nselebihnya menerima pingat gangsa.
+Dialogue: 0,0:26:18.50,0:26:22.15,Sub,,260,560,0,,{\fad(90,70)}Papan kedudukan memaparkan\N15 pemain teratas.
+Dialogue: 0,0:26:22.19,0:26:24.56,Sub,,260,560,0,,{\fad(90,70)}Apabila guru memijak lodestone,
+Dialogue: 0,0:26:25.01,0:26:30.54,Sub,,260,560,0,,{\fad(90,70)}majlis penyampaian bermula dan juara\Npertama, kedua dan ketiga naik ke pentas.
+Dialogue: 0,0:26:30.71,0:26:32.59,Sub,,260,560,0,,{\fad(90,70)}Dunia ini juga mesra guru.
+Dialogue: 0,0:26:32.63,0:26:36.35,Sub,,260,560,0,,{\fad(90,70)}Jika masa kelas tamat, murid boleh\Nkeluar dengan memijak blok besi,
+Dialogue: 0,0:26:36.39,0:26:38.29,Sub,,260,560,0,,{\fad(90,70)}dan kemajuan mereka disimpan.
+Dialogue: 0,0:26:38.33,0:26:42.17,Sub,,260,560,0,,{\fad(90,70)}Pada sesi seterusnya, murid hanya perlu\Nmemijak glowstone untuk menyambung
+Dialogue: 0,0:26:42.21,0:26:47.69,Sub,,260,560,0,,{\fad(90,70)}misi. Di {\fnMontserrat ExtraBold\c&H0AD6FF&}SUDUT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}GURU,{\r} guru boleh menetapkan\Nsemula semua markah dan memaparkan
+Dialogue: 0,0:26:47.73,0:26:49.85,Sub,,260,560,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}LAPORAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}KEMAJUAN{\r} setiap murid.
+Dialogue: 0,0:26:49.89,0:26:53.61,Sub,,260,560,0,,{\fad(90,70)}Melalui laporan ini, guru dapat mengenal\Npasti jenis kesalahan yang paling
+Dialogue: 0,0:26:53.65,0:26:56.88,Sub,,260,560,0,,{\fad(90,70)}kerap dilakukan oleh murid dan\Nmerancang pengajaran susulan.
+Dialogue: 0,0:26:59.11,0:27:00.70,Sub,,0,0,0,,{\fad(90,70)}Selain {\fnMontserrat ExtraBold\c&H0AD6FF&}MINECRAFT{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}EDUCATION,{\r}
+Dialogue: 0,0:27:01.09,0:27:06.33,Sub,,0,0,0,,{\fad(90,70)}kami turut mencadangkan beberapa langkah\Nlain yang lebih mudah dilaksanakan,
+Dialogue: 0,0:27:06.37,0:27:10.22,Sub,,0,0,0,,{\fad(90,70)}terutamanya di sekolah yang mempunyai\Nkemudahan peranti yang terhad.
+Dialogue: 0,0:27:10.65,0:27:12.16,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang pertama
+Dialogue: 0,0:27:12.51,0:27:15.71,Sub,,0,0,0,,{\fad(90,70)}aktiviti Detektif Ayat {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL.{\r}
+Dialogue: 0,0:27:15.75,0:27:22.46,Sub,,0,0,0,,{\fad(90,70)}Guru memaparkan tangkap layar capture\Ndaripada {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} tanpa nama akaun.
+Dialogue: 0,0:27:22.81,0:27:28.08,Sub,,0,0,0,,{\fad(90,70)}Murid bekerja dalam kumpulan untuk\Nmenggariskan {\fnMontserrat ExtraBold\c&H0AD6FF&}SUBJEK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}DAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PREDIKAT,{\r}
+Dialogue: 0,0:27:28.17,0:27:31.98,Sub,,0,0,0,,{\fad(90,70)}mengenal pasti jenis\Nkesalahan, dalam kumpulan
+Dialogue: 0,0:27:32.37,0:27:36.01,Sub,,0,0,0,,{\fad(90,70)}dan menulis semula ayat yang betul.
+Dialogue: 0,0:27:36.05,0:27:41.15,Sub,,0,0,0,,{\fad(90,70)}Ayat-ayat yang telah dibetulkan ditampal\Npada Dinding Ayat Betul di dalam
+Dialogue: 0,0:27:41.19,0:27:47.42,Sub,,0,0,0,,{\fad(90,70)}kelas. Aktiviti ini melatih murid supaya\Nmembaca {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} secara kritis.
+Dialogue: 0,0:27:47.79,0:27:52.61,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang kedua ialah kad\Npermainan {\fnMontserrat ExtraBold\c&H0AD6FF&}SELAMATKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT.{\r}
+Dialogue: 0,0:27:52.65,0:27:57.00,Sub,,0,0,0,,{\fad(90,70)}Kad ini mengandungi ayat salah\Ndaripada tiga jenis kesalahan.
+Dialogue: 0,0:27:57.72,0:28:00.21,Sub,,0,0,0,,{\fad(90,70)}Murid bergilir-gilir mencabut kad,
+Dialogue: 0,0:28:00.60,0:28:05.16,Sub,,0,0,0,,{\fad(90,70)}dan murid yang dapat membetulkan ayat\Ndengan tepat akan mengumpulkan mata.
+Dialogue: 0,0:28:05.20,0:28:09.98,Sub,,0,0,0,,{\fad(90,70)}Kad ini murah, tidak memerlukan internet,\Ndan boleh digunakan sebagai aktiviti
+Dialogue: 0,0:28:10.02,0:28:12.28,Sub,,0,0,0,,{\fad(90,70)}pengayaan atau pemulihan.
+Dialogue: 0,0:28:12.32,0:28:17.11,Sub,,0,0,0,,{\fad(90,70)}Cadangan yang terakhir ialah kempen\Nhashtag Ayat Betul Sekolahku.
+Dialogue: 0,0:28:17.16,0:28:22.56,Sub,,0,0,0,,{\fad(90,70)}Semua pengumuman, papan notis dan hantaran\N{\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} rasmi sekolah disemak
+Dialogue: 0,0:28:22.60,0:28:26.13,Sub,,0,0,0,,{\fad(90,70)}oleh panitia Bahasa\NMelayu sebelum disiarkan.
+Dialogue: 0,0:28:26.20,0:28:30.52,Sub,,0,0,0,,{\fad(90,70)}Ibu bapa juga digalakkan menjadi contoh\Ndengan menggunakan bahasa Melayu yang
+Dialogue: 0,0:28:30.56,0:28:33.43,Sub,,0,0,0,,{\fad(90,70)}betul dalam kumpulan WhatsApp kelas.
+Dialogue: 0,0:28:33.62,0:28:36.74,Sub,,0,0,0,,{\fad(90,70)}Apabila murid dikelilingi\Noleh contoh ayat yang betul,
+Dialogue: 0,0:28:36.78,0:28:40.21,Sub,,0,0,0,,{\fad(90,70)}mereka akan meniru bahasa yang betul.
+Dialogue: 0,0:28:42.06,0:28:47.68,Sub,,0,0,0,,{\fad(90,70)}Kami berharap agar dunia {\fnMontserrat ExtraBold\c&H0AD6FF&}MISI{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}PENYELAMAT{\r}\N{\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT{\r} ini dapat digunakan oleh guru
+Dialogue: 0,0:28:47.72,0:28:52.72,Sub,,0,0,0,,{\fad(90,70)}bahasa Melayu di {\fnMontserrat ExtraBold\c&H0AD6FF&}SEKOLAH{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}RENDAH{\r} dan\Nterus dikembangkan dengan jenis kesalahan
+Dialogue: 0,0:28:52.76,0:28:57.50,Sub,,0,0,0,,{\fad(90,70)}ayat yang lain. Kami juga berharap\Nagar murid hari ini membesar sebagai
+Dialogue: 0,0:28:57.54,0:29:02.92,Sub,,0,0,0,,{\fad(90,70)}pengguna {\fnMontserrat ExtraBold\c&H0AD6FF&}MEDIA{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SOSIAL{\r} yang {\fnMontserrat ExtraBold\c&H0AD6FF&}CELIK{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA,{\r}\Niaitu mampu menikmati kandungan
+Dialogue: 0,0:29:02.96,0:29:05.45,Sub,,0,0,0,,{\fad(90,70)}digital tanpa meniru kesalahannya.
+Dialogue: 0,0:29:05.82,0:29:10.44,Sub,,0,0,0,,{\fad(90,70)}Akhir sekali, kami berharap agar masyarakat,\Nterutamanya pencipta kandungan,
+Dialogue: 0,0:29:10.48,0:29:15.44,Sub,,0,0,0,,{\fad(90,70)}berbangga menggunakan bahasa Melayu yang\Nbetul, kerana bahasa yang betul tetap
+Dialogue: 0,0:29:15.48,0:29:19.61,Sub,,0,0,0,,{\fad(90,70)}boleh menarik dan dekat dengan khalayak.
+Dialogue: 0,0:29:20.09,0:29:25.39,Sub,,0,0,0,,{\fad(90,70)}Kesimpulannya, {\fnMontserrat ExtraBold\c&H0AD6FF&}KERANCUAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA{\r} dalam\Naspek {\fnMontserrat ExtraBold\c&HF5A63F&}sintaksis{\r} bukan isu kecil kerana
+Dialogue: 0,0:29:25.43,0:29:30.77,Sub,,0,0,0,,{\fad(90,70)}ia merosakkan asas ayat, iaitu\Nhubungan {\fnMontserrat ExtraBold\c&HF5A63F&}subjek{\r} dengan {\fnMontserrat ExtraBold\c&HF5A63F&}predikat.{\r}
+Dialogue: 0,0:29:30.81,0:29:34.55,Sub,,0,0,0,,{\fad(90,70)}Sekali lagi, kami merakamkan\Njutaan terima kasih kepada Dr.
+Dialogue: 0,0:29:34.59,0:29:39.21,Sub,,0,0,0,,{\fad(90,70)}Siti Dahlia atas bimbingan\Ndan ilmu yang dicurahkan.
+Dialogue: 0,0:29:39.25,0:29:40.67,Sub,,0,0,0,,{\fad(90,70)}Sekian, terima kasih.
+Dialogue: 0,0:29:40.71,0:29:43.48,Sub,,0,0,0,,{\fad(90,70)}{\fnMontserrat ExtraBold\c&H0AD6FF&}BETULKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}AYAT,{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}SELAMATKAN{\r} {\fnMontserrat ExtraBold\c&H0AD6FF&}BAHASA!{\r}

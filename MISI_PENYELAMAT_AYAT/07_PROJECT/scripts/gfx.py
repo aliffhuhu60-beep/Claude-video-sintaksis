@@ -779,3 +779,65 @@ def teacher_panel():
         d.text((104, y + 14), t, font=F("ps", 30), fill=WHITE)
         y += 86
     return shadowed(im)[0]
+
+
+# ---------- Bukti media sosial ----------
+PLATFORM_COL = {"TikTok": (20, 20, 24), "YouTube": (205, 32, 31), "Threads": (40, 40, 48)}
+
+EVIDENCE = {
+    1: [("J1.1", "TikTok", "iklan jawatan", "[r:kepada yang berminat] boleh maklumkan di ruangan comment."),
+        ("J1.2", "TikTok", "iklan jawatan", "[r:Kepada yang berminat] boleh emailkan resume ke […] atau WhatsApp ke […]"),
+        ("J1.3", "TikTok", "promosi homestay", "[r:Kalau berminat boleh wasap] ya..click link di bio"),
+        ("J1.4", "TikTok", "balasan penonton", "[r:Semoga dipermudahkan] urusan sis"),
+        ("J1.5", "TikTok", "promosi servis", "[r:Yang mana berminat] nak buat pemasangan aircond boleh wasap saya okeh")],
+    2: [("J2.1", "TikTok", "ulasan makanan", "Kedai malatang [r:yang paling sedap kat KL.]"),
+        ("J2.2", "TikTok", "ulasan restoran", "[r:Restoran mewah] tapi [r:harga murah]"),
+        ("J2.3", "TikTok", "resipi", "Korang [r:kalau suka snek sayur goreng rangup macam ni.]"),
+        ("J2.4", "TikTok", "ulasan makanan", "[r:Nasi Lemak Paling Sedap Di KL]"),
+        ("J2.5", "TikTok", "ulasan makanan", "Nasi lemak sedap di Bukit Bintang KL [r:yang wajib korang singgah.]")],
+    3: [("J3.1", "TikTok", "promosi fotografi", "Pakej serendah RM 30 [r:only] !! Cepat tekan [r:link] di bio utk [r:booking slot]"),
+        ("J3.2", "TikTok", "ulasan kafe", "[r:Best gila] lepak [r:chill] kat Notte by MÜES guys, wajib [r:try] pizza dia!"),
+        ("J3.3", "TikTok", "ulasan makanan", "Strudel dia [r:best gila]!!! […] Wajib [r:try] kalau korang suka strudel !!"),
+        ("J3.4", "TikTok", "tips perniagaan", "Jangan risau, saya nak [r:share] sikit tips ni! […] [r:So], kalau beg kuning korang hilang, [r:check] dulu semua ni."),
+        ("J3.5", "TikTok", "promosi produk", "Sabun aleppo [r:viral] ni memang lain macam lembut & [r:best gila] kat kulit!")],
+}
+EXTRA_EVIDENCE = [("Skrip", "YouTube", "tajuk video", "Harini [r:team] kami nak [r:share] cara buat kek."),
+                  ("Skrip", "Threads", "ulasan", "[r:Overall best gila], wajib [r:try guys]!")]
+
+
+def evidence_card(ref, platform, ctx, quote, accent, w=580, size=22):
+    fq = F("ps", size)
+    tok = parse_marked(quote, {"font": fq, "color": INK}, {"r": {"font": F("pb", size), "color": WHITE, "hl": (205, 40, 40, 255)}})
+    th = rich_height(tok, w - 44, fq)
+    hh = 44
+    h = 18 + hh + 12 + th + 18
+    im = canvas(w, h)
+    d = ImageDraw.Draw(im)
+    d.rounded_rectangle([0, 0, w - 1, h - 1], 16, fill=(246, 247, 250, 255))
+    d.rounded_rectangle([0, 0, 8, h - 1], 4, fill=accent + (255,))
+    pp = pill(platform, F("mx", 18), fg=WHITE, bg=PLATFORM_COL.get(platform, INK), padx=12, pady=5)
+    im.alpha_composite(pp, (22, 18))
+    x = 22 + pp.size[0] + 10
+    d.text((x, 22), f"{'Bukti ' + ref if ref != 'Skrip' else 'Contoh skrip'} • {ctx}", font=F("is", 17), fill=(95, 102, 115))
+    # akaun dikaburkan
+    d.rounded_rectangle([w - 120, 24, w - 22, 40], 8, fill=(200, 204, 212))
+    draw_rich(im, (22, 18 + hh + 6), tok, w - 44, fq)
+    return shadowed(im, 12, (0, 6), 0.45, 22)[0]
+
+
+def vis_box(img):
+    """Kotak nyata (tanpa bayang) bagi imej lapisan: (x0,y0,x1,y1)."""
+    a = img.getchannel("A").point(lambda v: 255 if v > 180 else 0)
+    return a.getbbox() or (0, 0, img.size[0], img.size[1])
+
+
+def medal_small(name, col, a, b, w=560):
+    h = 120
+    im = panel(w, h, fill=(14, 12, 36, 240), border=col + (255,), bw=3)
+    d = ImageDraw.Draw(im)
+    im.alpha_composite(icon("medal", 84, col), (24, 18))
+    d.text((128, 20), name, font=F("mk", 40), fill=col)
+    d.text((128, 72), a, font=F("ps", 24), fill=WHITE)
+    fb = F("pb", 26)
+    d.text((w - 30 - tw(fb, b), 40), b, font=fb, fill=LGREEN)
+    return shadowed(im, 12, (0, 6), 0.5, 22)[0]
