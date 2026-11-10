@@ -841,3 +841,23 @@ def medal_small(name, col, a, b, w=560):
     fb = F("pb", 26)
     d.text((w - 30 - tw(fb, b), 40), b, font=fb, fill=LGREEN)
     return shadowed(im, 12, (0, 6), 0.5, 22)[0]
+
+
+def row_card(num, title, body, accent, w=900):
+    """Kad baris padat: nombor + tajuk besar + huraian satu/dua baris."""
+    ft = F("mx", 36)
+    fb = F("pm", 28)
+    tt = parse_marked(title, {"font": ft, "color": WHITE}, MARKS(36))
+    bt = parse_marked(body, {"font": fb, "color": (215, 225, 238)}, MARKS(28)) if body else None
+    th = rich_height(tt, w - 150, ft)
+    bh = rich_height(bt, w - 150, fb) if bt else 0
+    h = max(110, 26 + th + (6 + bh if bt else 0) + 22)
+    im = panel(w, h, fill=(10, 24, 50, 238), accent=accent, accent_w=10)
+    d = ImageDraw.Draw(im)
+    d.ellipse([34, (h - 76) // 2, 110, (h + 76) // 2], fill=accent)
+    nf = F("mk", 44)
+    d.text((72 - tw(nf, str(num)) // 2, (h - 76) // 2 + 8), str(num), font=nf, fill=INK if accent in (GOLD, YELLOW, LGREEN) else WHITE)
+    y = draw_rich(im, (134, 22), tt, w - 150, ft)
+    if bt:
+        draw_rich(im, (134, y + 4), bt, w - 150, fb)
+    return shadowed(im, 14, (0, 8), 0.5, 26)[0]
