@@ -243,16 +243,16 @@ def keypoint_card(tag, title, sub=None, accent=GOLD, w=560, tag_bg=None):
 
 
 def lower_third(name, role, accent=GOLD):
-    fn = F("mx", 46)
-    fr = F("pm", 28)
+    fn = F("mx", 38)
+    fr = F("pm", 26)
     w = max(tw(fn, name), tw(fr, role)) + 90
-    h = 132
+    h = 120
     im = canvas(w, h)
     d = ImageDraw.Draw(im)
     d.rounded_rectangle([0, 0, w - 1, h - 1], 16, fill=(8, 30, 24, 235))
     d.rectangle([0, 0, 12, h], fill=accent)
     d.text((40, 16), name, font=fn, fill=WHITE)
-    d.text((40, 78), role, font=fr, fill=accent)
+    d.text((40, 70), role, font=fr, fill=accent)
     # jalur piksel (motif Minecraft)
     for i in range(0, w - 12, 24):
         c = [(84, 160, 60), (120, 80, 40), (60, 130, 50)][(i // 24) % 3]

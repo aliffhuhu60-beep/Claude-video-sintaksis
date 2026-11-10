@@ -2304,7 +2304,7 @@
   {
    "name": "lower Amin Najmi bin Mohyidin",
    "t0": 135.47,
-   "t1": 140.97
+   "t1": 139.47
   },
   {
    "name": "RANCU",
@@ -2419,7 +2419,7 @@
   {
    "name": "lower Muhammad Iman Irfan bin Mohd Ramzi",
    "t0": 280.9,
-   "t1": 286.4
+   "t1": 284.9
   },
   {
    "name": "platform TikTok",
@@ -2639,7 +2639,7 @@
   {
    "name": "lower Mohamad Aliff bin Ahmad Shahabuddin",
    "t0": 463.53,
-   "t1": 469.03
+   "t1": 467.53
   },
   {
    "name": "jenis1 kad",
@@ -2829,7 +2829,7 @@
   {
    "name": "lower Amin Najmi bin Mohyidin",
    "t0": 654.97,
-   "t1": 660.47
+   "t1": 658.97
   },
   {
    "name": "ayat lengkap formula",
@@ -2849,7 +2849,12 @@
   {
    "name": "bentuk C",
    "t0": 708.63,
-   "t1": 724.14
+   "t1": 713.37
+  },
+  {
+   "name": "bentuk C2",
+   "t0": 713.37,
+   "t1": 718.7
   },
   {
    "name": "ayah ???",
@@ -2859,7 +2864,7 @@
   {
    "name": "ayah basikal",
    "t0": 716.69,
-   "t1": 724.14
+   "t1": 718.7
   },
   {
    "name": "latar bukti 2",
@@ -2979,7 +2984,7 @@
   {
    "name": "lower Muhammad Iman Irfan bin Mohd Ramzi",
    "t0": 841.1,
-   "t1": 846.6
+   "t1": 845.1
   },
   {
    "name": "rojak hd",
@@ -3089,32 +3094,32 @@
   {
    "name": "fungsi hd",
    "t0": 858.59,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "fungsi 0",
    "t0": 860.09,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "fungsi 1",
    "t0": 861.69,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "fungsi 2",
    "t0": 863.29,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "fungsi 3",
    "t0": 864.89,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "baku",
    "t0": 877.5,
-   "t1": 889.01
+   "t1": 883.47
   },
   {
    "name": "latar bukti 3",
@@ -3254,7 +3259,7 @@
   {
    "name": "lower Mohamad Aliff bin Ahmad Shahabuddin",
    "t0": 1051.07,
-   "t1": 1056.57
+   "t1": 1055.07
   },
   {
    "name": "G judul",
@@ -3579,7 +3584,7 @@
   {
    "name": "lower Mohamad Aliff bin Ahmad Shahabuddin",
    "t0": 1621.53,
-   "t1": 1627.03
+   "t1": 1625.53
   },
   {
    "name": "cadangan 1",
@@ -3609,17 +3614,17 @@
   {
    "name": "harapan GURU",
    "t0": 1727.71,
-   "t1": 1761.1
+   "t1": 1755.05
   },
   {
    "name": "harapan MURID",
    "t0": 1736.13,
-   "t1": 1761.1
+   "t1": 1755.05
   },
   {
    "name": "harapan MASYARAKAT",
    "t0": 1748.17,
-   "t1": 1761.1
+   "t1": 1755.05
   },
   {
    "name": "gabung harapan",
