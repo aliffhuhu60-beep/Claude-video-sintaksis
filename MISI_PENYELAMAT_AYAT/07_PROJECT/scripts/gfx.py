@@ -223,14 +223,14 @@ def MARKS(size):
 def keypoint_card(tag, title, sub=None, accent=GOLD, w=560, tag_bg=None):
     """Kad isi penting di sisi kiri/kanan."""
     ft = F("mx", 44 if len(title) < 26 else 38)
-    fs = F("pm", 27)
-    fg = F("mb", 22)
+    fs = F("pm", 31)
+    fg = F("mb", 24)
     title_tok = parse_marked(title, {"font": ft, "color": WHITE}, MARKS(44))
     th = rich_height(title_tok, w - 70, ft)
     sh = 0
     sub_tok = None
     if sub:
-        sub_tok = parse_marked(sub, {"font": fs, "color": (220, 228, 240)}, MARKS(27))
+        sub_tok = parse_marked(sub, {"font": fs, "color": (220, 228, 240)}, MARKS(31))
         sh = rich_height(sub_tok, w - 70, fs) + 14
     h = 40 + 46 + 16 + th + sh + 30
     im = panel(w, h, fill=(10, 24, 50, 232), accent=accent, accent_w=10)
@@ -681,9 +681,9 @@ def icon(kind, s=110, col=WHITE):
 
 
 def icon_card(num, title, body, ic, accent=GOLD, w=520, h=None):
-    ft = F("mx", 34)
-    fb = F("pr", 24)
-    btok = parse_marked(body, {"font": fb, "color": (215, 225, 238)}, MARKS(24))
+    ft = F("mx", 38)
+    fb = F("pm", 30)
+    btok = parse_marked(body, {"font": fb, "color": (215, 225, 238)}, MARKS(30))
     bh = rich_height(btok, w - 64, fb)
     th = rich_height([(title, {"font": ft})], w - 190, ft)
     h = h or max(170, 40 + max(th, 110) + 20 + bh + 34)

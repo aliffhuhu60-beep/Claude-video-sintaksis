@@ -32,7 +32,7 @@ AMIN = ("Amin Najmi bin Mohyidin", "Pembentang")
 
 PIECES = {
     "A1": [(1.52, 66.42)],
-    "A2": [(153.91, 165.55, "hard"), (85.69, 124.09)],
+    "A2": [(153.91, 162.55, "hard"), (82.95, 85.62, "hard"), (85.69, 124.09)],
     "B": [(214.00, 359.88)],
     "C": [(367.62, 539.21), (547.88, 555.54)],
     "D": [(562.54, 652.78), (707.44, 730.92), (732.40, 734.56), (738.72, 758.56), (655.40, 701.52)],
@@ -53,9 +53,11 @@ SPEAKER = {"A1": ALIFF, "A2": ALIFF, "B": AMIN, "C": IMAN, "D": ALIFF, "E": AMIN
            "H1": ALIFF, "H2": AMIN, "H3": IMAN, "H4": AMIN, "H5": AMIN, "H6": AMIN, "I": ALIFF, "J": ALIFF, "K": ALIFF}
 
 # kawasan potongan potret (x,y,w,h dalam 1920x1080) mengikut syot
-SPLIT = {"A1": (500, 0, 920, 1080), "B": (640, 160, 640, 751), "C": (560, 0, 920, 1080), "D": (1000, 0, 920, 1080),
-         "E": (500, 0, 920, 1080), "F": (500, 0, 920, 1080), "G": (420, 0, 920, 1080), "I": (500, 0, 920, 1080),
-         "J": (500, 0, 920, 1080), "K": (500, 0, 920, 1080), "H1": (500, 0, 920, 1080)}
+SPLIT = {"A1": (426, 0, 1068, 1080), "B": (590, 130, 740, 748), "C": (426, 0, 1068, 1080), "D": (852, 0, 1068, 1080),
+         "E": (426, 0, 1068, 1080), "F": (426, 0, 1068, 1080), "G": (426, 0, 1068, 1080), "I": (426, 0, 1068, 1080),
+         "J": (426, 0, 1068, 1080), "K": (426, 0, 1068, 1080), "H1": (426, 0, 1068, 1080)}
+# zon suara perlahan (pembentang jauh dari mikrofon) – dikuatkan: (sumber mula, tamat, gandaan)
+GAIN_ZONES = [(158.9, 162.1, 5.5), (82.95, 85.65, 5.5)]
 BASEZOOM = {"B": (1.42, 1.48), "C": (1.0, 1.05), "D": (1.0, 1.05), "E": (1.0, 1.04), "F": (1.0, 1.05)}
 CENTER = {"B": (960, 520), "D": (1500, 520)}
 
@@ -264,7 +266,7 @@ class TL:
 def build_timeline(words):
     T = TL()
     T.gap(11.0, "opener")          # 0:00 skrin gelap + perkataan bercelaru
-    T.gap(3.4, "maintitle")        # kad tajuk utama (tanpa klip Minecraft)
+    T.gap(4.6, "maintitle")        # kad tajuk utama (tanpa klip Minecraft)
     T.speech("A1", words)
     T.gap(0.5, "a-mid")
     T.speech("A2", words, between=0.35)
@@ -765,8 +767,8 @@ def write_ass_m(cues, path):
             c = valid[ci]; ci += 1
             if c.get("margin"):
                 parts = ln.split(",", 9)
-                parts[5], parts[6], parts[7] = str(c["margin"][0]), str(c["margin"][1]), "14"
-                parts[9] = "{\\fs42}" + parts[9]
+                parts[5], parts[6], parts[7] = str(c["margin"][0]), str(c["margin"][1]), "26"
+                parts[9] = "{\\fs44}" + parts[9]
                 ln = ",".join(parts)
         out.append(ln)
     open(path, "w").write("\n".join(out))
@@ -814,6 +816,14 @@ def build_audio(P, T):
     for ch in T.chunks:
         a, b = int(ch["src_s"] * SR), int(ch["src_e"] * SR)
         x = voice_src[a:b].copy() * sec_gain[ch["sec"]]
+        for (z0, z1, gz) in GAIN_ZONES:
+            if z1 > ch["src_s"] and z0 < ch["src_e"]:
+                ia, ib = max(0, int((z0 - ch["src_s"]) * SR)), min(len(x), int((z1 - ch["src_s"]) * SR))
+                env_ = np.ones(ib - ia, np.float32) * gz
+                r_ = min(int(0.05 * SR), (ib - ia) // 2)
+                if r_ > 0:
+                    env_[:r_] = np.linspace(1, gz, r_); env_[-r_:] = np.linspace(gz, 1, r_)
+                x[ia:ib] = np.tanh(x[ia:ib] * env_ * 1.2) / 1.2
         x[:fade] *= np.linspace(0, 1, fade); x[-fade:] *= np.linspace(1, 0, fade)
         o = int(round(ch["out_s"] * FPS)) * SR // FPS
         voice[o:o + len(x)] += x[:N - o]

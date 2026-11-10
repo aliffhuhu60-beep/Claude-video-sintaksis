@@ -148,9 +148,9 @@ def lerp_rect(r1, r2, k):
 
 FULL_SRC = (0, 0, W, H)
 FULL_DST = (0, 0, W, H)
-SPLIT_SRC = (500, 0, 920, H * 1.0)          # potongan potret sekitar pembentang
-SPLIT_DST = (1190, 70, 700, 822)           # tetingkap di kanan
-SPLIT_SRC_L = (500, 0, 920, H * 1.0)
+SPLIT_SRC = (426, 0, 1068, H * 1.0)          # potongan potret sekitar pembentang
+SPLIT_DST = (990, 34, 896, 906)          # tetingkap pembentang besar (kanan)           # tetingkap di kanan
+SPLIT_SRC_L = (426, 0, 1068, H * 1.0)
 SPLIT_DST_L = (30, 70, 700, 822)           # tetingkap di kiri
 
 
@@ -170,7 +170,7 @@ def layout_state(cam, t):
     return mode_prev, mode_next, k
 
 
-WIN_DST = (990, 120, 900, 506)
+WIN_DST = (620, 60, 1270, 714)
 
 
 def face_at(cam, t):
@@ -313,8 +313,8 @@ def render_camera(src, seg, t_local):
 
 
 GAME_SRC = (0, 50, 1920, 980)
-GAME_DST = (0, 0, 1920, 980)       # penuh lebar; jalur bawah 100 px untuk sarikata
-GAME_DST_SIDE = (0, 0, 1920, 980)
+GAME_DST = (78, 0, 1764, 900)       # rakaman penuh (tiada bahagian terpotong); jalur bawah 180 px untuk sarikata
+GAME_DST_SIDE = (78, 0, 1764, 900)
 
 
 def render_game(src, seg, t_local):

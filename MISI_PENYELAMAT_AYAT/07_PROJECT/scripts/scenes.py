@@ -5,7 +5,7 @@ from gfx import *
 import compositor as C
 
 GY = 70  # had atas grafik
-LEFT_AREA_W = 1130
+LEFT_AREA_W = 940
 
 
 def center_pos(img, y=None, x=None):
@@ -18,7 +18,7 @@ def left_pos(img, y):
     return (max(20, (LEFT_AREA_W - w) // 2 + 30), y)
 
 
-RC_X, RC_W = 1318, 572   # lajur kanan semasa susun atur sisi gameplay
+RC_X, RC_W = 1236, 616   # lajur kanan semasa susun atur sisi gameplay
 
 
 def build(P, T, A, G, gaps_by, R):
@@ -46,7 +46,7 @@ def build(P, T, A, G, gaps_by, R):
                 S(it["t0"], it["snd"], it.get("sg", 0.15))
             y += (b[3] - b[1]) + gap
 
-    def rc_stack(items, top=80, gap=26, bottom=760):
+    def rc_stack(items, top=200, gap=28, bottom=880):
         stack(items, top, gap, bottom, area=(RC_X, RC_X + RC_W), z=20)
 
     def evidence_wall(tag, jenis, accent, title, extra=None):
@@ -145,9 +145,8 @@ def build(P, T, A, G, gaps_by, R):
     t_hormat = A("Yang kami hormati", "A1")
     tc = title_card("BMMB3233  •  SINTAKSIS BAHASA MELAYU", "ISU KERANCUAN BAHASA DALAM ASPEK [G:SINTAKSIS]",
                     "Ayat Tanpa Subjek  •  Ayat Tidak Lengkap  •  Bahasa Rojak", GOLD)
-    t_end_title = (t_hormat or (mt["t1"] + 5)) - 0.1
-    P.override(mt["t0"], t_end_title - 0.2, [{"type": "bg", "bg": "navy", "dur": t_end_title - 0.2 - mt["t0"]}], pip=False)
-    L(tc, mt["t0"], t_end_title, (0, -120), "wipe", "fade", 0.9, 0.5, z=25, name="kad tajuk utama")
+    t_end_title = mt["t1"] + 0.25
+    L(tc, mt["t0"], t_end_title, (0, -120), "wipe", "fade", 0.9, 0.35, z=25, name="kad tajuk utama")
     inst = text_img("IPG Kampus Tun Hussein Onn, Batu Pahat", F("mb", 36), WHITE)
     L(inst, mt["t0"] + 1.2, t_end_title, (140, 735), "up", "fade", 0.6, 0.5, z=26, name="institusi")
     pen = text_img("Pensyarah: Dr. Siti Dahlia binti Abdullah", F("pm", 32), (200, 215, 230))
@@ -155,7 +154,7 @@ def build(P, T, A, G, gaps_by, R):
     S(mt["t0"], "sfx_whoosh", 0.4)
     # pembentang P1
     chipsec("A1", "A", "PEMBUKAAN & PENGHARGAAN", until=sec_end("A2"))
-    lower("A1", *ALIFF_, t=t_end_title + 0.6)
+    lower("A1", *ALIFF_, t=sec_start("A1") + 0.4, dur=6.5)
     t = A("Melalui tugasan PB1", "A1")
     if t:
         P.set_mode(t - 0.3, A("dunia permainan ini", "A1", end=True) or t + 20, "split")
@@ -169,20 +168,20 @@ def build(P, T, A, G, gaps_by, R):
     t_saya = A("Saya", "A2")
     if t_saya:
         L(lower_third(*ALIFF_), t_saya + 0.3, t_saya + 5.0, (60, 690), "left", "fade", 0.6, 0.4, z=20, name="LT aliff")
-        ta = P.A_src(159.0); ti = P.A_src(163.2)
-        L(lower_third(*AMIN_), ta, ta + 4.0, (1180, 600), "right", "fade", 0.6, 0.4, z=20, name="LT amin")
-        L(lower_third(*IMAN_), ti, ti + 4.0, (60, 520), "left", "fade", 0.6, 0.4, z=20, name="LT iman")
+        ta = P.A_src(159.0); ti = P.A_src(83.1)
+        L(lower_third(*AMIN_), ta, ta + 3.6, (60, 690), "left", "fade", 0.5, 0.4, z=20, name="LT amin")
+        L(lower_third(*IMAN_), ti, ti + 4.2, (60, 690), "left", "fade", 0.5, 0.4, z=20, name="LT iman")
     t = A("terbahagi kepada", "A2")
-    t_take1 = P.A_src(86.0)
+    t_take1 = P.A_src(85.8)
     if t_take1:
         P.set_mode(t_take1 - 0.9, sec_end("A2") + 0.1, "win")
         S(t_take1 - 0.9, "sfx_whoosh", 0.25)
-        kt = keypoint_card("TOPIK PEMBENTANGAN", "ISU KERANCUAN BAHASA DALAM ASPEK [Y:SINTAKSIS]", "Kesalahan pada peringkat [Y:AYAT].", accent=GOLD, w=880)
-        card(kt, t_take1 - 0.3, t or t_take1 + 7, (40, 200), "left", name="topik")
+        kt = keypoint_card("TOPIK PEMBENTANGAN", "ISU KERANCUAN BAHASA DALAM ASPEK [Y:SINTAKSIS]", "Kesalahan pada peringkat [Y:AYAT].", accent=GOLD, w=560)
+        card(kt, t_take1 - 0.3, t or t_take1 + 7, (10, 200), "left", name="topik")
     if t:
         tend = sec_end("A2")
-        hd = heading("ALIRAN PEMBENTANGAN", "Enam Bahagian", 900)
-        card(hd, t, tend, (70, 100), "left", snd=None, name="aliran")
+        hd = heading("ALIRAN PEMBENTANGAN", "Enam Bahagian", 560)
+        card(hd, t, tend, (24, 70), "left", snd=None, name="aliran")
         items = ["Pengenalan isu & sebab dipilih", "Tiga jenis kesalahan ayat", "Cadangan: Minecraft Education",
                  "Demonstrasi cara bermain", "Cadangan penambahbaikan lain", "Harapan & penutup"]
         keys = ["pertama", "Seterusnya, 3 jenis", "Seterusnya, cadangan", "demonstrasi cara bermain", "cadangan penambahan baikan lain", "harapan serta penutup"]
@@ -190,8 +189,8 @@ def build(P, T, A, G, gaps_by, R):
         for i, (it, k) in enumerate(zip(items, keys)):
             tk = A(k, "A2", after=prev - 0.5) or prev + 2.5
             tk = max(tk, prev)
-            img = list_item(i + 1, it, [GOLD, RED, PURPLE, PURPLE, LGREEN, BLUE][i], w=880)
-            L(img, tk, tend, (70, 250 + i * 104), "left", "fade", 0.45, 0.4, z=12, name=f"aliran {i + 1}")
+            img = list_item(i + 1, it, [GOLD, RED, PURPLE, PURPLE, LGREEN, BLUE][i], w=570)
+            L(img, tk, tend, (30, 220 + i * 100), "left", "fade", 0.45, 0.4, z=12, name=f"aliran {i + 1}")
             S(tk, "sfx_tick", 0.25)
             prev = tk + 0.3
 
@@ -211,9 +210,9 @@ def build(P, T, A, G, gaps_by, R):
         S(t, "sfx_whoosh", 0.3)
         kd = text_img("Kamus Dewan", F("mb", 30), GOLD)
         card(kd, t + 0.8, t_def, (110, 120), "fade", snd=None, name="kamus dewan")
-        d1 = keypoint_card("RANCU =", "[Y:KACAU] • [Y:TIDAK TERATUR] • [Y:CAMPUR ADUK]", None, accent=GOLD, w=1000)
+        d1 = keypoint_card("RANCU =", "[Y:KACAU] • [Y:TIDAK TERATUR] • [Y:CAMPUR ADUK]", None, accent=GOLD, w=900)
         card(d1, A("kacau", "B") or t + 3, t_def, left_pos(d1, 470), "up", name="rancu def")
-        d2 = keypoint_card("DEFINISI", "KERANCUAN BAHASA", "= penggunaan bahasa yang [Y:kacau dan tidak teratur] sehingga [R:menyalahi peraturan tatabahasa] bahasa Melayu.", accent=GOLD, w=1000)
+        d2 = keypoint_card("DEFINISI", "KERANCUAN BAHASA", "= penggunaan bahasa yang [Y:kacau dan tidak teratur] sehingga [R:menyalahi peraturan tatabahasa] bahasa Melayu.", accent=GOLD, w=900)
         card(d2, t_def, t_aspek, left_pos(d2, 200), "left", name="kerancuan def")
         if t_aspek:
             hd = heading("BERLAKU DALAM PELBAGAI ASPEK", "Di manakah kerancuan berlaku?", 1000)
@@ -231,7 +230,7 @@ def build(P, T, A, G, gaps_by, R):
     t_ganggu = A("Kerancuan sintaksis berlaku", "B")
     if t_sin:
         P.set_mode(t_sin - 0.3, t_ganggu + 1.0 if t_ganggu else t_sin + 30, "split")
-        k = keypoint_card("SINTAKSIS", "Cara perkataan disusun → [B:FRASA] → [B:KLAUSA] → [B:AYAT]", "(Nik Safiah Karim et al., 2024)", accent=BLUE, w=1000)
+        k = keypoint_card("SINTAKSIS", "Cara perkataan disusun → [B:FRASA] → [B:KLAUSA] → [B:AYAT]", "(Nik Safiah Karim et al., 2024)", accent=BLUE, w=900)
         card(k, t_sin, t_dua, left_pos(k, 260), "left", name="sintaksis")
     if t_dua:
         fv = flow_vertical([("AYAT", NAVY, "UNIT TATABAHASA"), ("SUBJEK + PREDIKAT", (46, 120, 200), "DUA UNSUR UTAMA"), ("AYAT GRAMATIS", (46, 160, 70), "HASIL")], w=760)
@@ -252,15 +251,15 @@ def build(P, T, A, G, gaps_by, R):
         prev = t_ganggu
         for i, (txt, k) in enumerate(rows):
             tk = A(k, "B", after=prev) or prev + 4
-            img = list_item(i + 1, txt, RED, w=1040)
+            img = list_item(i + 1, txt, RED, w=900)
             L(img, tk, t_tegas, (70, 290 + i * 100), "left", "fade", 0.45, 0.4, z=12, name=f"ganggu {i}")
             S(tk, "sfx_tick", 0.25)
             prev = tk
     if t_tegas:
         t_tutur = A("Dalam pertuturan", "B")
         P.set_mode(t_tegas - 0.2, sec_end("B") + 0.1, "split")
-        k1 = keypoint_card("✗  BUKAN FOKUS", "Kesalahan KATA secara terpencil", "cth. salah ejaan: “sye”, “x”, “dlm”", accent=RED, w=1000)
-        k2 = keypoint_card("✓  FOKUS KAJIAN", "KESALAHAN [Y:AYAT] (SINTAKSIS)", "Kesalahan yang menjejaskan [Y:binaan ayat secara keseluruhan].", accent=LGREEN, w=1000)
+        k1 = keypoint_card("✗  BUKAN FOKUS", "Kesalahan KATA secara terpencil", "cth. salah ejaan: “sye”, “x”, “dlm”", accent=RED, w=900)
+        k2 = keypoint_card("✓  FOKUS KAJIAN", "KESALAHAN [Y:AYAT] (SINTAKSIS)", "Kesalahan yang menjejaskan [Y:binaan ayat secara keseluruhan].", accent=LGREEN, w=900)
         card(k1, t_tegas + 0.3, t_tutur, left_pos(k1, 120), "left", name="bukan fokus")
         card(k2, A("Fokus kami ialah", "B") or t_tegas + 4, t_tutur, left_pos(k2, 440), "left", name="fokus")
         if t_tutur:
@@ -296,8 +295,8 @@ def build(P, T, A, G, gaps_by, R):
         ph2 = phone_quote("TikTok", "Tajuk video makanan  •  Bukti J2.1", "Kedai malatang [r:yang paling sedap] kat KL.", "JENIS 2 • TIADA PREDIKAT")
         card(ph1, t_contoh, t3, (110, 90), "up", name="telefon J1.1", snd="sfx_whoosh", sg=0.2)
         card(ph2, t2, t3, (620, 90), "up", name="telefon J2.1", snd="sfx_whoosh", sg=0.2)
-        q3 = sentence_box("salah", "Harini [r:team] kami nak [r:share] cara buat kek.", w=1060, label="Contoh ayat (YouTube)", size=36)
-        q4 = sentence_box("salah", "[r:Overall best gila], wajib [r:try guys]!", w=1060, label="Contoh ayat (Threads)", size=36)
+        q3 = sentence_box("salah", "Harini [r:team] kami nak [r:share] cara buat kek.", w=900, label="Contoh ayat (YouTube)", size=36)
+        q4 = sentence_box("salah", "[r:Overall best gila], wajib [r:try guys]!", w=900, label="Contoh ayat (Threads)", size=36)
         card(q3, t3, t_ditulis, left_pos(q3, 170), "left", name="contoh share")
         card(q4, A("Overall", "C") or t3 + 4, t_ditulis, left_pos(q4, 420), "left", name="contoh overall")
     gC = g("bukti-C")
@@ -329,11 +328,8 @@ def build(P, T, A, G, gaps_by, R):
                    ("Sudah dinormalkan", "Pengguna tidak sedar ayat itu salah.", "Sebab yang kedua"),
                    ("Berkait terus dengan sintaksis", "Subjek, predikat, klausa bebas & terikat.", "Sebab yang ketiga"),
                    ("Tanggungjawab bakal guru", "Bukan sekadar mengkritik – beri penyelesaian.", "Sebab yang keempat")]
-        for i, (ti, bd, k) in enumerate(reasons):
-            tk = A(k, "C") or t_empat + 3 + i * 15
-            nc = numbered_card(i + 1, ti, bd, [GOLD, RED, BLUE, LGREEN][i], w=520, h=270)
-            L(nc, tk, t_tiga, (30 + (i % 2) * 565, 220 + (i // 2) * 305), "scale", "fade", 0.5, 0.4, z=12, name=f"sebab {i + 1}")
-            S(tk, "sfx_pop", 0.2)
+        stack([{"img": keypoint_card(f"SEBAB {i + 1}", ti, bd, accent=[GOLD, RED, BLUE, LGREEN][i], w=900), "t0": A(k, "C") or t_empat + 3 + i * 15,
+                 "t1": t_tiga, "name": f"sebab {i + 1}", "snd": "sfx_pop", "sg": 0.2} for i, (ti, bd, k) in enumerate(reasons)], top=200, gap=24, bottom=860)
         tc = A("Kajian juga mendapati", "C")
         if tc:
             cit = pill("Chew Fong Peng & Vanithmalar Jayabalan (2026)", F("ps", 24), fg=WHITE, bg=(30, 50, 90))
@@ -344,7 +340,7 @@ def build(P, T, A, G, gaps_by, R):
             for i, (lbl, k, c) in enumerate([("JENIS 1 • Ayat Tanpa Subjek", "ayat tanpa subjek", RED), ("JENIS 2 • Ayat Tidak Lengkap", "ayat tidak lengkap", GOLD),
                                              ("JENIS 3 • Bahasa Rojak", "bahasa rojak", PURPLE)]):
                 tk = A(k, "C", after=t_tiga) or t_tiga + 2 + i
-                img = list_item(i + 1, lbl, c, w=1000)
+                img = list_item(i + 1, lbl, c, w=900)
                 L(img, tk, sec_end("C"), (70, 300 + i * 110), "left", "fade", 0.45, 0.4, z=12, name=f"3jenis {i}")
                 S(tk, "sfx_tick", 0.25)
 
@@ -383,7 +379,7 @@ def build(P, T, A, G, gaps_by, R):
         L(st.rotate(-6, expand=True, resample=Image.BICUBIC), tb, t_kead2, left_pos(st, 640), "pop", "fade", 0.5, 0.4, z=14, name="stamp bukan subjek")
         S(tb, "sfx_impact", 0.25)
     if t_kead2:
-        k2 = keypoint_card("KEADAAN 2", "Subjek [R:digugurkan] terus", "Kata ganti nama seperti [Y:saya], [Y:anda], [Y:kami] dibuang kerana penulis menganggap pembaca sudah faham.", accent=RED, w=1000)
+        k2 = keypoint_card("KEADAAN 2", "Subjek [R:digugurkan] terus", "Kata ganti nama seperti [Y:saya], [Y:anda], [Y:kami] dibuang kerana penulis menganggap pembaca sudah faham.", accent=RED, w=900)
         card(k2, t_kead2, t_mari, left_pos(k2, 260), "left", name="keadaan 2")
     # contoh 1–4
     ex = [("Kepada yang berminat boleh maklumkan", "[r:Kepada] yang berminat boleh maklumkan di ruangan komen.", "[g:Mereka] yang berminat boleh [g:memaklumkan] di ruangan komen.", "TikTok • kapsyen jualan",
@@ -411,13 +407,13 @@ def build(P, T, A, G, gaps_by, R):
             continue
         _, wrong, right, lbl, ana = ex[i]
         P.set_mode(ts - 0.6, te, "split")
-        items = [{"img": sentence_box("salah", wrong, w=1080, label=lbl, size=38), "t0": ts - 0.2, "t1": te, "name": f"D salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
-                 {"img": analysis_box(ana, w=1080, size=27), "t0": ts + 3.0, "t1": te, "ain": "up", "name": f"D analisis {i + 1}"}]
+        items = [{"img": sentence_box("salah", wrong, w=900, label=lbl, size=38), "t0": ts - 0.2, "t1": te, "name": f"D salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
+                 {"img": analysis_box(ana, w=900, size=30), "t0": ts + 3.0, "t1": te, "ain": "up", "name": f"D analisis {i + 1}"}]
         if tr:
-            items.append({"img": sentence_box("betul", right, w=1080, size=38), "t0": tr, "t1": te, "name": f"D betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
+            items.append({"img": sentence_box("betul", right, w=900, size=38), "t0": tr, "t1": te, "name": f"D betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
         if i == 0:
             tcara = A("Kata sendi nama kepada digugurkan", "D") or (tr + 4 if tr else None)
-            items.append({"img": keypoint_card("CARA PEMBETULAN", "1. Gugurkan kata sendi nama   2. Tambah subjek", None, accent=LGREEN, w=1080),
+            items.append({"img": keypoint_card("CARA PEMBETULAN", "1. Gugurkan kata sendi nama   2. Tambah subjek", None, accent=LGREEN, w=900),
                           "t0": tcara, "t1": te, "ain": "up", "name": "cara betul", "snd": "sfx_pop"})
         stack(items, top=70, gap=30)
     if t_ex3:
@@ -427,11 +423,11 @@ def build(P, T, A, G, gaps_by, R):
         tb2 = A("pelanggan yang berminat", "D", after=tr) if tr else None
         items = []
         for j_, i_ in enumerate((2, 3)):
-            items.append({"img": sentence_box("salah", ex[i_][1], w=1080, label=ex[i_][3], size=34), "t0": t_ex3 if j_ == 0 else (t_ex4 or t_ex3 + 2), "t1": te,
+            items.append({"img": sentence_box("salah", ex[i_][1], w=900, label=ex[i_][3], size=34), "t0": t_ex3 if j_ == 0 else (t_ex4 or t_ex3 + 2), "t1": te,
                           "name": f"D salah {i_ + 1}", "snd": "sfx_fail", "sg": 0.1})
         for j_, i_ in enumerate((2, 3)):
             if tr:
-                items.append({"img": sentence_box("betul", ex[i_][2], w=1080, size=34), "t0": tr if j_ == 0 else (tb2 or tr + 3), "t1": te,
+                items.append({"img": sentence_box("betul", ex[i_][2], w=900, size=34), "t0": tr if j_ == 0 else (tb2 or tr + 3), "t1": te,
                               "name": f"D betul {i_ + 1}", "snd": "sfx_success", "sg": 0.1})
         stack(items, top=70, gap=28)
     if t_kesan:
@@ -441,11 +437,8 @@ def build(P, T, A, G, gaps_by, R):
         ks = [("Maksud kabur", "Pembaca tidak tahu siapa pelaku.", "Kesan yang pertama"),
               ("Sukar disedari", "“Bagi saya berpendapat…” dibawa ke karangan.", "Kedua, kesalahan ini sukar"),
               ("Hilang markah", "Dikira kesalahan tatabahasa dalam peperiksaan.", "Akhir sekali")]
-        for i, (ti, bd, kk) in enumerate(ks):
-            tk = A(kk, "D", after=t_kesan) or t_kesan + 3 + 12 * i
-            nc = numbered_card(i + 1, ti, bd, RED, w=335, h=330)
-            L(nc, tk, sec_end("D"), (30 + i * 375, 280), "up", "fade", 0.5, 0.4, z=12, name=f"kesanD {i}")
-            S(tk, "sfx_pop", 0.2)
+        stack([{"img": keypoint_card(f"KESAN {i + 1}", ti, bd, accent=RED, w=900), "t0": A(kk, "D", after=t_kesan) or t_kesan + 3 + 12 * i,
+                 "t1": sec_end("D"), "name": f"kesanD {i}", "snd": "sfx_pop", "sg": 0.2} for i, (ti, bd, kk) in enumerate(ks)], top=230, gap=30, bottom=880)
 
     # =================================================================
     # E – JENIS 2: AYAT TIDAK LENGKAP
@@ -466,7 +459,7 @@ def build(P, T, A, G, gaps_by, R):
         panels = [("A", "TIADA PREDIKAT", "FN + [Y:“yang …”] sahaja", t_b1), ("B", "KLAUSA TERGANTUNG", "[Y:APABILA / KERANA / KALAU / SELEPAS] tanpa klausa utama", t_b2),
                   ("C", "KK TRANSITIF TANPA OBJEK", "cth. “Ayah membeli [R:___] di kedai.”", t_b3)]
         tay_ = A("Ayah membeli di kedai", "E")
-        stack([{"img": keypoint_card(f"BENTUK {lt}", ti, bd, accent=GOLD, w=1060), "t0": tk, "t1": (tay_ if lt != "C" else t_ex1) or t_ex1,
+        stack([{"img": keypoint_card(f"BENTUK {lt}", ti, bd, accent=GOLD, w=900), "t0": tk, "t1": (tay_ if lt != "C" else t_ex1) or t_ex1,
                 "name": f"bentuk {lt}", "snd": "sfx_pop", "sg": 0.2} for lt, ti, bd, tk in panels], top=80, gap=30, bottom=860)
         tay = A("Ayah membeli di kedai", "E")
         if tay:
@@ -495,11 +488,11 @@ def build(P, T, A, G, gaps_by, R):
         _, wrong, right, lbl, ana = exE[i]
         te = ends[i] or ts + 20
         P.set_mode(ts - 0.4, te, "split")
-        items = [{"img": sentence_box("salah", wrong, w=1080, label=lbl, size=38), "t0": ts, "t1": te, "name": f"E salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
-                 {"img": analysis_box(ana, w=1080, size=27), "t0": ts + 3.5, "t1": te, "ain": "up", "name": f"E analisis {i + 1}"}]
+        items = [{"img": sentence_box("salah", wrong, w=900, label=lbl, size=38), "t0": ts, "t1": te, "name": f"E salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
+                 {"img": analysis_box(ana, w=900, size=30), "t0": ts + 3.5, "t1": te, "ain": "up", "name": f"E analisis {i + 1}"}]
         tr = A("Ayat yang betul", "E", after=ts)
         if tr and tr < te:
-            items.append({"img": sentence_box("betul", right, w=1080, size=38), "t0": tr, "t1": te, "name": f"E betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
+            items.append({"img": sentence_box("betul", right, w=900, size=38), "t0": tr, "t1": te, "name": f"E betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
         if i == 0:
             tk = A("Kini, kedai ini menjadi subjek", "E") or A("Kini", "E")
             if tk:
@@ -514,11 +507,8 @@ def build(P, T, A, G, gaps_by, R):
         card(hd, t_kesanE, sec_end("E"), (70, 100), "left", snd=None, name="kesan E hd")
         ks = [("Mesej tidak lengkap", "Tawaran & tindakan tidak jelas.", "Pertama"), ("Ayat tergantung", "“Apabila loceng berbunyi.” lalu noktah.", "Kedua"),
               ("Ayat majmuk lemah", "Klausa terikat perlukan klausa utama.", "Ketiga")]
-        for i, (ti, bd, kk) in enumerate(ks):
-            tk = A(kk, "E", after=t_kesanE) or t_kesanE + 3 + 10 * i
-            nc = numbered_card(i + 1, ti, bd, GOLD, w=335, h=330)
-            L(nc, tk, sec_end("E"), (30 + i * 375, 280), "up", "fade", 0.5, 0.4, z=12, name=f"kesanE {i}")
-            S(tk, "sfx_pop", 0.2)
+        stack([{"img": keypoint_card(f"KESAN {i + 1}", ti, bd, accent=GOLD, w=900), "t0": A(kk, "E", after=t_kesanE) or t_kesanE + 3 + 10 * i,
+                 "t1": sec_end("E"), "name": f"kesanE {i}", "snd": "sfx_pop", "sg": 0.2} for i, (ti, bd, kk) in enumerate(ks)], top=230, gap=30, bottom=880)
 
     # =================================================================
     # F – JENIS 3: BAHASA ROJAK
@@ -551,10 +541,10 @@ def build(P, T, A, G, gaps_by, R):
             card(hd2, t_jaw, t_c1, (70, 90), "left", snd=None, name="fungsi hd")
             fn = [("Inti frasa kerja", "nak [r:SHARE]"), ("Kata hubung", "[r:SO], [r:BECAUSE]"), ("Penerang", "[r:BEST GILA], [r:ONLY]"), ("Kata ganti nama", "[r:KORANG]")]
             for i, (a, b) in enumerate(fn):
-                img = list_item(i + 1, f"{a}:  {b}", PURPLE, w=1000)
+                img = list_item(i + 1, f"{a}:  {b}", PURPLE, w=900)
                 L(img, t_jaw + 1.5 + i * 1.6, t_c1, (70, 290 + i * 98), "left", "fade", 0.45, 0.4, z=12, name=f"fungsi {i}")
             if t_akib:
-                st = keypoint_card("AKIBATNYA", "Ayat rasmi WAJIB guna bahasa Melayu [Y:BAKU]", None, accent=PURPLE, w=1000)
+                st = keypoint_card("AKIBATNYA", "Ayat rasmi WAJIB guna bahasa Melayu [Y:BAKU]", None, accent=PURPLE, w=900)
                 card(st, t_akib, t_c1, left_pos(st, 700), "up", name="baku")
     exF = [("hari ini team kami nak share", "Harini [r:team] kami [r:nak share] cara [r:buat] kek.", "Hari ini [g:pasukan] kami [g:ingin berkongsi] cara [g:membuat] kek.", "YouTube • tajuk video",
             "Inti subjek [R:“team”] & inti predikat [R:“share”] ialah bahasa Inggeris; “nak”, “buat” = bentuk basahan."),
@@ -575,20 +565,20 @@ def build(P, T, A, G, gaps_by, R):
         _, wrong, right, lbl, ana = exF[i]
         te = endsF[i] or ts + 15
         P.set_mode(ts - 0.4, te, "split")
-        items = [{"img": sentence_box("salah", wrong, w=1080, label=lbl, size=38), "t0": ts, "t1": te, "name": f"F salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
-                 {"img": analysis_box(ana, w=1080, size=27), "t0": ts + 3.0, "t1": te, "ain": "up", "name": f"F analisis {i + 1}"}]
+        items = [{"img": sentence_box("salah", wrong, w=900, label=lbl, size=38), "t0": ts, "t1": te, "name": f"F salah {i + 1}", "snd": "sfx_fail", "sg": 0.12},
+                 {"img": analysis_box(ana, w=900, size=30), "t0": ts + 3.0, "t1": te, "ain": "up", "name": f"F analisis {i + 1}"}]
         tr = A("Ayat yang betul", "F", after=ts) or A("Ayat betul", "F", after=ts)
         if tr and tr < te:
-            items.append({"img": sentence_box("betul", right, w=1080, size=38), "t0": tr, "t1": te, "name": f"F betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
+            items.append({"img": sentence_box("betul", right, w=900, size=38), "t0": tr, "t1": te, "name": f"F betul {i + 1}", "snd": "sfx_success", "sg": 0.12})
         stack(items, top=70, gap=30)
     if tF[1] and tF[3]:
         te = tF[3]
         P.set_mode(tF[1] - 0.4, te, "split")
         tr = A("Ayat betul ialah secara keseluruhan", "F") or A("secara keseluruhan", "F", after=tF[1])
-        stack([{"img": sentence_box("salah", exF[1][1], w=1080, label=exF[1][3], size=32), "t0": tF[1], "t1": te, "name": "F salah 2", "snd": "sfx_fail", "sg": 0.12},
-               {"img": sentence_box("salah", exF[2][1], w=1080, label=exF[2][3], size=32), "t0": tF[2] or tF[1] + 3, "t1": te, "name": "F salah 3", "snd": "sfx_fail", "sg": 0.1},
-               {"img": sentence_box("betul", exF[1][2], w=1080, size=32), "t0": tr, "t1": te, "name": "F betul 2"},
-               {"img": sentence_box("betul", exF[2][2], w=1080, size=32), "t0": (tr + 0.4) if tr else None, "t1": te, "name": "F betul 3", "snd": "sfx_success", "sg": 0.12}],
+        stack([{"img": sentence_box("salah", exF[1][1], w=900, label=exF[1][3], size=32), "t0": tF[1], "t1": te, "name": "F salah 2", "snd": "sfx_fail", "sg": 0.12},
+               {"img": sentence_box("salah", exF[2][1], w=900, label=exF[2][3], size=32), "t0": tF[2] or tF[1] + 3, "t1": te, "name": "F salah 3", "snd": "sfx_fail", "sg": 0.1},
+               {"img": sentence_box("betul", exF[1][2], w=900, size=32), "t0": tr, "t1": te, "name": "F betul 2"},
+               {"img": sentence_box("betul", exF[2][2], w=900, size=32), "t0": (tr + 0.4) if tr else None, "t1": te, "name": "F betul 3", "snd": "sfx_success", "sg": 0.12}],
               top=70, gap=26)
     if t_kesanF:
         t_rum = A("Secara keseluruhan", "F", after=t_kesanF)
@@ -597,17 +587,14 @@ def build(P, T, A, G, gaps_by, R):
         card(hd, t_kesanF, t_rum, (70, 90), "left", snd=None, name="kesan F hd")
         ks = [("Martabat bahasa terjejas", "Perkara 152 Perlembagaan Persekutuan.", "Yang pertama"), ("Kosa kata hilang", "submit/share/busy ≠ menghantar/berkongsi/sibuk", "Yang kedua"),
               ("Terbawa ke situasi rasmi", "Karangan, surat rasmi, peperiksaan.", "Yang ketiga"), ("Dianggap betul", "Generasi akan datang menormalkannya.", "yang keempat")]
-        for i, (ti, bd, kk) in enumerate(ks):
-            tk = A(kk, "F", after=t_kesanF) or t_kesanF + 3 + 9 * i
-            nc = numbered_card(i + 1, ti, bd, PURPLE, w=520, h=270)
-            L(nc, tk, t_rum, (30 + (i % 2) * 565, 230 + (i // 2) * 305), "scale", "fade", 0.5, 0.4, z=12, name=f"kesanF {i}")
-            S(tk, "sfx_pop", 0.2)
+        stack([{"img": keypoint_card(f"KESAN {i + 1}", ti, bd, accent=PURPLE, w=900), "t0": A(kk, "F", after=t_kesanF) or t_kesanF + 3 + 9 * i,
+                 "t1": t_rum, "name": f"kesanF {i}", "snd": "sfx_pop", "sg": 0.2} for i, (ti, bd, kk) in enumerate(ks)], top=210, gap=24, bottom=880)
         if t_rum:
             fr = formula_row([block("3 JENIS KESALAHAN", "SATU PERSAMAAN", RED, w=470, h=150, tsize=40), "→",
                               block("SUBJEK ✗ PREDIKAT", "HUBUNGAN DIROSAKKAN", NAVY, w=520, h=150, tsize=40)], op_size=56)
             card(fr, t_rum, sec_end("F"), left_pos(fr, 200), "scale", name="rumusan")
             tsr = A("sekolah rendah", "F", after=t_rum, nth=1)
-            k = keypoint_card("KESIMPULAN ISU", "Usaha membasmi kerancuan mesti bermula di [Y:SEKOLAH RENDAH]", None, accent=GOLD, w=1000)
+            k = keypoint_card("KESIMPULAN ISU", "Usaha membasmi kerancuan mesti bermula di [Y:SEKOLAH RENDAH]", None, accent=GOLD, w=900)
             card(k, A("Oleh itu, kami percaya", "F") or t_rum + 10, sec_end("F"), left_pos(k, 460), "up", name="sekolah rendah")
 
     # =================================================================
@@ -621,7 +608,7 @@ def build(P, T, A, G, gaps_by, R):
     t_dunia = A("Dunia ini dibina berdasarkan bukti", "G")
     t_sek = A("Sekarang, kami akan", "G") or A("Sekarang", "G", after=t_dunia)
     if t_bina:
-        P.gshots(t_bina - 0.3, t_pilih, [(1057.0, 1085.0, "t")], "G-lobi", cam={"zoom": (1.0, 1.08)})
+        P.gshots(t_bina - 0.3, t_pilih, [(1057.0, 1085.0, "t")], "G-lobi", cam={})
         tp = big_word("MISI PENYELAMAT AYAT", WHITE, 92, "mk", stroke=5, stroke_fill=GREEN_DEEP)
         card(tp, A("Misi Penyelamat Ayat", "G", after=t_bina) or t_bina + 3, t_pilih, center_pos(tp, 700), "scale", name="G judul", snd="sfx_impact", sg=0.25)
         P.pips.append({"t0": t_bina - 0.3, "t1": t_pilih, "label": None})
@@ -633,27 +620,29 @@ def build(P, T, A, G, gaps_by, R):
               ("Belajar melalui permainan", "Misi, markah, pingat & papan kedudukan.", "medal", "akhir sekali")]
         for i, (ti, bd, ic, kk) in enumerate(rs):
             tk = A(kk, "G", after=t_pilih) or t_pilih + 3 + 8 * i
-            c = icon_card(i + 1, ti, bd, ic, LGREEN, w=1000, h=190)
+            c = icon_card(i + 1, ti, bd, ic, LGREEN, w=900, h=190)
             L(c, tk, t_dunia, (50, 250 + i * 215), "left", "fade", 0.5, 0.4, z=12, name=f"mc sebab {i}")
             S(tk, "sfx_pop", 0.2)
     if t_dunia:
-        P.gshots(t_dunia - 0.3, t_sek, [(135.0, 172.0, "t")], "G-gerbang", cam={"zoom": (1.0, 1.06)})
+        P.gshots(t_dunia - 0.3, t_sek, [(135.0, 172.0, "t")], "G-gerbang", cam={})
         P.pips.append({"t0": t_dunia - 0.3, "t1": t_sek, "label": None})
-        fl = formula_row([block("BUKTI MEDIA SOSIAL", "", NAVY, w=420, h=120, tsize=34), "→", block("3 JENIS KESALAHAN", "", RED, w=420, h=120, tsize=34), "→",
-                          block("3 MISI PERMAINAN", "", PURPLE, w=420, h=120, tsize=34)], op_size=48)
-        card(fl, t_dunia, A("Contohnya", "G", after=t_dunia) or t_dunia + 9, center_pos(fl, 120), "scale", name="aliran bukti")
-        for i, (nm, c) in enumerate([("MISI 1: AYAT TANPA SUBJEK", RED), ("MISI 2: AYAT TIDAK LENGKAP", GOLD), ("MISI 3: BAHASA ROJAK", PURPLE)]):
-            tk = (A("dijadikan sebagai tiga misi", "G") or t_dunia + 5) + i * 0.6
-            ch = chip(nm, c, 32, fg=INK if c == GOLD else WHITE)
-            L(ch, tk, (A("Contohnya", "G", after=t_dunia) or tk + 6) + 1.5, (130 + i * 570 - (60 if i == 2 else 0), 290), "pop", "fade", 0.4, 0.4, z=13, name=f"misi chip {i}")
-            S(tk, "sfx_tick", 0.2)
+        t_cth = A("Contohnya", "G", after=t_dunia) or t_dunia + 9
+        P.pips[-1]["pos"] = (1920 - 448 - 36, 1080 - 252 - 190)
+        fl = formula_row([block("BUKTI MEDIA SOSIAL", "", NAVY, w=470, h=120, tsize=34), "→", block("3 JENIS KESALAHAN", "", RED, w=470, h=120, tsize=34), "→",
+                          block("3 MISI PERMAINAN", "", PURPLE, w=470, h=120, tsize=34)], op_size=48)
+        card(fl, t_dunia, t_cth + 1.5, center_pos(fl, 60), "scale", name="aliran bukti")
+        t_m = A("dijadikan sebagai tiga misi", "G") or t_dunia + 5
+        stack([{"img": chip(nm, c, 34, fg=INK if c == GOLD else WHITE), "t0": t_m + i * 0.6, "t1": t_cth + 1.5, "ain": "pop", "name": f"misi chip {i}", "snd": "sfx_tick", "sg": 0.2}
+               for i, (nm, c) in enumerate([("MISI 1: AYAT TANPA SUBJEK", RED), ("MISI 2: AYAT TIDAK LENGKAP", GOLD), ("MISI 3: BAHASA ROJAK", PURPLE)])],
+              top=260, gap=22, bottom=600, area=(40, 760), z=13)
         tf = A("Setiap jawapan murid", "G")
-        feats = ["Galeri isu", "3 misi", "Maklum balas segera", "Markah & pingat", "MAIN INDIVIDU", "MAIN BERKUMPULAN", "Laporan guru"]
+        feats = ["Galeri isu", "3 misi", "Maklum balas segera", "Markah & pingat", "Main individu", "Main berkumpulan", "Laporan guru"]
         if tf:
-            for i, f_ in enumerate(feats):
-                c = [NAVY, PURPLE, (46, 160, 70), GOLD, (46, 160, 70), PURPLE, RED][i]
-                ch = chip(f_, c, 28, fg=INK if c == GOLD else WHITE)
-                L(ch, tf + i * 0.35, t_sek, (100 + (i % 4) * 430, 170 + (i // 4) * 100), "pop", "fade", 0.35, 0.4, z=13, name=f"ciri {f_}")
+            cols_ = [NAVY, PURPLE, (46, 160, 70), GOLD, (46, 160, 70), PURPLE, RED]
+            for col in range(2):
+                idx = [i for i in range(len(feats)) if i % 2 == col]
+                stack([{"img": chip(feats[i], cols_[i], 32, fg=INK if cols_[i] == GOLD else WHITE), "t0": tf + i * 0.35, "t1": t_sek, "ain": "pop", "name": f"ciri {feats[i]}"}
+                       for i in idx], top=90, gap=20, bottom=620, area=(40 + col * 480, 40 + col * 480 + 460), z=13)
     if t_sek:
         tb = big_word("MULA DEMONSTRASI", GOLD, 84, "mk", stroke=5, stroke_fill=INK)
         card(tb, t_sek, sec_end("G") + 0.2, center_pos(tb, 380), "scale", name="mula demo", snd="sfx_riser", sg=0.35)
@@ -669,11 +658,11 @@ def build(P, T, A, G, gaps_by, R):
     S(sh["t0"], "sfx_whoosh", 0.35)
     h0, h1 = sec_start("H1"), sec_end("H6")
     P.sub_margin.append((sh["t0"], h1 + 8.0, 380, 380))
-    P.pips.append({"t0": h0 - 0.2, "t1": h1 + 0.3, "label": None, "size": (352, 198), "pos": (1920 - 352 - 14, 1080 - 198 - 10)})
+    P.pips.append({"t0": h0 - 0.2, "t1": h1 + 0.3, "label": None, "size": (320, 180), "pos": (1920 - 320 - 12, 900)})
     spk = {"H1": ALIFF_, "H2": AMIN_, "H3": IMAN_, "H4": AMIN_, "H5": AMIN_, "H6": AMIN_}
     for k_, (nm, rl) in spk.items():
         pl = pill(nm.split(" bin ")[0], F("mb", 20), fg=WHITE, bg=(20, 20, 30))
-        L(pl, sec_start(k_) + 0.2, sec_end(k_), (1920 - 352 - 14 + 8, 1080 - 198 - 10 + 8), "fade", "fade", 0.4, 0.3, z=22, name=f"pip nama {k_}")
+        L(pl, sec_start(k_) + 0.2, sec_end(k_), (1920 - 320 - 12 + 8, 908), "fade", "fade", 0.4, 0.3, z=22, name=f"pip nama {k_}")
 
     def beats(sec, plan):
         """plan: (frasa_penambat, shots, cam[, file]) ; tamat pada penambat seterusnya."""
@@ -707,50 +696,50 @@ def build(P, T, A, G, gaps_by, R):
 
     # ---- H1 – Lobi & galeri ----
     beats("H1", [
-        (None, [(14.0, 22.0, "k"), (33.0, 41.0, "k")], {"zoom": (1.0, 1.06)}),
+        (None, [(14.0, 22.0, "k"), (33.0, 41.0, "k")], {}),
         ("Apabila murid mendekati watak", [(41.0, 67.0, "t")], {}),
-        ("Poster di dinding sebelah utara", [(88.0, 100.0, "k")], {"zoom": (1.0, 1.12)}),
-        ("Dan Jenis yang kedua", [(100.5, 108.0, "k")], {"zoom": (1.0, 1.12)}),
-        ("Dan akhir sekali Jenis ketiga", [(108.0, 117.0, "k")], {"zoom": (1.0, 1.12)}),
+        ("Poster di dinding sebelah utara", [(88.0, 100.0, "k")], {}),
+        ("Dan Jenis yang kedua", [(100.5, 108.0, "k")], {}),
+        ("Dan akhir sekali Jenis ketiga", [(108.0, 117.0, "k")], {}),
         ("kiri dan kanan pula", [(67.0, 76.0, "t")], {}),
         ("Contohnya, kapsyen kepada yang berminat", [(76.0, 86.0, "k")], {"zoom": (1.15, 1.4), "center": (960, 520)}),
         ("Galeri ini penting", [(121.0, 133.0, "t")], {}),
     ])
     tgal = A("kiri dan kanan pula", "H1"); tgp = A("Galeri ini penting", "H1")
     side(tgal, tgp)
-    rc_stack([{"img": keypoint_card("GALERI ISU", "Paparan telefon: [R:MEDIA SOSIAL] → [Y:ISU] → [G:AYAT BETUL]", "Kapsyen sebenar daripada bukti media sosial.", accent=PURPLE, w=540),
+    rc_stack([{"img": keypoint_card("GALERI ISU", "Paparan telefon: [R:MEDIA SOSIAL] → [Y:ISU] → [G:AYAT BETUL]", "Kapsyen sebenar daripada bukti media sosial.", accent=PURPLE, w=600),
                "t0": (tgal or 0) + 0.6, "t1": tgp, "name": "galeri kad", "ain": "right"}])
     # ---- H2 – mod & markah ----
     gapfill("h-mid", [(130.0, 135.0, "t")], 0)
     beats("H2", [
         (None, [(134.0, 158.0, "t")], {}),
-        ("Untuk bermain secara berkumpulan", [(158.0, 170.0, "k")], {"zoom": (1.0, 1.1)}),
-        ("Sebelum bermula", [(0.0, 7.5, "k")], {"zoom": (1.0, 1.08)}, "sg"),
-        ("Sistem markahnya mudah", [(116.5, 125.0, "k")], {"zoom": (1.25, 1.3), "center": (700, 520)}),
+        ("Untuk bermain secara berkumpulan", [(158.0, 170.0, "k")], {}),
+        ("Sebelum bermula", [(0.0, 7.5, "k")], {}, "sg"),
+        ("Sistem markahnya mudah", [(116.5, 125.0, "k")], {}),
     ])
     tm = A("Murid boleh memilih", "H2"); tsb = A("Sebelum bermula", "H2"); tsk = A("Sistem markahnya mudah", "H2")
     side(tm, sec_end("H2"))
-    rc_stack([{"img": keypoint_card("MAIN INDIVIDU", "Gerbang [G:HIJAU] • blok zamrud", None, accent=LGREEN, w=540), "t0": A("Untuk bermain secara individu", "H2") or tm, "t1": tsb, "name": "mod individu", "ain": "right"},
-              {"img": keypoint_card("MAIN BERKUMPULAN", "Gerbang [P:UNGU] • bulu warna", "Merah / biru / hijau / kuning • markah dikongsi.", accent=PURPLE, w=540),
+    rc_stack([{"img": keypoint_card("MAIN INDIVIDU", "Gerbang [G:HIJAU] • blok zamrud", None, accent=LGREEN, w=600), "t0": A("Untuk bermain secara individu", "H2") or tm, "t1": tsb, "name": "mod individu", "ain": "right"},
+              {"img": keypoint_card("MAIN BERKUMPULAN", "Gerbang [P:UNGU] • bulu warna", "Merah / biru / hijau / kuning • markah dikongsi.", accent=PURPLE, w=600),
                "t0": A("Untuk bermain secara berkumpulan", "H2") or tm + 4, "t1": tsb, "name": "mod kumpulan", "ain": "right"}])
-    rc_stack([{"img": keypoint_card("PETAK LATIHAN", "Pijak [Y:BLOK EMAS] untuk membiasakan diri", None, accent=GOLD, w=540), "t0": tsb, "t1": tsk, "name": "blok emas", "ain": "right"}])
+    rc_stack([{"img": keypoint_card("PETAK LATIHAN", "Pijak [Y:BLOK EMAS] untuk membiasakan diri", None, accent=GOLD, w=600), "t0": tsb, "t1": tsk, "name": "blok emas", "ain": "right"}])
     if tsk:
-        rc_stack([{"img": keypoint_card("BETUL", "[G:+100] markah", None, accent=LGREEN, w=540), "t0": A("diberi tambahan", "H2") or tsk + 1.5, "t1": sec_end("H2") + 0.3, "name": "+100 sistem", "snd": "sfx_success", "sg": 0.2, "ain": "right"},
-                  {"img": keypoint_card("SALAH", "[R:−50] markah", None, accent=RED, w=540), "t0": A("ditolak 50 markah", "H2") or tsk + 4, "t1": sec_end("H2") + 0.3, "name": "-50 sistem", "snd": "sfx_fail", "sg": 0.2, "ain": "right"},
-                  {"img": keypoint_card("PERATURAN", "[Y:5 betul] → jenis seterusnya", "Setiap jenis ada [Y:10 soalan].", accent=GOLD, w=540),
+        rc_stack([{"img": keypoint_card("BETUL", "[G:+100] markah", None, accent=LGREEN, w=600), "t0": A("diberi tambahan", "H2") or tsk + 1.5, "t1": sec_end("H2") + 0.3, "name": "+100 sistem", "snd": "sfx_success", "sg": 0.2, "ain": "right"},
+                  {"img": keypoint_card("SALAH", "[R:−50] markah", None, accent=RED, w=600), "t0": A("ditolak 50 markah", "H2") or tsk + 4, "t1": sec_end("H2") + 0.3, "name": "-50 sistem", "snd": "sfx_fail", "sg": 0.2, "ain": "right"},
+                  {"img": keypoint_card("PERATURAN", "[Y:5 betul] → jenis seterusnya", "Setiap jenis ada [Y:10 soalan].", accent=GOLD, w=600),
                    "t0": A("Murid perlu menjawab 5 soalan", "H2") or tsk + 7, "t1": sec_end("H2") + 0.3, "name": "peraturan", "ain": "right"}])
     # ---- H3 – Misi 1 ----
     gapfill("h-mid", [(172.0, 176.0, "k")], 1)
     beats("H3", [
         (None, [(176.0, 192.0, "k")], {}),
-        ("Papan ini mengingatkan", [(192.0, 203.0, "t")], {"zoom": (1.15, 1.15), "center": (960, 480)}),
+        ("Papan ini mengingatkan", [(192.0, 203.0, "t")], {}),
         ("Masa membaca ini sengaja", [(203.0, 206.0, "t")], {}),
-        ("Soalan pertama", [(206.0, 224.0, "k")], {"zoom": (1.0, 1.08), "center": (960, 450)}),
+        ("Soalan pertama", [(206.0, 224.0, "k")], {}),
         ("Murid menjawab dengan memijak", [(224.0, 238.6, "t")], {}),
-        ("Jawapan betul", [(238.6, 246.0, "k")], {"punch": [(0.6, 4.0, 1.25, (960, 420))]}),
+        ("Jawapan betul", [(238.6, 246.0, "k")], {}),
         ("Sekarang, saya tunjukkan", [(246.0, 260.0, "k")], {}),
         ("Saya sengaja memilih murid", [(624.0, 628.9, "t")], {}),
-        ("Jawapan salah", [(628.9, 634.5, "k")], {"punch": [(0.6, 4.6, 1.25, (960, 420))]}),
+        ("Jawapan salah", [(628.9, 634.5, "k")], {}),
         ("Melalui cara ini", [(634.5, 648.0, "t")], {}),
         ("Jika murid mahu mencuba soalan lain", [(648.0, 651.6, "k")], {}),
     ])
@@ -766,7 +755,7 @@ def build(P, T, A, G, gaps_by, R):
     P.gshots(gu["t0"], gu["t1"], [(651.6, 656.0, "k")], "ulang", pip=False)
     tj = A("Jika murid mahu mencuba soalan lain", "H3")
     side(tj, gu["t1"])
-    rc_stack([{"img": keypoint_card("JAWAPAN SALAH?", "Pijak [B:BLOK BIRU] (ULANG)", "Murid terus ke [Y:soalan seterusnya] – tidak tersekat.", accent=BLUE, w=540),
+    rc_stack([{"img": keypoint_card("JAWAPAN SALAH?", "Pijak [B:BLOK BIRU] (ULANG)", "Murid terus ke [Y:soalan seterusnya] – tidak tersekat.", accent=BLUE, w=600),
                "t0": tj, "t1": gu["t1"] + 0.2, "name": "blok biru", "snd": "sfx_pop", "sg": 0.2, "ain": "right"}])
     # peralihan Misi 1 → 2
     gg = g("m1-done")
@@ -777,28 +766,28 @@ def build(P, T, A, G, gaps_by, R):
     # ---- H4 – Misi 2 (selari dengan penerangan Amin) ----
     beats("H4", [
         (None, [(385.0, 410.0, "t")], {}),
-        ("Soalan pertama", [(410.0, 426.5, "k")], {"zoom": (1.0, 1.08), "center": (960, 450)}),
+        ("Soalan pertama", [(410.0, 426.5, "k")], {}),
         ("Murid perlu membuka Peti satu", [(426.5, 445.0, "t")], {}),
-        ("Saya ambil", [(445.0, 456.0, "k")], {"zoom": (1.0, 1.25), "center": (960, 520)}),
-        ("terletak di hujung kampung daripada Peti dua", [(456.0, 463.0, "t"), (463.0, 473.0, "k")], {"zoom": (1.0, 1.2), "center": (960, 520)}),
+        ("Saya ambil", [(445.0, 456.0, "k")], {}),
+        ("terletak di hujung kampung daripada Peti dua", [(456.0, 463.0, "t"), (463.0, 473.0, "k")], {}),
         ("Kemudian, saya letakkan", [(473.0, 478.7, "k")], {}),
-        ("Jawapan terus disemak", [(478.7, 486.0, "k")], {"punch": [(0.6, 3.6, 1.25, (960, 420))]}),
-        ("Perhatikan bahawa peti juga", [(446.3, 453.5, "k"), (463.3, 470.5, "k")], {"zoom": (1.35, 1.4), "center": (960, 520)}),
+        ("Jawapan terus disemak", [(478.7, 486.0, "k")], {}),
+        ("Perhatikan bahawa peti juga", [(446.3, 453.5, "k"), (463.3, 470.5, "k")], {"zoom": (1.15, 1.15), "center": (960, 520)}),
         ("Jika murid tersalah susun", [(640.0, 652.0, "t")], {"zoom": (1.3, 1.35), "center": (620, 640)}),
     ])
     plus100(478.93)
     tq = A("Soalan pertama", "H4"); tpb = A("Murid perlu membuka Peti satu", "H4"); tjd = A("Jawapan terus disemak", "H4")
     tpe = A("Perhatikan bahawa peti juga", "H4"); tss = A("Jika murid tersalah susun", "H4")
     side(tq, tpb)
-    rc_stack([{"img": sentence_box("salah", "Rumah Ali yang besar di hujung kampung itu.", w=560, label="Soalan 1", size=28), "t0": tq + 0.3 if tq else None, "t1": tpb, "name": "soalan rumah ali", "snd": None, "ain": "right"},
-              {"img": keypoint_card("MENGAPA SALAH?", "[R:Tiada predikat]", None, accent=RED, w=540), "t0": A("Ayat ini tidak lengkap", "H4"), "t1": tpb, "name": "tiada predikat", "ain": "right"}])
+    rc_stack([{"img": sentence_box("salah", "Rumah Ali yang besar di hujung kampung itu.", w=616, label="Soalan 1", size=32), "t0": tq + 0.3 if tq else None, "t1": tpb, "name": "soalan rumah ali", "snd": None, "ain": "right"},
+              {"img": keypoint_card("MENGAPA SALAH?", "[R:Tiada predikat]", None, accent=RED, w=600), "t0": A("Ayat ini tidak lengkap", "H4"), "t1": tpb, "name": "tiada predikat", "ain": "right"}])
     side(tjd, tss)
     rc_stack([{"img": formula_row([block("Rumah Ali yang besar itu", "SUBJEK", BLUE, w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 3.4, "t1": tpe, "name": "S", "ain": "right"},
               {"img": formula_row([block("terletak di hujung kampung.", "PREDIKAT", (46, 160, 70), w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 4.0, "t1": tpe, "name": "P", "ain": "right"}])
-    rc_stack([{"img": keypoint_card("PILIHAN PENGECOH", "“Kerana rumah Ali”", "Klausa [R:tergantung].", accent=RED, w=540), "t0": (tpe or 0) + 1.5, "t1": tss, "name": "pengecoh1", "ain": "right"},
-              {"img": keypoint_card("PILIHAN PENGECOH", "“yang di hujung kampung”", "Masih [R:tiada predikat].", accent=RED, w=540), "t0": (tpe or 0) + 2.5, "t1": tss, "name": "pengecoh2", "ain": "right"}])
+    rc_stack([{"img": keypoint_card("PILIHAN PENGECOH", "“Kerana rumah Ali”", "Klausa [R:tergantung].", accent=RED, w=600), "t0": (tpe or 0) + 1.5, "t1": tss, "name": "pengecoh1", "ain": "right"},
+              {"img": keypoint_card("PILIHAN PENGECOH", "“yang di hujung kampung”", "Masih [R:tiada predikat].", accent=RED, w=600), "t0": (tpe or 0) + 2.5, "t1": tss, "name": "pengecoh2", "ain": "right"}])
     side(tss, sec_end("H4"))
-    rc_stack([{"img": keypoint_card("TERSALAH SUSUN?", "Pijak blok [P:SET SEMULA]", "Peti diisi semula, bingkai dikosongkan.", accent=PURPLE, w=540), "t0": tss, "t1": sec_end("H4") + 0.2, "name": "set semula", "ain": "right"}])
+    rc_stack([{"img": keypoint_card("TERSALAH SUSUN?", "Pijak blok [P:SET SEMULA]", "Peti diisi semula, bingkai dikosongkan.", accent=PURPLE, w=600), "t0": tss, "t1": sec_end("H4") + 0.2, "name": "set semula", "ain": "right"}])
     # peralihan Misi 2 → 3
     gg = g("m2-done")
     P.gshots(gg["t0"], gg["t1"], [(735.0, 745.0, "t")], "M2 selesai", cam={"zoom": (1.15, 1.0)}, pip=False)
@@ -808,17 +797,17 @@ def build(P, T, A, G, gaps_by, R):
     # ---- H5 – Misi 3 ----
     beats("H5", [
         (None, [(745.0, 774.0, "t")], {}),
-        ("Soalan pertama ialah", [(774.0, 788.0, "k")], {"zoom": (1.0, 1.08), "center": (960, 450)}),
+        ("Soalan pertama ialah", [(774.0, 788.0, "k")], {}),
         ("Saya melompat ke platform A", [(812.7, 816.7, "k")], {}),
-        ("Jawapan betul", [(816.7, 822.0, "k")], {"punch": [(0.6, 3.6, 1.25, (960, 420))]}),
+        ("Jawapan betul", [(816.7, 822.0, "k")], {}),
         ("Jika murid jatuh ke dalam air", [(923.2, 928.6, "k")], {}),
         ("Setiap bilik mempunyai laluan", [(822.0, 905.0, "t")], {}),
     ])
     plus100(816.9)
     t1q = A("Soalan pertama ialah", "H5"); tml = A("Saya melompat ke platform A", "H5")
     side(t1q, tml)
-    rc_stack([{"img": sentence_box("salah", "Saya sangat [r:happy] kerana dapat hadiah.", w=560, label="Soalan 1", size=28), "t0": (t1q or 0) + 0.3, "t1": tml, "name": "soalan happy", "ain": "right"},
-              {"img": keypoint_card("PILIHAN", "gembira  •  happy  •  marah", None, accent=PURPLE, w=540), "t0": A("Pilihannya ialah", "H5"), "t1": tml, "name": "pilihan", "ain": "right"}])
+    rc_stack([{"img": sentence_box("salah", "Saya sangat [r:happy] kerana dapat hadiah.", w=616, label="Soalan 1", size=32), "t0": (t1q or 0) + 0.3, "t1": tml, "name": "soalan happy", "ain": "right"},
+              {"img": keypoint_card("PILIHAN", "gembira  •  happy  •  marah", None, accent=PURPLE, w=600), "t0": A("Pilihannya ialah", "H5"), "t1": tml, "name": "pilihan", "ain": "right"}])
     tw_ = A("Jika murid jatuh ke dalam air", "H5")
     if tw_:
         lb = pill("Jatuh ke air: kembali ke permulaan", F("mb", 22), fg=WHITE, bg=(30, 90, 170))
@@ -832,7 +821,7 @@ def build(P, T, A, G, gaps_by, R):
     # ---- H6 – keputusan, pingat, pentas, Sudut Guru ----
     gapfill("h-mid", [(986.0, 989.5, "t")], 2)
     beats("H6", [
-        (None, [(989.5, 996.5, "k")], {"zoom": (1.0, 1.06)}),
+        (None, [(989.5, 996.5, "k")], {}),
         ("Keputusan murid dipaparkan", [(996.5, 1003.0, "k")], {"punch": [(0.5, 5.0, 1.5, (560, 320))]}),
         ("Murid yang membuat kesalahan", [(1003.0, 1012.8, "k")], {}),
         ("Papan kedudukan memaparkan", [(1021.0, 1030.0, "t"), (1044.0, 1048.0, "k")], {}),
@@ -850,19 +839,19 @@ def build(P, T, A, G, gaps_by, R):
         side(tm, tp_)
         med = [("EMAS", (247, 196, 58), "Salah 0–3 kali", "+300", tm), ("PERAK", (200, 205, 215), "Salah 4–7 kali", "+150", A("Murid yang membuat kesalahan", "H6", nth=2) or tm + 6),
                ("GANGSA", (205, 127, 50), "Salah 8 kali ke atas", "+0", A("selebihnya", "H6") or tm + 12)]
-        rc_stack([{"img": medal_small(n, c, a_, b_, w=560), "t0": t_, "t1": tp_, "name": f"pingat {n}", "snd": "sfx_success", "sg": 0.22, "ain": "right"} for n, c, a_, b_, t_ in med],
+        rc_stack([{"img": medal_small(n, c, a_, b_, w=616), "t0": t_, "t1": tp_, "name": f"pingat {n}", "snd": "sfx_success", "sg": 0.22, "ain": "right"} for n, c, a_, b_, t_ in med],
                  top=110, gap=34)
     tg = A("Dunia ini juga mesra guru", "H6"); tsg = A("Di Sudut Guru", "H6")
     if tg:
         side(tg, tsg)
-        rc_stack([{"img": keypoint_card("KELUAR", "Pijak [B:BLOK BESI]", "Kemajuan murid disimpan.", accent=(150, 160, 175), w=540), "t0": A("blok besi", "H6") or tg + 2, "t1": tsg, "name": "besi", "ain": "right"},
-                  {"img": keypoint_card("SAMBUNG MISI", "Pijak [Y:GLOWSTONE]", None, accent=GOLD, w=540), "t0": A("Pada sesi seterusnya", "H6") or tg + 5, "t1": tsg, "name": "glowstone", "ain": "right"}])
+        rc_stack([{"img": keypoint_card("KELUAR", "Pijak [B:BLOK BESI]", "Kemajuan murid disimpan.", accent=(150, 160, 175), w=600), "t0": A("blok besi", "H6") or tg + 2, "t1": tsg, "name": "besi", "ain": "right"},
+                  {"img": keypoint_card("SAMBUNG MISI", "Pijak [Y:GLOWSTONE]", None, accent=GOLD, w=600), "t0": A("Pada sesi seterusnya", "H6") or tg + 5, "t1": tsg, "name": "glowstone", "ain": "right"}])
     if tsg:
         tlap = A("Melalui laporan ini", "H6")
         side(tsg + 3.0, sec_end("H6") + 0.3)
-        rc_stack([{"img": keypoint_card("SUDUT GURU", "Blok [R:REDSTONE]", "Set semula semua markah.", accent=RED, w=540), "t0": tsg + 3.0, "t1": sec_end("H6") + 0.3, "name": "sg redstone", "ain": "right"},
-                  {"img": keypoint_card("LAPORAN KEMAJUAN", "Markah, betul, salah & misi setiap murid", None, accent=BLUE, w=540), "t0": A("memaparkan laporan", "H6") or tsg + 5, "t1": sec_end("H6") + 0.3, "name": "sg laporan", "ain": "right"},
-                  {"img": keypoint_card("PENGAJARAN SUSULAN", "Kenal pasti kesalahan paling kerap", None, accent=LGREEN, w=540), "t0": tlap or tsg + 8, "t1": sec_end("H6") + 0.3, "name": "sg susulan", "ain": "right"}])
+        rc_stack([{"img": keypoint_card("SUDUT GURU", "Blok [R:REDSTONE]", "Set semula semua markah.", accent=RED, w=600), "t0": tsg + 3.0, "t1": sec_end("H6") + 0.3, "name": "sg redstone", "ain": "right"},
+                  {"img": keypoint_card("LAPORAN KEMAJUAN", "Markah, betul, salah & misi setiap murid", None, accent=BLUE, w=600), "t0": A("memaparkan laporan", "H6") or tsg + 5, "t1": sec_end("H6") + 0.3, "name": "sg laporan", "ain": "right"},
+                  {"img": keypoint_card("PENGAJARAN SUSULAN", "Kenal pasti kesalahan paling kerap", None, accent=LGREEN, w=600), "t0": tlap or tsg + 8, "t1": sec_end("H6") + 0.3, "name": "sg susulan", "ain": "right"}])
 
     # =================================================================
     # I – CADANGAN LAIN
@@ -879,8 +868,8 @@ def build(P, T, A, G, gaps_by, R):
         for i, (tt_, bd, ic, c) in enumerate(cards):
             if ti[i] is None:
                 continue
-            ic_ = icon_card(i + 1, tt_, bd, ic, c, w=1060, h=250)
-            L(ic_, ti[i], sec_end("I"), (50, 80 + i * 270), "left", "fade", 0.55, 0.4, z=12, name=f"cadangan {i + 1}")
+            ic_ = icon_card(i + 1, tt_, bd, ic, c, w=900)
+            stack([{"img": ic_, "t0": ti[i], "t1": sec_end("I"), "name": f"cadangan {i + 1}"}], top=[60, 340, 620][i], gap=20, bottom=[320, 600, 900][i])
             S(ti[i], "sfx_whoosh", 0.2)
 
     # =================================================================
@@ -893,16 +882,14 @@ def build(P, T, A, G, gaps_by, R):
     nodes = [("GURU", "Menggunakan pendekatan pembelajaran berasaskan permainan.", LGREEN, "teacher"),
              ("MURID", "Pengguna media sosial yang celik bahasa.", BLUE, "student"),
              ("MASYARAKAT", "Bangga menggunakan bahasa Melayu yang betul.", GOLD, "people")]
-    for i, (nm, bd, c, ic) in enumerate(nodes):
-        t0_ = tj[i] or sec_start("J") + 2 + 9 * i
-        hn = harapan_node(nm, bd, c, w=340)
-        L(hn, t0_, sec_end("J") + 0.2, (40 + i * 375, 300), "up", "fade", 0.6, 0.4, z=12, name=f"harapan {nm}")
-        L(icon(ic, 110, c), t0_ + 0.2, sec_end("J") + 0.2, (40 + i * 375 + 115, 160), "pop", "fade", 0.5, 0.4, z=12, name=f"ikon {nm}")
-        S(t0_, "sfx_pop", 0.22)
+    hdj = heading("HARAPAN KAMI", "Masa hadapan [Y:bahasa]", 900, GOLD)
+    card(hdj, sec_start("J") + 0.4, sec_end("J") + 0.2, (40, 50), "left", snd=None, name="harapan hd")
+    stack([{"img": icon_card(i + 1, nm, bd, ic, c, w=900, h=190), "t0": tj[i] or sec_start("J") + 2 + 9 * i, "t1": sec_end("J") + 0.2,
+            "name": f"harapan {nm}", "snd": "sfx_pop", "sg": 0.22} for i, (nm, bd, c, ic) in enumerate(nodes)], top=200, gap=26, bottom=860)
     tbd = A("kerana bahasa yang betul", "J")
     if tbd:
-        bn = keypoint_card("BERSAMA", "[Y:Bahasa betul] tetap menarik & dekat dengan khalayak", None, accent=GOLD, w=1080)
-        L(bn, tbd, sec_end("J") + 0.2, (40, 690), "up", "fade", 0.5, 0.3, z=13, name="gabung harapan")
+        bn = keypoint_card("BERSAMA", "[Y:Bahasa betul] tetap menarik & dekat dengan khalayak", None, accent=GOLD, w=900)
+        L(bn, tbd, sec_end("J") + 0.2, (40, 200), "scale", "fade", 0.5, 0.3, z=14, name="gabung harapan")
 
     # =================================================================
     # K – PENUTUP & OUTRO
@@ -911,7 +898,7 @@ def build(P, T, A, G, gaps_by, R):
     tk = A("Kesimpulannya", "K")
     if tk:
         P.set_mode(tk - 0.2, A("Sekali lagi", "K") or tk + 10, "split")
-        k = keypoint_card("KESIMPULAN", "Kerancuan sintaksis [R:bukan isu kecil]", "Ia merosakkan asas ayat – hubungan [B:subjek] dengan [G:predikat].", accent=GOLD, w=1060)
+        k = keypoint_card("KESIMPULAN", "Kerancuan sintaksis [R:bukan isu kecil]", "Ia merosakkan asas ayat – hubungan [B:subjek] dengan [G:predikat].", accent=GOLD, w=900)
         card(k, tk + 0.3, A("Sekali lagi", "K"), left_pos(k, 300), "left", name="kesimpulan K")
     tdr = A("Sekali lagi", "K")
     if tdr:
