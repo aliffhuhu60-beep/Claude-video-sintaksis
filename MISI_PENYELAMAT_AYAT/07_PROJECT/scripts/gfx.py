@@ -680,10 +680,22 @@ def icon(kind, s=110, col=WHITE):
     return im
 
 
-def icon_card(num, title, body, ic, accent=GOLD, w=520, h=None):
+def icon_card(num, title, body, ic, accent=GOLD, w=520, h=None, compact=False):
     ft = F("mx", 38)
     fb = F("pm", 30)
     btok = parse_marked(body, {"font": fb, "color": (215, 225, 238)}, MARKS(30))
+    if compact:  # tajuk + huraian di sebelah ikon; ketinggian ikut kandungan (tiada teks terpotong)
+        tx = 150
+        th = rich_height([(title, {"font": ft})], w - tx - 100, ft)
+        bh = rich_height(btok, w - tx - 40, fb)
+        h = max(150, 30 + th + 10 + bh + 30)
+        im = panel(w, h, fill=(10, 24, 50, 238), accent=accent)
+        d = ImageDraw.Draw(im)
+        im.alpha_composite(icon(ic, 96, accent), (32, (h - 96) // 2))
+        d.text((w - 80, 22), str(num), font=F("mk", 56), fill=accent + (90,))
+        draw_rich(im, (tx, 30), [(title, {"font": ft, "color": WHITE})], w - tx - 100, ft)
+        draw_rich(im, (tx, 30 + th + 10), btok, w - tx - 40, fb)
+        return shadowed(im)[0]
     bh = rich_height(btok, w - 64, fb)
     th = rich_height([(title, {"font": ft})], w - 190, ft)
     h = h or max(170, 40 + max(th, 110) + 20 + bh + 34)

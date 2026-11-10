@@ -21,25 +21,25 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 | Bahagian | Mula | Tamat | Tempoh | Pembentang |
 |---|---|---|---|---|
-| Intro sinematik (perkataan bercelaru → dunia Minecraft → kad tajuk) | 00:00.00 | 00:14.40 | 14.4s | – |
-| A – Pembukaan & penghargaan | 00:14.40 | 01:19.53 | 65.1s | Mohamad Aliff |
-| A – Pengenalan pembentang & aliran | 01:20.03 | 02:11.07 | 51.0s | Aliff, Amin, Iman |
-| B – Pengenalan kerancuan bahasa | 02:12.87 | 04:36.50 | 143.6s | Amin Najmi |
-| C – Bukti media sosial & sebab | 04:38.30 | 07:39.13 | 180.8s | Iman Irfan |
-| D – Jenis 1: Ayat tanpa subjek | 07:40.93 | 10:50.57 | 189.6s | Mohamad Aliff |
-| E – Jenis 2: Ayat tidak lengkap | 10:52.37 | 13:56.70 | 184.3s | Amin Najmi |
-| F – Jenis 3: Bahasa rojak | 13:58.50 | 17:26.67 | 208.2s | Iman Irfan |
-| G – Pengenalan Minecraft Education | 17:28.47 | 19:16.33 | 107.9s | Mohamad Aliff |
-| H1 – Lobi & galeri isu | 19:18.93 | 21:01.70 | 102.8s | Mohamad Aliff |
-| H2 – Mod permainan & markah | 21:02.30 | 21:55.17 | 52.9s | Amin Najmi |
-| H3 – Misi 1 | 21:55.77 | 23:34.50 | 98.7s | Iman Irfan |
-| H4 – Misi 2 | 23:40.70 | 24:52.57 | 71.9s | Amin Najmi |
-| H5 – Misi 3 | 24:55.57 | 25:44.80 | 49.2s | Amin Najmi |
-| H6 – Keputusan & Sudut Guru | 25:45.60 | 26:57.07 | 71.5s | Amin Najmi |
-| I – Cadangan lain | 26:58.87 | 28:40.40 | 101.5s | Mohamad Aliff |
-| J – Harapan | 28:41.80 | 29:19.43 | 37.6s | Mohamad Aliff |
-| K – Penutup | 29:19.83 | 29:43.67 | 23.8s | Mohamad Aliff |
-| Outro (syot berkumpulan + slogan + kad terima kasih & rujukan, fade-out) | 29:43.67 | 30:00.00 | 16.3s | Semua |
+| Intro sinematik (perkataan bercelaru → dunia Minecraft → kad tajuk) | 00:00.00 | 00:15.60 | 15.6s | – |
+| A – Pembukaan & penghargaan | 00:15.60 | 01:20.73 | 65.1s | Mohamad Aliff |
+| A – Pengenalan pembentang & aliran | 01:21.23 | 02:12.47 | 51.2s | Aliff, Amin, Iman |
+| B – Pengenalan kerancuan bahasa | 02:14.27 | 04:37.90 | 143.6s | Amin Najmi |
+| C – Bukti media sosial & sebab | 04:39.70 | 07:40.53 | 180.8s | Iman Irfan |
+| D – Jenis 1: Ayat tanpa subjek | 07:42.33 | 10:51.97 | 189.6s | Mohamad Aliff |
+| E – Jenis 2: Ayat tidak lengkap | 10:53.77 | 13:58.10 | 184.3s | Amin Najmi |
+| F – Jenis 3: Bahasa rojak | 13:59.90 | 17:28.07 | 208.2s | Iman Irfan |
+| G – Pengenalan Minecraft Education | 17:29.87 | 19:17.73 | 107.9s | Mohamad Aliff |
+| H1 – Lobi & galeri isu | 19:20.33 | 21:03.10 | 102.8s | Mohamad Aliff |
+| H2 – Mod permainan & markah | 21:03.70 | 21:56.57 | 52.9s | Amin Najmi |
+| H3 – Misi 1 | 21:57.17 | 23:35.97 | 98.8s | Iman Irfan |
+| H4 – Misi 2 | 23:42.17 | 24:54.03 | 71.9s | Amin Najmi |
+| H5 – Misi 3 | 24:57.03 | 25:46.27 | 49.2s | Amin Najmi |
+| H6 – Keputusan & Sudut Guru | 25:47.07 | 26:58.53 | 71.5s | Amin Najmi |
+| I – Cadangan lain | 27:00.33 | 28:41.87 | 101.5s | Mohamad Aliff |
+| J – Harapan | 28:43.27 | 29:20.90 | 37.6s | Mohamad Aliff |
+| K – Penutup | 29:21.30 | 29:45.13 | 23.8s | Mohamad Aliff |
+| Outro (syot berkumpulan + slogan + kad terima kasih & rujukan, fade-out) | 29:45.13 | 30:00.00 | 14.9s | Semua |
 
 > Susunan skrip asal A→K dikekalkan. Masa setiap bahagian berbeza sedikit daripada jadual skrip (cth. H bermula 19:20 berbanding 18:20) kerana mengikut tempoh sebenar rakaman pembentang – **tiada suara dipercepat atau diubah**. Jumlah keseluruhan dikunci tepat 30:00.
 
@@ -48,9 +48,9 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 | Sumber (mula–tamat) | Tempoh | Sebab |
 |---|---|---|
 | 00:00.00 – 00:01.33 | 1.3s | Jeda panjang dipendekkan (tiada isi dibuang) |
-| 01:06.47 – 01:25.40 | 18.9s | Take 1 bahagian nama pembentang (diganti take 2 yang lebih kemas) |
+| 01:06.47 – 01:22.77 | 16.3s | Take 1 bahagian nama pembentang (diganti take 2 yang lebih kemas) |
 | 02:04.27 – 02:33.73 | 29.5s | Perbualan luar skrip antara take ("aku cakap nanti korang akan masuk…") |
-| 02:45.57 – 03:33.93 | 48.4s | Take 2 ayat pengenalan – sebutan "kerancuan" tidak tepat; diganti ayat yang sama daripada take 1 |
+| 02:42.57 – 03:33.93 | 51.4s | Take 2 ayat pengenalan – sebutan "kerancuan" tidak tepat; diganti ayat yang sama daripada take 1 |
 | 03:37.00 – 03:38.23 | 1.2s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 04:44.30 – 04:44.97 | 0.7s | Jeda panjang dipendekkan (tiada isi dibuang) |
 | 05:59.93 – 06:07.33 | 7.4s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
@@ -94,7 +94,7 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 | 32:57.73 – 33:11.47 | 13.7s | Take pertama Bahagian J terhenti ("Yang ini tak boleh…") |
 | 34:12.97 – 34:18.10 | 5.1s | Senyap / peralihan antara rakaman (tiada isi dibuang) |
 
-**Jumlah dibuang: 336.9s** daripada 2058.1s rakaman (pengambilan semula, perbualan luar skrip, tergagap dan jeda melebihi 1 saat). Tiada definisi, contoh ayat, analisis, penerangan permainan, fungsi guru atau harapan dibuang.
+**Jumlah dibuang: 337.3s** daripada 2058.1s rakaman (pengambilan semula, perbualan luar skrip, tergagap dan jeda melebihi 1 saat). Tiada definisi, contoh ayat, analisis, penerangan permainan, fungsi guru atau harapan dibuang.
 
 **Susunan semula (ikut skrip asal):** Dalam rakaman, contoh 2–4 Bahagian D, contoh 2–3 Bahagian E dan contoh 2–3 Bahagian F dirakam *selepas* bahagian "kesan". Ia disusun semula supaya urutan ialah: contoh → kesan → serah tugas, seperti dalam skrip.
 
@@ -102,63 +102,63 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 
 | Masa video | Sumber gameplay | Kelajuan | Catatan |
 |---|---|---|---|
-| 18:00.20–18:09.77 | 17:37.00–18:05.00 | 2.93× | dipercepat 2.9× (perjalanan/menunggu) |
-| 18:43.97–19:09.40 | 02:15.00–02:52.00 | 1.46× | dipercepat 1.5× (perjalanan/menunggu) |
-| 19:18.93–19:25.27 | 00:14.00–00:20.33 | 1.00× | kelajuan normal (detik penting) |
-| 19:25.27–19:33.27 | 00:33.00–00:41.00 | 1.00× | kelajuan normal (detik penting) |
-| 19:33.27–19:49.00 | 00:41.00–01:07.00 | 1.65× | dipercepat 1.7× (perjalanan/menunggu) |
-| 19:49.00–20:06.37 | 01:28.00–01:45.37 | 1.00× | kelajuan normal (detik penting) |
-| 20:06.37–20:13.50 | 01:40.50–01:47.63 | 1.00× | kelajuan normal (detik penting) |
-| 20:13.50–20:22.73 | 01:48.00–01:57.23 | 1.00× | kelajuan normal (detik penting) |
-| 20:22.73–20:38.00 | 01:07.00–01:22.27 | 1.00× | kelajuan normal (detik penting) |
-| 20:38.00–20:49.77 | 01:16.00–01:27.77 | 1.00× | kelajuan normal (detik penting) |
-| 20:49.77–21:01.70 | 02:01.00–02:13.00 | 1.01× | kelajuan normal (detik penting) |
-| 21:01.70–21:02.30 | 02:10.00–02:12.40 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 21:02.30–21:13.07 | 02:14.00–02:38.00 | 2.23× | dipercepat 2.2× (perjalanan/menunggu) |
-| 21:13.07–21:30.13 | 02:38.00–02:55.07 | 1.00× | kelajuan normal (detik penting) |
-| 21:30.13–21:37.33 | 00:00.00–00:07.20 | 1.00× | kelajuan normal (detik penting) |
-| 21:37.33–21:55.17 | 01:56.50–02:14.33 | 1.00× | kelajuan normal (detik penting) |
-| 21:55.17–21:55.77 | 02:52.00–02:52.60 | 1.00× | kelajuan normal (detik penting) |
-| 21:55.77–22:04.93 | 02:56.00–03:05.17 | 1.00× | kelajuan normal (detik penting) |
-| 22:04.93–22:14.87 | 03:12.00–03:23.00 | 1.11× | dipercepat 1.1× (perjalanan/menunggu) |
-| 22:14.87–22:20.67 | 03:23.00–03:28.80 | 1.00× | kelajuan normal (detik penting) |
-| 22:20.67–22:38.93 | 03:26.00–03:44.27 | 1.00× | kelajuan normal (detik penting) |
-| 22:38.93–22:44.93 | 03:44.00–03:58.60 | 2.43× | dipercepat 2.4× (perjalanan/menunggu) |
-| 22:44.93–22:57.83 | 03:58.60–04:11.50 | 1.00× | kelajuan normal (detik penting) |
-| 22:57.83–23:07.20 | 04:06.00–04:15.37 | 1.00× | kelajuan normal (detik penting) |
-| 23:07.20–23:10.07 | 10:24.00–10:28.90 | 1.71× | dipercepat 1.7× (perjalanan/menunggu) |
-| 23:10.07–23:21.50 | 10:28.90–10:40.33 | 1.00× | kelajuan normal (detik penting) |
-| 23:21.50–23:29.30 | 10:34.50–10:48.00 | 1.73× | dipercepat 1.7× (perjalanan/menunggu) |
-| 23:29.30–23:34.50 | 10:48.00–10:53.20 | 1.00× | kelajuan normal (detik penting) |
-| 23:34.50–23:37.70 | 10:51.60–10:54.80 | 1.00× | kelajuan normal (detik penting) |
-| 23:37.70–23:40.70 | 06:12.00–06:24.00 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 23:40.70–23:51.60 | 06:25.00–06:50.00 | 2.29× | dipercepat 2.3× (perjalanan/menunggu) |
-| 23:51.60–23:59.13 | 06:50.00–06:57.53 | 1.00× | kelajuan normal (detik penting) |
-| 23:59.13–24:06.27 | 07:06.50–07:25.00 | 2.59× | dipercepat 2.6× (perjalanan/menunggu) |
-| 24:06.27–24:11.40 | 07:25.00–07:30.13 | 1.00× | kelajuan normal (detik penting) |
-| 24:11.40–24:14.47 | 07:36.00–07:39.07 | 1.00× | kelajuan normal (detik penting) |
-| 24:14.47–24:14.67 | 07:43.00–07:43.20 | 1.00× | kelajuan normal (detik penting) |
-| 24:14.67–24:19.53 | 07:53.00–07:57.87 | 1.00× | kelajuan normal (detik penting) |
-| 24:19.53–24:26.67 | 07:58.70–08:05.83 | 1.00× | kelajuan normal (detik penting) |
-| 24:26.67–24:33.87 | 07:26.30–07:33.50 | 1.00× | kelajuan normal (detik penting) |
-| 24:33.87–24:45.10 | 07:43.30–07:54.53 | 1.00× | kelajuan normal (detik penting) |
-| 24:45.10–24:52.57 | 10:40.00–10:52.00 | 1.61× | dipercepat 1.6× (perjalanan/menunggu) |
-| 24:52.57–24:55.57 | 12:15.00–12:25.00 | 3.33× | dipercepat 3.3× (perjalanan/menunggu) |
-| 24:55.57–25:09.07 | 12:25.00–12:54.00 | 2.15× | dipercepat 2.1× (perjalanan/menunggu) |
-| 25:09.07–25:22.30 | 12:54.00–13:07.23 | 1.00× | kelajuan normal (detik penting) |
-| 25:22.30–25:25.57 | 13:32.70–13:35.97 | 1.00× | kelajuan normal (detik penting) |
-| 25:25.57–25:26.73 | 13:36.70–13:37.87 | 1.00× | kelajuan normal (detik penting) |
-| 25:26.73–25:32.50 | 15:23.20–15:28.97 | 1.00× | kelajuan normal (detik penting) |
-| 25:32.50–25:44.80 | 13:42.00–14:31.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 25:44.80–25:45.60 | 16:26.00–16:29.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
-| 25:45.60–25:52.10 | 16:29.50–16:36.00 | 1.00× | kelajuan normal (detik penting) |
-| 25:52.10–26:00.13 | 16:36.50–16:44.53 | 1.00× | kelajuan normal (detik penting) |
-| 26:00.13–26:18.53 | 16:43.00–17:01.40 | 1.00× | kelajuan normal (detik penting) |
-| 26:18.53–26:26.77 | 17:01.00–17:10.00 | 1.09× | dipercepat 1.1× (perjalanan/menunggu) |
-| 26:26.77–26:30.77 | 17:24.00–17:28.00 | 1.00× | kelajuan normal (detik penting) |
-| 26:30.77–26:42.97 | 19:53.00–20:05.20 | 1.00× | kelajuan normal (detik penting) |
-| 26:42.97–26:50.97 | 00:08.00–00:16.00 | 1.00× | kelajuan normal (detik penting) |
-| 26:50.97–26:57.07 | 00:16.00–00:22.10 | 1.00× | kelajuan normal (detik penting) |
+| 18:01.60–18:11.17 | 17:37.00–18:05.00 | 2.93× | dipercepat 2.9× (perjalanan/menunggu) |
+| 18:45.37–19:10.80 | 02:15.00–02:52.00 | 1.46× | dipercepat 1.5× (perjalanan/menunggu) |
+| 19:20.33–19:26.67 | 00:14.00–00:20.33 | 1.00× | kelajuan normal (detik penting) |
+| 19:26.67–19:34.67 | 00:33.00–00:41.00 | 1.00× | kelajuan normal (detik penting) |
+| 19:34.67–19:50.40 | 00:41.00–01:07.00 | 1.65× | dipercepat 1.7× (perjalanan/menunggu) |
+| 19:50.40–20:07.77 | 01:28.00–01:45.37 | 1.00× | kelajuan normal (detik penting) |
+| 20:07.77–20:14.90 | 01:40.50–01:47.63 | 1.00× | kelajuan normal (detik penting) |
+| 20:14.90–20:24.13 | 01:48.00–01:57.23 | 1.00× | kelajuan normal (detik penting) |
+| 20:24.13–20:39.40 | 01:07.00–01:22.27 | 1.00× | kelajuan normal (detik penting) |
+| 20:39.40–20:51.17 | 01:16.00–01:27.77 | 1.00× | kelajuan normal (detik penting) |
+| 20:51.17–21:03.10 | 02:01.00–02:13.00 | 1.01× | kelajuan normal (detik penting) |
+| 21:03.10–21:03.70 | 02:10.00–02:12.40 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 21:03.70–21:14.47 | 02:14.00–02:38.00 | 2.23× | dipercepat 2.2× (perjalanan/menunggu) |
+| 21:14.47–21:31.53 | 02:38.00–02:55.07 | 1.00× | kelajuan normal (detik penting) |
+| 21:31.53–21:38.73 | 00:00.00–00:07.20 | 1.00× | kelajuan normal (detik penting) |
+| 21:38.73–21:56.57 | 01:56.50–02:14.33 | 1.00× | kelajuan normal (detik penting) |
+| 21:56.57–21:57.17 | 02:52.00–02:52.60 | 1.00× | kelajuan normal (detik penting) |
+| 21:57.17–22:06.33 | 02:56.00–03:05.17 | 1.00× | kelajuan normal (detik penting) |
+| 22:06.33–22:16.30 | 03:12.00–03:23.00 | 1.10× | dipercepat 1.1× (perjalanan/menunggu) |
+| 22:16.30–22:22.13 | 03:23.00–03:28.83 | 1.00× | kelajuan normal (detik penting) |
+| 22:22.13–22:40.40 | 03:26.00–03:44.27 | 1.00× | kelajuan normal (detik penting) |
+| 22:40.40–22:46.40 | 03:44.00–03:58.60 | 2.43× | dipercepat 2.4× (perjalanan/menunggu) |
+| 22:46.40–22:59.30 | 03:58.60–04:11.50 | 1.00× | kelajuan normal (detik penting) |
+| 22:59.30–23:08.67 | 04:06.00–04:15.37 | 1.00× | kelajuan normal (detik penting) |
+| 23:08.67–23:11.53 | 10:24.00–10:28.90 | 1.71× | dipercepat 1.7× (perjalanan/menunggu) |
+| 23:11.53–23:22.97 | 10:28.90–10:40.33 | 1.00× | kelajuan normal (detik penting) |
+| 23:22.97–23:30.77 | 10:34.50–10:48.00 | 1.73× | dipercepat 1.7× (perjalanan/menunggu) |
+| 23:30.77–23:35.97 | 10:48.00–10:53.20 | 1.00× | kelajuan normal (detik penting) |
+| 23:35.97–23:39.17 | 10:51.60–10:54.80 | 1.00× | kelajuan normal (detik penting) |
+| 23:39.17–23:42.17 | 06:12.00–06:24.00 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 23:42.17–23:53.07 | 06:25.00–06:50.00 | 2.29× | dipercepat 2.3× (perjalanan/menunggu) |
+| 23:53.07–24:00.60 | 06:50.00–06:57.53 | 1.00× | kelajuan normal (detik penting) |
+| 24:00.60–24:07.73 | 07:06.50–07:25.00 | 2.59× | dipercepat 2.6× (perjalanan/menunggu) |
+| 24:07.73–24:12.87 | 07:25.00–07:30.13 | 1.00× | kelajuan normal (detik penting) |
+| 24:12.87–24:15.93 | 07:36.00–07:39.07 | 1.00× | kelajuan normal (detik penting) |
+| 24:15.93–24:16.13 | 07:43.00–07:43.20 | 1.00× | kelajuan normal (detik penting) |
+| 24:16.13–24:21.00 | 07:53.00–07:57.87 | 1.00× | kelajuan normal (detik penting) |
+| 24:21.00–24:28.13 | 07:58.70–08:05.83 | 1.00× | kelajuan normal (detik penting) |
+| 24:28.13–24:35.33 | 07:26.30–07:33.50 | 1.00× | kelajuan normal (detik penting) |
+| 24:35.33–24:46.57 | 07:43.30–07:54.53 | 1.00× | kelajuan normal (detik penting) |
+| 24:46.57–24:54.03 | 10:40.00–10:52.00 | 1.61× | dipercepat 1.6× (perjalanan/menunggu) |
+| 24:54.03–24:57.03 | 12:15.00–12:25.00 | 3.33× | dipercepat 3.3× (perjalanan/menunggu) |
+| 24:57.03–25:10.53 | 12:25.00–12:54.00 | 2.15× | dipercepat 2.1× (perjalanan/menunggu) |
+| 25:10.53–25:23.77 | 12:54.00–13:07.23 | 1.00× | kelajuan normal (detik penting) |
+| 25:23.77–25:27.03 | 13:32.70–13:35.97 | 1.00× | kelajuan normal (detik penting) |
+| 25:27.03–25:28.20 | 13:36.70–13:37.87 | 1.00× | kelajuan normal (detik penting) |
+| 25:28.20–25:33.97 | 15:23.20–15:28.97 | 1.00× | kelajuan normal (detik penting) |
+| 25:33.97–25:46.27 | 13:42.00–14:31.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 25:46.27–25:47.07 | 16:26.00–16:29.20 | 4.00× | dipercepat 4.0× (perjalanan/menunggu) |
+| 25:47.07–25:53.57 | 16:29.50–16:36.00 | 1.00× | kelajuan normal (detik penting) |
+| 25:53.57–26:01.60 | 16:36.50–16:44.53 | 1.00× | kelajuan normal (detik penting) |
+| 26:01.60–26:20.00 | 16:43.00–17:01.40 | 1.00× | kelajuan normal (detik penting) |
+| 26:20.00–26:28.23 | 17:01.00–17:10.00 | 1.09× | dipercepat 1.1× (perjalanan/menunggu) |
+| 26:28.23–26:32.23 | 17:24.00–17:28.00 | 1.00× | kelajuan normal (detik penting) |
+| 26:32.23–26:44.43 | 19:53.00–20:05.20 | 1.00× | kelajuan normal (detik penting) |
+| 26:44.43–26:52.43 | 00:08.00–00:16.00 | 1.00× | kelajuan normal (detik penting) |
+| 26:52.43–26:58.53 | 00:16.00–00:22.10 | 1.00× | kelajuan normal (detik penting) |
 
 * Suara pembentang **tidak pernah dipercepat** – hanya visual gameplay dilaraskan; audio permainan hanya dimainkan pada segmen kelajuan normal.
 * Speed ramp dipercepat ≥1.8× menggunakan pengadunan bingkai (motion blur ringan).
@@ -181,6 +181,14 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 13. **Blok biru (ULANG)**: klip gameplay 10:34 dan seterusnya – pemain memijak blok biru lalu terus ke soalan seterusnya.
 14. **Blok emas**: klip lobi (pandangan udara) daripada `Sudut guru.mp4`.
 
+### Pindaan versi 3 & 4
+
+* Pembentang 1 dipaparkan sebaik salam bermula; nama penuh Muhammad Iman Irfan dikekalkan dan dikuatkan.
+* Tetingkap pembentang lebih besar, panel maklumat lebih kecil; saiz tulisan kad dibesarkan; kotak penerangan demonstrasi dibesarkan.
+* Gameplay dipaparkan penuh (markah, BETUL/SALAH jelas) dengan jalur sarikata di bawah.
+* **Tiada tindihan maklumat**: pemeriksa automatik `overlap.py` menyemak setiap grafik sepanjang 30 minit (grafik bertindih/jarak < 14 px, grafik masuk ke tetingkap pembentang, grafik di atas pembentang skrin penuh) – keputusan **0 tindihan**.
+* Semakan bingkai video akhir: kad "Tiga Sebab" kini memaparkan huraian penuh (sebelum ini terpotong); kad ayat soalan yang menutup "SOALAN 1/2" dalam permainan dibuang (permainan sudah memaparkan ayat itu) dan kad penerangan dirapatkan ke penjuru kanan bawah.
+
 **Catatan kejujuran:** Misi 1 tiada rakaman jawapan salah, maka contoh SALAH −50 diambil daripada Misi 2 (berlabel). Tiada tangkap layar media sosial diberikan; petikan teks daripada dokumen bukti dipaparkan dengan nama akaun dikaburkan. Ejaan nama pembentang mengikut arahan tugasan – sila semak.
 
 ## 6. Sarikata
@@ -202,12 +210,11 @@ Semua fail boleh dibuka; tiada fail rosak. Fail asal tidak diubah (salinan kerja
 * Tempoh: 1800.000 s (30:00.000) – 54000 bingkai video ✅
 * Resolusi / FPS: 1920×1080 @ 30/1 ✅
 * Codec: h264 (High) + aac 48000 Hz 2 saluran ✅
-* Saiz fail: 1.05 GB
-* Skrin hitam: Tiada skrin hitam tidak disengajakan ✅ (0:00.0–0:00.6 dan 0:09.6–0:11.0 ialah detik gelap intro yang disengajakan; fade-out di 30:00)
-* Kekuatan audio: -16.03 LUFS, puncak -1.29 dBTP ✅
+* Saiz fail: 1.01 GB
+* Skrin hitam: [(0.0333333, 0.633333), (9.6, 10.9667)]
+* Kekuatan audio: -16.03 LUFS, puncak -1.34 dBTP ✅
 * Bilangan kiu sarikata: 421 (SRT + ASS dinamik)
-* Bilangan elemen grafik: 292
-* Semakan visual: Lembaran bingkai setiap 30 s disemak: susunan betul, tiada label bahagian, gameplay penuh lebar, grafik tidak menutup wajah/soalan ✅
+* Bilangan elemen grafik: 289
 
 ## 9. Fail projek
 

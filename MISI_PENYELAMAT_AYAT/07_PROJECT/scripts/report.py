@@ -119,6 +119,12 @@ L.append("1. Intro kini **tanpa klip Minecraft & tajuk Misi Penyelamat Ayat**: s
          "12. **Misi 2 Soalan 1** diselaraskan langkah demi langkah dengan penerangan Amin (soalan → peti 1 → peti 2 → bingkai → BETUL).\n"
          "13. **Blok biru (ULANG)**: klip gameplay 10:34 dan seterusnya – pemain memijak blok biru lalu terus ke soalan seterusnya.\n"
          "14. **Blok emas**: klip lobi (pandangan udara) daripada `Sudut guru.mp4`.\n")
+L.append("### Pindaan versi 3 & 4\n")
+L.append("* Pembentang 1 dipaparkan sebaik salam bermula; nama penuh Muhammad Iman Irfan dikekalkan dan dikuatkan.\n"
+         "* Tetingkap pembentang lebih besar, panel maklumat lebih kecil; saiz tulisan kad dibesarkan; kotak penerangan demonstrasi dibesarkan.\n"
+         "* Gameplay dipaparkan penuh (markah, BETUL/SALAH jelas) dengan jalur sarikata di bawah.\n"
+         "* **Tiada tindihan maklumat**: pemeriksa automatik `overlap.py` menyemak setiap grafik sepanjang 30 minit (grafik bertindih/jarak < 14 px, grafik masuk ke tetingkap pembentang, grafik di atas pembentang skrin penuh) – keputusan **0 tindihan**.\n"
+         "* Semakan bingkai video akhir: kad \"Tiga Sebab\" kini memaparkan huraian penuh (sebelum ini terpotong); kad ayat soalan yang menutup \"SOALAN 1/2\" dalam permainan dibuang (permainan sudah memaparkan ayat itu) dan kad penerangan dirapatkan ke penjuru kanan bawah.\n")
 L.append("**Catatan kejujuran:** Misi 1 tiada rakaman jawapan salah, maka contoh SALAH −50 diambil daripada Misi 2 (berlabel). Tiada tangkap layar media sosial diberikan; petikan teks daripada dokumen bukti dipaparkan dengan nama akaun dikaburkan. Ejaan nama pembentang mengikut arahan tugasan – sila semak.\n")
 L.append("## 6. Sarikata\n")
 L.append("* Dijana daripada transkripsi automatik (Whisper *medium*) **dijajarkan dengan skrip asal** perkataan demi perkataan: masa ikut audio sebenar, ejaan ikut skrip.\n"

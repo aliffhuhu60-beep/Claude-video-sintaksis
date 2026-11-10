@@ -52,6 +52,14 @@ def build(P, T, A, G, gaps_by, R):
     def rc_stack(items, top=200, gap=28, bottom=880):
         stack(items, top, gap, bottom, area=(RC_X, RC_X + RC_W), z=20)
 
+    def rc_bottom(items, gap=28, bottom=880):
+        """Lajur kanan dirapatkan ke bawah kawasan permainan – tidak menutup soalan di tengah/atas skrin."""
+        ok = [it for it in items if it.get("img") is not None and it.get("t0") is not None]
+        if not ok:
+            return
+        tot = sum(vis_box(it["img"])[3] - vis_box(it["img"])[1] for it in ok) + gap * (len(ok) - 1)
+        rc_stack(ok, top=bottom - tot, gap=gap, bottom=bottom)
+
     def evidence_wall(tag, jenis, accent, title, extra=None):
         gg = g(tag)
         for s_ in P.v1:
@@ -632,8 +640,8 @@ def build(P, T, A, G, gaps_by, R):
               ("Belajar melalui permainan", "Misi, markah, pingat & papan kedudukan.", "medal", "akhir sekali")]
         for i, (ti, bd, ic, kk) in enumerate(rs):
             tk = A(kk, "G", after=t_pilih) or t_pilih + 3 + 8 * i
-            c = icon_card(i + 1, ti, bd, ic, LGREEN, w=900, h=190)
-            L(c, tk, t_dunia, (20, 250 + i * 215), "left", "fade", 0.5, 0.4, z=12, name=f"mc sebab {i}")
+            c = icon_card(i + 1, ti, bd, ic, LGREEN, w=900, compact=True)
+            L(c, tk, t_dunia, (20, 250 + i * 200), "left", "fade", 0.5, 0.4, z=12, name=f"mc sebab {i}")
             S(tk, "sfx_pop", 0.2)
     if t_dunia:
         P.gshots(t_dunia - 0.3, t_sek, [(135.0, 172.0, "t")], "G-gerbang", cam={})
@@ -792,11 +800,11 @@ def build(P, T, A, G, gaps_by, R):
     tq = A("Soalan pertama", "H4"); tpb = A("Murid perlu membuka Peti satu", "H4"); tjd = A("Jawapan terus disemak", "H4")
     tpe = A("Perhatikan bahawa peti juga", "H4"); tss = A("Jika murid tersalah susun", "H4")
     side(tq, tpb)
-    rc_stack([{"img": sentence_box("salah", "Rumah Ali yang besar di hujung kampung itu.", w=616, label="Soalan 1", size=32), "t0": tq + 0.3 if tq else None, "t1": tpb, "name": "soalan rumah ali", "snd": None, "ain": "right"},
-              {"img": keypoint_card("MENGAPA SALAH?", "[R:Tiada predikat]", None, accent=RED, w=600), "t0": A("Ayat ini tidak lengkap", "H4"), "t1": tpb, "name": "tiada predikat", "ain": "right"}])
+    # ayat soalan sudah dipaparkan oleh permainan – hanya kad analisis, dirapatkan ke bawah
+    rc_bottom([{"img": keypoint_card("MENGAPA SALAH?", "[R:Tiada predikat]", None, accent=RED, w=600), "t0": A("Ayat ini tidak lengkap", "H4"), "t1": tpb, "name": "tiada predikat", "ain": "right"}])
     side(tjd, tss)
-    rc_stack([{"img": formula_row([block("Rumah Ali yang besar itu", "SUBJEK", BLUE, w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 3.4, "t1": tpe, "name": "S", "ain": "right"},
-              {"img": formula_row([block("terletak di hujung kampung.", "PREDIKAT", (46, 160, 70), w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 4.0, "t1": tpe, "name": "P", "ain": "right"}])
+    rc_bottom([{"img": formula_row([block("Rumah Ali yang besar itu", "SUBJEK", BLUE, w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 3.4, "t1": tpe, "name": "S", "ain": "right"},
+               {"img": formula_row([block("terletak di hujung kampung.", "PREDIKAT", (46, 160, 70), w=520, h=110, tsize=30)], op_size=40), "t0": (tjd or 0) + 4.0, "t1": tpe, "name": "P", "ain": "right"}])
     rc_stack([{"img": keypoint_card("PILIHAN PENGECOH", "“Kerana rumah Ali”", "Klausa [R:tergantung].", accent=RED, w=600), "t0": (tpe or 0) + 1.5, "t1": tss, "name": "pengecoh1", "ain": "right"},
               {"img": keypoint_card("PILIHAN PENGECOH", "“yang di hujung kampung”", "Masih [R:tiada predikat].", accent=RED, w=600), "t0": (tpe or 0) + 2.5, "t1": tss, "name": "pengecoh2", "ain": "right"}])
     side(tss, sec_end("H4"))
@@ -819,8 +827,7 @@ def build(P, T, A, G, gaps_by, R):
     plus100(816.9)
     t1q = A("Soalan pertama ialah", "H5"); tml = A("Saya melompat ke platform A", "H5")
     side(t1q, tml)
-    rc_stack([{"img": sentence_box("salah", "Saya sangat [r:happy] kerana dapat hadiah.", w=616, label="Soalan 1", size=32), "t0": (t1q or 0) + 0.3, "t1": tml, "name": "soalan happy", "ain": "right"},
-              {"img": keypoint_card("PILIHAN", "gembira  •  happy  •  marah", None, accent=PURPLE, w=600), "t0": A("Pilihannya ialah", "H5"), "t1": tml, "name": "pilihan", "ain": "right"}])
+    rc_bottom([{"img": keypoint_card("PILIHAN", "gembira  •  happy  •  marah", None, accent=PURPLE, w=600), "t0": A("Pilihannya ialah", "H5"), "t1": tml, "name": "pilihan", "ain": "right"}])
     tw_ = A("Jika murid jatuh ke dalam air", "H5")
     if tw_:
         lb = pill("Jatuh ke air: kembali ke permulaan", F("mb", 22), fg=WHITE, bg=(30, 90, 170))
